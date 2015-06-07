@@ -1,0 +1,470 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-06-07 14:55+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man8/mkfs.cramfs.8:1 raw/man8/fsck.8:4
+#: raw/man8/raw.8:1 raw/man8/hwclock.8:21 raw/man8/mkswap.8:5
+#: raw/man8/resizepart.8:5 raw/man8/nologin.8:1 raw/man8/wipefs.8:4
+#: raw/man8/sfdisk.8:13 raw/man8/blockdev.8:5 raw/man8/fstrim.8:1
+#: raw/man8/mount.8:30 raw/man8/fsfreeze.8:1 raw/man8/pivot_root.8:1
+#: raw/man8/mkfs.8:1 raw/man8/blkid.8:4 raw/man8/swaplabel.8:5
+#: raw/man8/ctrlaltdel.8:3 raw/man8/mkfs.bfs.8:3 raw/man8/partx.8:7
+#: raw/man8/wdctl.8:4 raw/man8/ldattach.8:3 raw/man8/zramctl.8:1
+#: raw/man8/swapon.8:34 raw/man8/cfdisk.8:14 raw/man8/findfs.8:4
+#: raw/man8/setarch.8:1 raw/man8/mkfs.minix.8:3 raw/man8/readprofile.8:1
+#: raw/man8/losetup.8:1 raw/man8/switch_root.8:2 raw/man8/lslocks.8:5
+#: raw/man8/chcpu.8:1 raw/man8/fsck.cramfs.8:1 raw/man8/vipw.8:34
+#: raw/man8/lsblk.8:1 raw/man8/delpart.8:5 raw/man8/fdformat.8:3
+#: raw/man8/umount.8:25 raw/man8/agetty.8:1 raw/man5/terminal-colors.d.5:6
+#: raw/man5/fstab.5:34 raw/man1/hexdump.1:34 raw/man1/kill.1:4
+#: raw/man1/tailf.1:24 raw/man1/rename.1:4 raw/man1/login.1:3
+#: raw/man1/setterm.1:7 raw/man1/colrm.1:34 raw/man1/runuser.1:1
+#: raw/man1/nsenter.1:1 raw/man1/mesg.1:34 raw/man1/write.1:37
+#: raw/man1/flock.1:27 raw/man1/taskset.1:23 raw/man1/chfn.1:9
+#: raw/man1/line.1:2 raw/man1/chsh.1:9 raw/man1/setsid.1:3 raw/man1/col.1:37
+#: raw/man1/scriptreplay.1:1 raw/man1/ionice.1:1 raw/man1/colcrt.1:34
+#: raw/man1/newgrp.1:3 raw/man1/last-deprecated.1:1 raw/man1/chrt.1:23
+#: raw/man1/rev.1:34 raw/man1/dmesg.1:3 raw/man1/pg.1:2 raw/man1/look.1:34
+#: raw/man1/fallocate.1:1 raw/man1/logger.1:34 raw/man1/script.1:34
+#: raw/man1/more.1:37 raw/man1/unshare.1:1 raw/man1/last.1:17
+#: raw/man1/lslogins.1:3 raw/man1/uuidgen.1:4 raw/man1/renice.1:34
+#: raw/man1/mcookie.1:3 raw/man1/ipcs.1:3 raw/man1/ul.1:34
+#: raw/man1/column.1:34 raw/man1/lscpu.1:1 raw/man1/su.1:1
+#: raw/man1/setpriv.1:1 raw/man1/ipcmk.1:3 raw/man1/reset.1:3
+#: raw/man1/cal.1:37 raw/man1/getopt.1:1 raw/man1/utmpdump.1:17
+#: raw/man1/namei.1:1 raw/man1/prlimit.1:5 raw/man1/wall.1:34
+#: raw/man1/ipcrm.1:3 raw/man1/mountpoint.1:1 raw/man1/whereis.1:33
+#: raw/man3/uuid_compare.3:32 raw/man3/uuid_generate.3:32
+#: raw/man3/uuid_is_null.3:32 raw/man3/uuid_unparse.3:32 raw/man3/libblkid.3:9
+#: raw/man3/uuid.3:32 raw/man3/uuid_time.3:32 raw/man3/uuid_parse.3:32
+#: raw/man3/uuid_copy.3:32 raw/man3/uuid_clear.3:32
+#, no-wrap
+msgid "util-linux"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:20 raw/man8/blkdiscard.8:2 raw/man8/sulogin.8:19
+#: raw/man8/isosize.8:2 raw/man8/tunelp.8:8 raw/man8/fsck.minix.8:4
+#: raw/man8/fdisk.8:8 raw/man8/findmnt.8:2 raw/man8/uuidd.8:6
+#: raw/man8/addpart.8:6 raw/man8/mkfs.cramfs.8:2 raw/man8/fsck.8:5
+#: raw/man8/raw.8:2 raw/man8/hwclock.8:22 raw/man8/mkswap.8:6
+#: raw/man8/resizepart.8:6 raw/man8/nologin.8:2 raw/man8/wipefs.8:5
+#: raw/man8/sfdisk.8:14 raw/man8/blockdev.8:6 raw/man8/fstrim.8:2
+#: raw/man8/mount.8:31 raw/man8/fsfreeze.8:2 raw/man8/pivot_root.8:2
+#: raw/man8/mkfs.8:2 raw/man8/blkid.8:5 raw/man8/swaplabel.8:6
+#: raw/man8/ctrlaltdel.8:4 raw/man8/mkfs.bfs.8:4 raw/man8/partx.8:8
+#: raw/man8/wdctl.8:5 raw/man8/ldattach.8:4 raw/man8/zramctl.8:2
+#: raw/man8/swapon.8:35 raw/man8/cfdisk.8:15 raw/man8/findfs.8:5
+#: raw/man8/setarch.8:2 raw/man8/mkfs.minix.8:4 raw/man8/readprofile.8:2
+#: raw/man8/losetup.8:2 raw/man8/switch_root.8:3 raw/man8/lslocks.8:6
+#: raw/man8/chcpu.8:2 raw/man8/fsck.cramfs.8:2 raw/man8/vipw.8:35
+#: raw/man8/lsblk.8:2 raw/man8/delpart.8:6 raw/man8/fdformat.8:4
+#: raw/man8/umount.8:26 raw/man8/agetty.8:2 raw/man5/hwclock.5:2
+#: raw/man5/terminal-colors.d.5:7 raw/man5/fstab.5:35 raw/man1/hexdump.1:35
+#: raw/man1/kill.1:5 raw/man1/tailf.1:25 raw/man1/rename.1:5
+#: raw/man1/login.1:4 raw/man1/setterm.1:8 raw/man1/colrm.1:35
+#: raw/man1/runuser.1:2 raw/man1/nsenter.1:2 raw/man1/mesg.1:35
+#: raw/man1/write.1:38 raw/man1/flock.1:28 raw/man1/taskset.1:24
+#: raw/man1/chfn.1:10 raw/man1/line.1:3 raw/man1/chsh.1:10 raw/man1/setsid.1:4
+#: raw/man1/col.1:38 raw/man1/scriptreplay.1:2 raw/man1/ionice.1:2
+#: raw/man1/colcrt.1:35 raw/man1/newgrp.1:4 raw/man1/last-deprecated.1:2
+#: raw/man1/chrt.1:24 raw/man1/rev.1:35 raw/man1/dmesg.1:4 raw/man1/pg.1:3
+#: raw/man1/look.1:35 raw/man1/fallocate.1:2 raw/man1/logger.1:35
+#: raw/man1/script.1:35 raw/man1/more.1:38 raw/man1/unshare.1:2
+#: raw/man1/last.1:18 raw/man1/lslogins.1:4 raw/man1/uuidgen.1:5
+#: raw/man1/renice.1:35 raw/man1/mcookie.1:4 raw/man1/ipcs.1:4
+#: raw/man1/ul.1:35 raw/man1/column.1:35 raw/man1/lscpu.1:2 raw/man1/eject.1:8
+#: raw/man1/su.1:2 raw/man1/setpriv.1:2 raw/man1/ipcmk.1:4 raw/man1/reset.1:4
+#: raw/man1/cal.1:38 raw/man1/getopt.1:2 raw/man1/utmpdump.1:18
+#: raw/man1/namei.1:2 raw/man1/prlimit.1:6 raw/man1/wall.1:35
+#: raw/man1/ipcrm.1:4 raw/man1/mountpoint.1:2 raw/man1/whereis.1:34
+#: raw/man3/uuid_compare.3:33 raw/man3/uuid_generate.3:33
+#: raw/man3/uuid_is_null.3:33 raw/man3/uuid_unparse.3:33
+#: raw/man3/libblkid.3:10 raw/man3/uuid.3:33 raw/man3/uuid_time.3:33
+#: raw/man3/uuid_parse.3:33 raw/man3/uuid_copy.3:33 raw/man3/uuid_clear.3:33
+#, no-wrap
+msgid "NAME"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:22 raw/man8/blkdiscard.8:4 raw/man8/sulogin.8:21
+#: raw/man8/isosize.8:4 raw/man8/tunelp.8:10 raw/man8/fsck.minix.8:6
+#: raw/man8/fdisk.8:11 raw/man8/findmnt.8:4 raw/man8/uuidd.8:8
+#: raw/man8/addpart.8:8 raw/man8/mkfs.cramfs.8:4 raw/man8/fsck.8:7
+#: raw/man8/raw.8:4 raw/man8/hwclock.8:24 raw/man8/mkswap.8:8
+#: raw/man8/resizepart.8:8 raw/man8/nologin.8:4 raw/man8/wipefs.8:7
+#: raw/man8/sfdisk.8:16 raw/man8/blockdev.8:8 raw/man8/fstrim.8:4
+#: raw/man8/mount.8:33 raw/man8/fsfreeze.8:4 raw/man8/pivot_root.8:4
+#: raw/man8/mkfs.8:4 raw/man8/blkid.8:7 raw/man8/swaplabel.8:8
+#: raw/man8/ctrlaltdel.8:6 raw/man8/mkfs.bfs.8:6 raw/man8/partx.8:10
+#: raw/man8/wdctl.8:7 raw/man8/ldattach.8:6 raw/man8/zramctl.8:4
+#: raw/man8/swapon.8:37 raw/man8/cfdisk.8:17 raw/man8/findfs.8:7
+#: raw/man8/setarch.8:4 raw/man8/mkfs.minix.8:6 raw/man8/readprofile.8:4
+#: raw/man8/losetup.8:4 raw/man8/switch_root.8:5 raw/man8/lslocks.8:8
+#: raw/man8/chcpu.8:4 raw/man8/fsck.cramfs.8:4 raw/man8/vipw.8:37
+#: raw/man8/lsblk.8:4 raw/man8/delpart.8:8 raw/man8/fdformat.8:6
+#: raw/man8/umount.8:28 raw/man8/agetty.8:5 raw/man5/terminal-colors.d.5:9
+#: raw/man5/fstab.5:37 raw/man1/hexdump.1:37 raw/man1/kill.1:7
+#: raw/man1/tailf.1:27 raw/man1/rename.1:7 raw/man1/login.1:6
+#: raw/man1/setterm.1:10 raw/man1/colrm.1:37 raw/man1/runuser.1:4
+#: raw/man1/nsenter.1:4 raw/man1/mesg.1:37 raw/man1/write.1:40
+#: raw/man1/flock.1:30 raw/man1/taskset.1:26 raw/man1/chfn.1:12
+#: raw/man1/line.1:5 raw/man1/chsh.1:12 raw/man1/setsid.1:6 raw/man1/col.1:40
+#: raw/man1/scriptreplay.1:4 raw/man1/ionice.1:4 raw/man1/colcrt.1:37
+#: raw/man1/newgrp.1:6 raw/man1/last-deprecated.1:4 raw/man1/chrt.1:26
+#: raw/man1/rev.1:37 raw/man1/dmesg.1:6 raw/man1/pg.1:5 raw/man1/look.1:37
+#: raw/man1/fallocate.1:4 raw/man1/logger.1:37 raw/man1/script.1:37
+#: raw/man1/more.1:40 raw/man1/unshare.1:4 raw/man1/last.1:20
+#: raw/man1/lslogins.1:6 raw/man1/uuidgen.1:7 raw/man1/renice.1:37
+#: raw/man1/mcookie.1:6 raw/man1/ipcs.1:6 raw/man1/ul.1:37
+#: raw/man1/column.1:37 raw/man1/lscpu.1:4 raw/man1/eject.1:10 raw/man1/su.1:4
+#: raw/man1/setpriv.1:4 raw/man1/ipcmk.1:6 raw/man1/reset.1:6
+#: raw/man1/cal.1:40 raw/man1/getopt.1:4 raw/man1/utmpdump.1:20
+#: raw/man1/namei.1:4 raw/man1/prlimit.1:8 raw/man1/wall.1:37
+#: raw/man1/ipcrm.1:6 raw/man1/mountpoint.1:4 raw/man1/whereis.1:36
+#: raw/man3/uuid_compare.3:35 raw/man3/uuid_generate.3:36
+#: raw/man3/uuid_is_null.3:35 raw/man3/uuid_unparse.3:35
+#: raw/man3/libblkid.3:12 raw/man3/uuid.3:35 raw/man3/uuid_time.3:35
+#: raw/man3/uuid_parse.3:35 raw/man3/uuid_copy.3:35 raw/man3/uuid_clear.3:35
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:30 raw/man8/blkdiscard.8:13 raw/man8/sulogin.8:24
+#: raw/man8/isosize.8:7 raw/man8/tunelp.8:14 raw/man8/fsck.minix.8:10
+#: raw/man8/fdisk.8:19 raw/man8/findmnt.8:18 raw/man8/uuidd.8:11
+#: raw/man8/addpart.8:11 raw/man8/mkfs.cramfs.8:8 raw/man8/fsck.8:17
+#: raw/man8/raw.8:15 raw/man8/hwclock.8:29 raw/man8/mkswap.8:13
+#: raw/man8/resizepart.8:11 raw/man8/nologin.8:8 raw/man8/wipefs.8:13
+#: raw/man8/sfdisk.8:26 raw/man8/blockdev.8:20 raw/man8/fstrim.8:16
+#: raw/man8/mount.8:57 raw/man8/fsfreeze.8:9 raw/man8/pivot_root.8:7
+#: raw/man8/mkfs.8:9 raw/man8/blkid.8:51 raw/man8/swaplabel.8:15
+#: raw/man8/ctrlaltdel.8:8 raw/man8/mkfs.bfs.8:9 raw/man8/partx.8:21
+#: raw/man8/wdctl.8:11 raw/man8/ldattach.8:14 raw/man8/zramctl.8:39
+#: raw/man8/swapon.8:45 raw/man8/cfdisk.8:21 raw/man8/findfs.8:10
+#: raw/man8/setarch.8:18 raw/man8/mkfs.minix.8:17 raw/man8/readprofile.8:9
+#: raw/man8/losetup.8:61 raw/man8/switch_root.8:13 raw/man8/lslocks.8:12
+#: raw/man8/chcpu.8:14 raw/man8/fsck.cramfs.8:8 raw/man8/vipw.8:43
+#: raw/man8/lsblk.8:8 raw/man8/delpart.8:11 raw/man8/fdformat.8:9
+#: raw/man8/umount.8:43 raw/man8/agetty.8:10 raw/man5/hwclock.5:4
+#: raw/man5/terminal-colors.d.5:11 raw/man5/fstab.5:39 raw/man1/hexdump.1:40
+#: raw/man1/kill.1:20 raw/man1/tailf.1:31 raw/man1/rename.1:11
+#: raw/man1/login.1:21 raw/man1/setterm.1:13 raw/man1/colrm.1:40
+#: raw/man1/runuser.1:11 raw/man1/nsenter.1:9 raw/man1/mesg.1:41
+#: raw/man1/write.1:44 raw/man1/flock.1:42 raw/man1/taskset.1:35
+#: raw/man1/chfn.1:25 raw/man1/line.1:7 raw/man1/chsh.1:20
+#: raw/man1/setsid.1:11 raw/man1/col.1:43 raw/man1/scriptreplay.1:11
+#: raw/man1/ionice.1:39 raw/man1/colcrt.1:41 raw/man1/newgrp.1:9
+#: raw/man1/last-deprecated.1:20 raw/man1/chrt.1:35 raw/man1/rev.1:41
+#: raw/man1/dmesg.1:19 raw/man1/pg.1:14 raw/man1/look.1:41
+#: raw/man1/fallocate.1:22 raw/man1/logger.1:41 raw/man1/script.1:41
+#: raw/man1/more.1:44 raw/man1/unshare.1:9 raw/man1/last.1:28
+#: raw/man1/lslogins.1:12 raw/man1/uuidgen.1:10 raw/man1/renice.1:43
+#: raw/man1/mcookie.1:9 raw/man1/ipcs.1:9 raw/man1/ul.1:40
+#: raw/man1/column.1:40 raw/man1/lscpu.1:10 raw/man1/eject.1:14
+#: raw/man1/su.1:7 raw/man1/setpriv.1:9 raw/man1/ipcmk.1:9 raw/man1/reset.1:8
+#: raw/man1/cal.1:44 raw/man1/getopt.1:20 raw/man1/utmpdump.1:23
+#: raw/man1/namei.1:8 raw/man1/prlimit.1:17 raw/man1/wall.1:43
+#: raw/man1/ipcrm.1:13 raw/man1/mountpoint.1:15 raw/man1/whereis.1:42
+#: raw/man3/uuid_compare.3:41 raw/man3/uuid_generate.3:45
+#: raw/man3/uuid_is_null.3:41 raw/man3/uuid_unparse.3:43
+#: raw/man3/libblkid.3:18 raw/man3/uuid.3:37 raw/man3/uuid_time.3:41
+#: raw/man3/uuid_parse.3:41 raw/man3/uuid_copy.3:41 raw/man3/uuid_clear.3:41
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:152 raw/man8/blkdiscard.8:77 raw/man8/fsck.minix.8:79
+#: raw/man8/fdisk.8:331 raw/man8/findmnt.8:261 raw/man8/uuidd.8:87
+#: raw/man8/addpart.8:32 raw/man8/mkfs.cramfs.8:83 raw/man8/fsck.8:443
+#: raw/man8/hwclock.8:1069 raw/man8/mkswap.8:139 raw/man8/resizepart.8:29
+#: raw/man8/nologin.8:40 raw/man8/wipefs.8:103 raw/man8/sfdisk.8:403
+#: raw/man8/fstrim.8:116 raw/man8/mount.8:3206 raw/man8/fsfreeze.8:71
+#: raw/man8/pivot_root.8:67 raw/man8/mkfs.8:88 raw/man8/blkid.8:308
+#: raw/man8/swaplabel.8:67 raw/man8/ctrlaltdel.8:41 raw/man8/mkfs.bfs.8:54
+#: raw/man8/partx.8:172 raw/man8/ldattach.8:145 raw/man8/swapon.8:232
+#: raw/man8/cfdisk.8:185 raw/man8/findfs.8:76 raw/man8/mkfs.minix.8:80
+#: raw/man8/switch_root.8:48 raw/man8/lslocks.8:83 raw/man8/chcpu.8:100
+#: raw/man8/fsck.cramfs.8:54 raw/man8/vipw.8:72 raw/man8/lsblk.8:161
+#: raw/man8/delpart.8:19 raw/man8/fdformat.8:65 raw/man8/umount.8:196
+#: raw/man5/hwclock.5:38 raw/man5/fstab.5:233 raw/man1/kill.1:147
+#: raw/man1/tailf.1:62 raw/man1/rename.1:79 raw/man1/login.1:287
+#: raw/man1/setterm.1:269 raw/man1/colrm.1:62 raw/man1/runuser.1:221
+#: raw/man1/nsenter.1:163 raw/man1/mesg.1:96 raw/man1/write.1:91
+#: raw/man1/flock.1:179 raw/man1/taskset.1:109 raw/man1/chfn.1:74
+#: raw/man1/line.1:13 raw/man1/chsh.1:56 raw/man1/setsid.1:29
+#: raw/man1/col.1:140 raw/man1/scriptreplay.1:80 raw/man1/colcrt.1:77
+#: raw/man1/newgrp.1:24 raw/man1/chrt.1:142 raw/man1/rev.1:53
+#: raw/man1/dmesg.1:227 raw/man1/pg.1:220 raw/man1/look.1:105
+#: raw/man1/fallocate.1:120 raw/man1/logger.1:280 raw/man1/script.1:163
+#: raw/man1/more.1:219 raw/man1/unshare.1:120 raw/man1/last.1:194
+#: raw/man1/lslogins.1:115 raw/man1/uuidgen.1:55 raw/man1/renice.1:99
+#: raw/man1/mcookie.1:58 raw/man1/ipcs.1:79 raw/man1/ul.1:93
+#: raw/man1/column.1:92 raw/man1/lscpu.1:149 raw/man1/eject.1:178
+#: raw/man1/su.1:241 raw/man1/setpriv.1:144 raw/man1/ipcmk.1:41
+#: raw/man1/reset.1:37 raw/man1/getopt.1:452 raw/man1/utmpdump.1:71
+#: raw/man1/namei.1:74 raw/man1/prlimit.1:106 raw/man1/wall.1:82
+#: raw/man1/ipcrm.1:101 raw/man1/mountpoint.1:54 raw/man3/uuid_compare.3:60
+#: raw/man3/uuid_generate.3:116 raw/man3/uuid_is_null.3:55
+#: raw/man3/uuid_unparse.3:72 raw/man3/libblkid.3:74 raw/man3/uuid.3:57
+#: raw/man3/uuid_time.3:69 raw/man3/uuid_parse.3:64 raw/man3/uuid_copy.3:56
+#: raw/man3/uuid_clear.3:54
+#, no-wrap
+msgid "SEE ALSO"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:155 raw/man8/blkdiscard.8:79 raw/man8/sulogin.8:87
+#: raw/man8/isosize.8:35 raw/man8/tunelp.8:142 raw/man8/fsck.minix.8:131
+#: raw/man8/fdisk.8:337 raw/man8/findmnt.8:264 raw/man8/uuidd.8:90
+#: raw/man8/addpart.8:38 raw/man8/mkfs.cramfs.8:86 raw/man8/fsck.8:465
+#: raw/man8/raw.8:93 raw/man8/hwclock.8:1087 raw/man8/mkswap.8:142
+#: raw/man8/resizepart.8:36 raw/man8/nologin.8:48 raw/man8/wipefs.8:106
+#: raw/man8/sfdisk.8:416 raw/man8/blockdev.8:83 raw/man8/fstrim.8:118
+#: raw/man8/mount.8:3289 raw/man8/fsfreeze.8:73 raw/man8/pivot_root.8:73
+#: raw/man8/mkfs.8:104 raw/man8/blkid.8:313 raw/man8/swaplabel.8:64
+#: raw/man8/ctrlaltdel.8:47 raw/man8/mkfs.bfs.8:56 raw/man8/partx.8:194
+#: raw/man8/wdctl.8:64 raw/man8/ldattach.8:152 raw/man8/zramctl.8:117
+#: raw/man8/swapon.8:251 raw/man8/cfdisk.8:197 raw/man8/findfs.8:80
+#: raw/man8/setarch.8:89 raw/man8/mkfs.minix.8:84 raw/man8/readprofile.8:148
+#: raw/man8/losetup.8:182 raw/man8/switch_root.8:59 raw/man8/lslocks.8:88
+#: raw/man8/chcpu.8:102 raw/man8/fsck.cramfs.8:57 raw/man8/vipw.8:85
+#: raw/man8/lsblk.8:165 raw/man8/delpart.8:25 raw/man8/fdformat.8:72
+#: raw/man8/umount.8:204 raw/man8/agetty.8:449
+#: raw/man5/terminal-colors.d.5:186 raw/man5/fstab.5:245
+#: raw/man1/hexdump.1:375 raw/man1/kill.1:166 raw/man1/tailf.1:65
+#: raw/man1/rename.1:81 raw/man1/login.1:330 raw/man1/setterm.1:276
+#: raw/man1/colrm.1:71 raw/man1/runuser.1:230 raw/man1/nsenter.1:170
+#: raw/man1/mesg.1:107 raw/man1/write.1:99 raw/man1/flock.1:181
+#: raw/man1/taskset.1:125 raw/man1/chfn.1:79 raw/man1/line.1:15
+#: raw/man1/chsh.1:62 raw/man1/setsid.1:33 raw/man1/col.1:154
+#: raw/man1/scriptreplay.1:107 raw/man1/ionice.1:138 raw/man1/colcrt.1:101
+#: raw/man1/newgrp.1:32 raw/man1/last-deprecated.1:60 raw/man1/chrt.1:156
+#: raw/man1/rev.1:55 raw/man1/dmesg.1:241 raw/man1/pg.1:236
+#: raw/man1/look.1:116 raw/man1/fallocate.1:124 raw/man1/logger.1:288
+#: raw/man1/script.1:179 raw/man1/more.1:236 raw/man1/unshare.1:128
+#: raw/man1/last.1:189 raw/man1/lslogins.1:128 raw/man1/uuidgen.1:57
+#: raw/man1/renice.1:115 raw/man1/mcookie.1:63 raw/man1/ipcs.1:112
+#: raw/man1/ul.1:109 raw/man1/column.1:99 raw/man1/lscpu.1:151
+#: raw/man1/eject.1:183 raw/man1/su.1:250 raw/man1/setpriv.1:151
+#: raw/man1/ipcmk.1:48 raw/man1/reset.1:43 raw/man1/cal.1:130
+#: raw/man1/getopt.1:456 raw/man1/utmpdump.1:76 raw/man1/namei.1:77
+#: raw/man1/prlimit.1:118 raw/man1/wall.1:91 raw/man1/ipcrm.1:113
+#: raw/man1/mountpoint.1:56 raw/man1/whereis.1:162 raw/man3/uuid_compare.3:55
+#: raw/man3/uuid_generate.3:112 raw/man3/uuid_is_null.3:50
+#: raw/man3/uuid_unparse.3:67 raw/man3/libblkid.3:77 raw/man3/uuid.3:53
+#: raw/man3/uuid_time.3:64 raw/man3/uuid_parse.3:59 raw/man3/uuid_copy.3:51
+#: raw/man3/uuid_clear.3:49
+#, no-wrap
+msgid "AVAILABILITY"
+msgstr ""
+
+#. type: SH
+#: raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:83 raw/man8/fsck.minix.8:115
+#: raw/man8/uuidd.8:83 raw/man8/fsck.8:461 raw/man8/raw.8:91
+#: raw/man8/wipefs.8:98 raw/man8/sfdisk.8:410 raw/man8/blockdev.8:81
+#: raw/man8/fstrim.8:111 raw/man8/fsfreeze.8:64 raw/man8/blkid.8:302
+#: raw/man8/swaplabel.8:58 raw/man8/ctrlaltdel.8:43 raw/man8/ldattach.8:148
+#: raw/man8/cfdisk.8:191 raw/man8/findfs.8:63 raw/man8/setarch.8:81
+#: raw/man8/chcpu.8:93 raw/man8/fdformat.8:70 raw/man5/hwclock.5:35
+#: raw/man1/tailf.1:56 raw/man1/login.1:314 raw/man1/nsenter.1:166
+#: raw/man1/flock.1:170 raw/man1/taskset.1:119 raw/man1/chfn.1:77
+#: raw/man1/chsh.1:60 raw/man1/setsid.1:31 raw/man1/scriptreplay.1:92
+#: raw/man1/newgrp.1:28 raw/man1/chrt.1:150 raw/man1/unshare.1:126
+#: raw/man1/last.1:185 raw/man1/uuidgen.1:52 raw/man1/ipcs.1:108
+#: raw/man1/lscpu.1:143 raw/man1/setpriv.1:147 raw/man1/ipcmk.1:44
+#: raw/man1/reset.1:41 raw/man1/getopt.1:448 raw/man1/utmpdump.1:69
+#: raw/man1/namei.1:66 raw/man1/mountpoint.1:41 raw/man3/uuid_compare.3:53
+#: raw/man3/uuid_generate.3:110 raw/man3/uuid_is_null.3:48
+#: raw/man3/uuid_unparse.3:65 raw/man3/libblkid.3:64 raw/man3/uuid.3:51
+#: raw/man3/uuid_time.3:62 raw/man3/uuid_parse.3:57 raw/man3/uuid_copy.3:49
+#: raw/man3/uuid_clear.3:47
+#, no-wrap
+msgid "AUTHOR"
+msgstr ""
+
+#. type: SH
+#: raw/man8/zramctl.8:90 raw/man8/losetup.8:147 raw/man8/switch_root.8:31
+#: raw/man1/logger.1:226 raw/man3/uuid_compare.3:47
+#: raw/man3/uuid_generate.3:103 raw/man3/uuid_parse.3:50
+#: raw/man3/uuid_copy.3:46
+#, no-wrap
+msgid "RETURN VALUE"
+msgstr ""
+
+#. type: SH
+#: raw/man1/uuidgen.1:50 raw/man1/ipcs.1:89 raw/man3/uuid_generate.3:108
+#: raw/man3/uuid_unparse.3:63 raw/man3/uuid.3:49 raw/man3/uuid_parse.3:55
+#, no-wrap
+msgid "CONFORMING TO"
+msgstr ""
+
+#. type: Plain text
+#: raw/man1/uuidgen.1:52 raw/man3/uuid_generate.3:110
+#: raw/man3/uuid_unparse.3:65 raw/man3/uuid.3:51 raw/man3/uuid_parse.3:57
+msgid "OSF DCE 1.1"
+msgstr ""
+
+#. type: TH
+#: raw/man3/uuid_compare.3:32 raw/man3/uuid_generate.3:32
+#: raw/man3/uuid_is_null.3:32 raw/man3/uuid_unparse.3:32 raw/man3/libblkid.3:9
+#: raw/man3/uuid.3:32 raw/man3/uuid_time.3:32 raw/man3/uuid_parse.3:32
+#: raw/man3/uuid_copy.3:32 raw/man3/uuid_clear.3:32
+#, no-wrap
+msgid "May 2009"
+msgstr ""
+
+#. type: TH
+#: raw/man3/uuid_compare.3:32 raw/man3/uuid_generate.3:32
+#: raw/man3/uuid_is_null.3:32 raw/man3/uuid_unparse.3:32 raw/man3/uuid.3:32
+#: raw/man3/uuid_time.3:32 raw/man3/uuid_parse.3:32 raw/man3/uuid_copy.3:32
+#: raw/man3/uuid_clear.3:32
+#, no-wrap
+msgid "Libuuid API"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_compare.3:38 raw/man3/uuid_generate.3:39
+#: raw/man3/uuid_is_null.3:38 raw/man3/uuid_unparse.3:38
+#: raw/man3/uuid_time.3:38 raw/man3/uuid_parse.3:38 raw/man3/uuid_copy.3:38
+#: raw/man3/uuid_clear.3:38
+#, no-wrap
+msgid "B<#include E<lt>uuid.hE<gt>>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_compare.3:55 raw/man3/uuid_generate.3:112
+#: raw/man3/uuid_is_null.3:50 raw/man3/uuid_unparse.3:67 raw/man3/uuid.3:53
+#: raw/man3/uuid_time.3:64 raw/man3/uuid_parse.3:59 raw/man3/uuid_copy.3:51
+#: raw/man3/uuid_clear.3:49
+msgid "Theodore Y.\\& Ts'o"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_compare.3:59 raw/man3/uuid_generate.3:116
+#: raw/man3/uuid_is_null.3:54 raw/man3/uuid_unparse.3:71 raw/man3/uuid.3:57
+#: raw/man3/uuid_time.3:68 raw/man3/uuid_parse.3:63 raw/man3/uuid_copy.3:55
+#: raw/man3/uuid_clear.3:53
+msgid ""
+"B<libuuid> is part of the util-linux package since version 2.15.1 and is "
+"available from ftp://ftp.kernel.org/pub/linux/utils/util-linux/."
+msgstr ""
+
+#. type: TH
+#: raw/man3/uuid_generate.3:32
+#, no-wrap
+msgid "UUID_GENERATE"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:36
+msgid ""
+"uuid_generate, uuid_generate_random, uuid_generate_time, "
+"uuid_generate_time_safe - create a new unique UUID value"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:44
+#, no-wrap
+msgid ""
+"B<void uuid_generate(uuid_t >I<out>B<);>\n"
+"B<void uuid_generate_random(uuid_t >I<out>B<);>\n"
+"B<void uuid_generate_time(uuid_t >I<out>B<);>\n"
+"B<int uuid_generate_time_safe(uuid_t >I<out>B<);>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:56
+msgid ""
+"The B<uuid_generate> function creates a new universally unique identifier "
+"(UUID).  The uuid will be generated based on high-quality randomness from I</"
+"dev/urandom>, if available.  If it is not available, then B<uuid_generate> "
+"will use an alternative algorithm which uses the current time, the local "
+"ethernet MAC address (if available), and random data generated using a "
+"pseudo-random generator."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:66
+msgid ""
+"The B<uuid_generate_random> function forces the use of the all-random UUID "
+"format, even if a high-quality random number generator (i.e., I</dev/"
+"urandom>)  is not available, in which case a pseudo-random generator will be "
+"substituted.  Note that the use of a pseudo-random generator may compromise "
+"the uniqueness of UUIDs generated in this fashion."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:88
+msgid ""
+"The B<uuid_generate_time> function forces the use of the alternative "
+"algorithm which uses the current time and the local ethernet MAC address (if "
+"available).  This algorithm used to be the default one used to generate "
+"UUID, but because of the use of the ethernet MAC address, it can leak "
+"information about when and where the UUID was generated.  This can cause "
+"privacy problems in some applications, so the B<uuid_generate> function only "
+"uses this algorithm if a high-quality source of randomness is not "
+"available.  To guarantee uniqueness of UUIDs generated by concurrently "
+"running processes, the uuid library uses global clock state counter (if the "
+"process has permissions to gain exclusive access to this file) and/or the "
+"B<uuidd> daemon, if it is running already or can be spawned by the process "
+"(if installed and the process has enough permissions to run it).  If neither "
+"of these two synchronization mechanisms can be used, it is theoretically "
+"possible that two concurrently running processes obtain the same UUID(s).  "
+"To tell whether the UUID has been generated in a safe manner, use "
+"B<uuid_generate_time_safe>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:95
+msgid ""
+"The B<uuid_generate_time_safe> is similar to B<uuid_generate_time>, except "
+"that it returns a value which denotes whether any of the synchronization "
+"mechanisms (see above) has been used."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:103
+msgid ""
+"The UUID is 16 bytes (128 bits) long, which gives approximately 3.4x10^38 "
+"unique values (there are approximately 10^80 elementary particles in the "
+"universe according to Carl Sagan's I<Cosmos>).  The new UUID can reasonably "
+"be considered unique among all UUIDs created on the local system, and among "
+"UUIDs created on other systems in the past and in the future."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:108
+msgid ""
+"The newly created UUID is returned in the memory location pointed to by "
+"I<out>.  B<uuid_generate_time_safe> returns zero if the UUID has been "
+"generated in a safe manner, -1 otherwise."
+msgstr ""
+
+#. type: Plain text
+#: raw/man3/uuid_generate.3:126
+msgid ""
+"B<uuid>(3), B<uuidgen>(1), B<uuidd>(8), B<uuid_clear>(3), "
+"B<uuid_compare>(3), B<uuid_copy>(3), B<uuid_is_null>(3), B<uuid_parse>(3), "
+"B<uuid_time>(3), B<uuid_unparse>(3)"
+msgstr ""

@@ -1,0 +1,868 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-06-07 15:06+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man5/terminal-colors.d.5:6 raw/man5/fstab.5:34
+#: raw/man1/hexdump.1:34 raw/man1/kill.1:4 raw/man1/tailf.1:24
+#: raw/man1/rename.1:4 raw/man1/login.1:3 raw/man1/setterm.1:7
+#: raw/man1/colrm.1:34 raw/man1/runuser.1:1 raw/man1/nsenter.1:1
+#: raw/man1/mesg.1:34 raw/man1/write.1:37 raw/man1/flock.1:27
+#: raw/man1/taskset.1:23 raw/man1/chfn.1:9 raw/man1/line.1:2 raw/man1/chsh.1:9
+#: raw/man1/setsid.1:3 raw/man1/col.1:37 raw/man1/scriptreplay.1:1
+#: raw/man1/ionice.1:1 raw/man1/colcrt.1:34 raw/man1/newgrp.1:3
+#: raw/man1/last-deprecated.1:1 raw/man1/chrt.1:23 raw/man1/rev.1:34
+#: raw/man1/dmesg.1:3 raw/man1/pg.1:2 raw/man1/look.1:34
+#: raw/man1/fallocate.1:1 raw/man1/logger.1:34
+#, no-wrap
+msgid "util-linux"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5
+#, no-wrap
+msgid "System Administration"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:20 raw/man8/blkdiscard.8:2 raw/man8/sulogin.8:19
+#: raw/man8/isosize.8:2 raw/man8/tunelp.8:8 raw/man8/fsck.minix.8:4
+#: raw/man8/fdisk.8:8 raw/man8/findmnt.8:2 raw/man8/uuidd.8:6
+#: raw/man8/addpart.8:6 raw/man5/hwclock.5:2 raw/man5/terminal-colors.d.5:7
+#: raw/man5/fstab.5:35 raw/man1/hexdump.1:35 raw/man1/kill.1:5
+#: raw/man1/tailf.1:25 raw/man1/rename.1:5 raw/man1/login.1:4
+#: raw/man1/setterm.1:8 raw/man1/colrm.1:35 raw/man1/runuser.1:2
+#: raw/man1/nsenter.1:2 raw/man1/mesg.1:35 raw/man1/write.1:38
+#: raw/man1/flock.1:28 raw/man1/taskset.1:24 raw/man1/chfn.1:10
+#: raw/man1/line.1:3 raw/man1/chsh.1:10 raw/man1/setsid.1:4 raw/man1/col.1:38
+#: raw/man1/scriptreplay.1:2 raw/man1/ionice.1:2 raw/man1/colcrt.1:35
+#: raw/man1/newgrp.1:4 raw/man1/last-deprecated.1:2 raw/man1/chrt.1:24
+#: raw/man1/rev.1:35 raw/man1/dmesg.1:4 raw/man1/pg.1:3 raw/man1/look.1:35
+#: raw/man1/fallocate.1:2 raw/man1/logger.1:35
+#, no-wrap
+msgid "NAME"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:22 raw/man8/blkdiscard.8:4 raw/man8/sulogin.8:21
+#: raw/man8/isosize.8:4 raw/man8/tunelp.8:10 raw/man8/fsck.minix.8:6
+#: raw/man8/fdisk.8:11 raw/man8/findmnt.8:4 raw/man8/uuidd.8:8
+#: raw/man8/addpart.8:8 raw/man5/terminal-colors.d.5:9 raw/man5/fstab.5:37
+#: raw/man1/hexdump.1:37 raw/man1/kill.1:7 raw/man1/tailf.1:27
+#: raw/man1/rename.1:7 raw/man1/login.1:6 raw/man1/setterm.1:10
+#: raw/man1/colrm.1:37 raw/man1/runuser.1:4 raw/man1/nsenter.1:4
+#: raw/man1/mesg.1:37 raw/man1/write.1:40 raw/man1/flock.1:30
+#: raw/man1/taskset.1:26 raw/man1/chfn.1:12 raw/man1/line.1:5
+#: raw/man1/chsh.1:12 raw/man1/setsid.1:6 raw/man1/col.1:40
+#: raw/man1/scriptreplay.1:4 raw/man1/ionice.1:4 raw/man1/colcrt.1:37
+#: raw/man1/newgrp.1:6 raw/man1/last-deprecated.1:4 raw/man1/chrt.1:26
+#: raw/man1/rev.1:37 raw/man1/dmesg.1:6 raw/man1/pg.1:5 raw/man1/look.1:37
+#: raw/man1/fallocate.1:4 raw/man1/logger.1:37
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:30 raw/man8/blkdiscard.8:13 raw/man8/sulogin.8:24
+#: raw/man8/isosize.8:7 raw/man8/tunelp.8:14 raw/man8/fsck.minix.8:10
+#: raw/man8/fdisk.8:19 raw/man8/findmnt.8:18 raw/man8/uuidd.8:11
+#: raw/man8/addpart.8:11 raw/man5/hwclock.5:4 raw/man5/terminal-colors.d.5:11
+#: raw/man5/fstab.5:39 raw/man1/hexdump.1:40 raw/man1/kill.1:20
+#: raw/man1/tailf.1:31 raw/man1/rename.1:11 raw/man1/login.1:21
+#: raw/man1/setterm.1:13 raw/man1/colrm.1:40 raw/man1/runuser.1:11
+#: raw/man1/nsenter.1:9 raw/man1/mesg.1:41 raw/man1/write.1:44
+#: raw/man1/flock.1:42 raw/man1/taskset.1:35 raw/man1/chfn.1:25
+#: raw/man1/line.1:7 raw/man1/chsh.1:20 raw/man1/setsid.1:11 raw/man1/col.1:43
+#: raw/man1/scriptreplay.1:11 raw/man1/ionice.1:39 raw/man1/colcrt.1:41
+#: raw/man1/newgrp.1:9 raw/man1/last-deprecated.1:20 raw/man1/chrt.1:35
+#: raw/man1/rev.1:41 raw/man1/dmesg.1:19 raw/man1/pg.1:14 raw/man1/look.1:41
+#: raw/man1/fallocate.1:22 raw/man1/logger.1:41
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:45 raw/man8/blkdiscard.8:30 raw/man8/sulogin.8:43
+#: raw/man8/isosize.8:14 raw/man8/tunelp.8:20 raw/man8/fsck.minix.8:52
+#: raw/man8/fdisk.8:47 raw/man8/findmnt.8:39 raw/man8/uuidd.8:18
+#: raw/man5/hwclock.5:14 raw/man1/hexdump.1:46 raw/man1/kill.1:73
+#: raw/man1/rename.1:17 raw/man1/login.1:89 raw/man1/setterm.1:24
+#: raw/man1/colrm.1:55 raw/man1/runuser.1:51 raw/man1/nsenter.1:61
+#: raw/man1/mesg.1:69 raw/man1/flock.1:62 raw/man1/taskset.1:71
+#: raw/man1/chfn.1:53 raw/man1/chsh.1:31 raw/man1/setsid.1:14
+#: raw/man1/col.1:55 raw/man1/scriptreplay.1:44 raw/man1/ionice.1:83
+#: raw/man1/colcrt.1:47 raw/man1/last-deprecated.1:42 raw/man1/chrt.1:58
+#: raw/man1/rev.1:46 raw/man1/dmesg.1:24 raw/man1/pg.1:35 raw/man1/look.1:65
+#: raw/man1/fallocate.1:33 raw/man1/logger.1:48
+#, no-wrap
+msgid "OPTIONS"
+msgstr ""
+
+#. type: TP
+#: raw/man8/rtcwake.8:132 raw/man8/blkdiscard.8:70 raw/man8/findmnt.8:81
+#: raw/man1/hexdump.1:123 raw/man1/rename.1:27 raw/man1/runuser.1:144
+#: raw/man1/mesg.1:76 raw/man1/flock.1:112 raw/man1/setsid.1:26
+#: raw/man1/scriptreplay.1:67 raw/man1/ionice.1:106 raw/man1/dmesg.1:189
+#: raw/man1/pg.1:92 raw/man1/look.1:85 raw/man1/fallocate.1:109
+#: raw/man1/logger.1:223
+#, no-wrap
+msgid "B<-h>,B< --help>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/rtcwake.8:135 raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:69
+#: raw/man8/findmnt.8:84 raw/man1/hexdump.1:126 raw/man1/tailf.1:55
+#: raw/man1/rename.1:30 raw/man1/colrm.1:62 raw/man1/runuser.1:147
+#: raw/man1/nsenter.1:163 raw/man1/mesg.1:79 raw/man1/flock.1:115
+#: raw/man1/taskset.1:89 raw/man1/chfn.1:69 raw/man1/chsh.1:43
+#: raw/man1/setsid.1:29 raw/man1/col.1:88 raw/man1/scriptreplay.1:70
+#: raw/man1/ionice.1:109 raw/man1/colcrt.1:69 raw/man1/chrt.1:112
+#: raw/man1/rev.1:53 raw/man1/dmesg.1:192 raw/man1/pg.1:95 raw/man1/look.1:88
+#: raw/man1/fallocate.1:112 raw/man1/logger.1:226
+msgid "Display help text and exit."
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:145 raw/man8/fdisk.8:308 raw/man8/findmnt.8:257
+#: raw/man1/kill.1:154 raw/man1/ionice.1:133 raw/man1/dmesg.1:230
+#: raw/man1/fallocate.1:112
+#, no-wrap
+msgid "AUTHORS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:152 raw/man8/blkdiscard.8:77 raw/man8/fsck.minix.8:79
+#: raw/man8/fdisk.8:331 raw/man8/findmnt.8:261 raw/man8/uuidd.8:87
+#: raw/man8/addpart.8:32 raw/man5/hwclock.5:38 raw/man5/fstab.5:233
+#: raw/man1/kill.1:147 raw/man1/tailf.1:62 raw/man1/rename.1:79
+#: raw/man1/login.1:287 raw/man1/setterm.1:269 raw/man1/colrm.1:62
+#: raw/man1/runuser.1:221 raw/man1/nsenter.1:163 raw/man1/mesg.1:96
+#: raw/man1/write.1:91 raw/man1/flock.1:179 raw/man1/taskset.1:109
+#: raw/man1/chfn.1:74 raw/man1/line.1:13 raw/man1/chsh.1:56
+#: raw/man1/setsid.1:29 raw/man1/col.1:140 raw/man1/scriptreplay.1:80
+#: raw/man1/colcrt.1:77 raw/man1/newgrp.1:24 raw/man1/chrt.1:142
+#: raw/man1/rev.1:53 raw/man1/dmesg.1:227 raw/man1/pg.1:220
+#: raw/man1/look.1:105 raw/man1/fallocate.1:120 raw/man1/logger.1:280
+#, no-wrap
+msgid "SEE ALSO"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:155 raw/man8/blkdiscard.8:79 raw/man8/sulogin.8:87
+#: raw/man8/isosize.8:35 raw/man8/tunelp.8:142 raw/man8/fsck.minix.8:131
+#: raw/man8/fdisk.8:337 raw/man8/findmnt.8:264 raw/man8/uuidd.8:90
+#: raw/man8/addpart.8:38 raw/man5/terminal-colors.d.5:186 raw/man5/fstab.5:245
+#: raw/man1/hexdump.1:375 raw/man1/kill.1:166 raw/man1/tailf.1:65
+#: raw/man1/rename.1:81 raw/man1/login.1:330 raw/man1/setterm.1:276
+#: raw/man1/colrm.1:71 raw/man1/runuser.1:230 raw/man1/nsenter.1:170
+#: raw/man1/mesg.1:107 raw/man1/write.1:99 raw/man1/flock.1:181
+#: raw/man1/taskset.1:125 raw/man1/chfn.1:79 raw/man1/line.1:15
+#: raw/man1/chsh.1:62 raw/man1/setsid.1:33 raw/man1/col.1:154
+#: raw/man1/scriptreplay.1:107 raw/man1/ionice.1:138 raw/man1/colcrt.1:101
+#: raw/man1/newgrp.1:32 raw/man1/last-deprecated.1:60 raw/man1/chrt.1:156
+#: raw/man1/rev.1:55 raw/man1/dmesg.1:241 raw/man1/pg.1:236
+#: raw/man1/look.1:116 raw/man1/fallocate.1:124 raw/man1/logger.1:288
+#, no-wrap
+msgid "AVAILABILITY"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fdisk.8:77 raw/man8/findmnt.8:127
+#, no-wrap
+msgid "B<-o>,B< --output >I<list>"
+msgstr ""
+
+#. type: SH
+#: raw/man8/fdisk.8:321 raw/man8/findmnt.8:248
+#: raw/man5/terminal-colors.d.5:177
+#, no-wrap
+msgid "ENVIRONMENT"
+msgstr ""
+
+#. type: IP
+#: raw/man8/fdisk.8:328 raw/man8/findmnt.8:255
+#, no-wrap
+msgid "LIBSMARTCOLS_DEBUG=all"
+msgstr ""
+
+#. type: TH
+#: raw/man8/findmnt.8:1
+#, no-wrap
+msgid "FINDMNT"
+msgstr ""
+
+#. type: TH
+#: raw/man8/findmnt.8:1
+#, no-wrap
+msgid "June 2014"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:4
+msgid "findmnt - find a filesystem"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:7
+msgid "B<findmnt> [options]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:11
+msgid "B<findmnt> [options] I<device>|I<mountpoint>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:18
+msgid ""
+"B<findmnt> [options] [B<--source>] I<device> [B<--target>] I<mountpoint>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:32
+msgid ""
+"B<findmnt> will list all mounted filesytems or search for a filesystem.  The "
+"B<findmnt> command is able to search in I</etc/fstab>, I</etc/mtab> or I</"
+"proc/self/mountinfo>.  If I<device> or I<mountpoint> is not given, all "
+"filesystems are shown."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:37
+msgid ""
+"The device may be specified by device name, maj:min, filesystem LABEL or "
+"UUID, or partition PARTUUID or PARTLABEL.  Note that a device name may be "
+"interpreted as a mountpoint (and vice versa) if the B<--target> or B<--"
+"source> options are not specified."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:39
+msgid ""
+"The command prints all mounted filesystems in the tree-like format by "
+"default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:40
+#, no-wrap
+msgid "B<-A>,B< --all>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:43
+msgid "Disable all built-in filters and print all filesystems."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:43
+#, no-wrap
+msgid "B<-a>,B< --ascii>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:46
+msgid "Use ascii characters for tree formatting."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:46
+#, no-wrap
+msgid "B<-b>,B< --bytes>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:49
+msgid ""
+"Print the SIZE, USED and AVAIL column in bytes rather than in a human-"
+"readable format."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:49
+#, no-wrap
+msgid "B<-C>,B< --nocanonicalize>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:53
+msgid ""
+"Do not canonicalize paths at all.  This option affects the comparing of "
+"paths and the evaluation of tags (LABEL, UUID, etc.)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:53
+#, no-wrap
+msgid "B<-c>,B< --canonicalize>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:56
+msgid "Canonicalize all printed paths."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:56
+#, no-wrap
+msgid "B<-D>,B< --df>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:64
+msgid ""
+"Imitate the output of B<df>(1).  This option is equivalent to B<-o SOURCE,"
+"FSTYPE,SIZE,USED,AVAIL,USE%,TARGET> but excludes all pseudo filesystems.  "
+"Use B<--all> to print all filesystems."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:64
+#, no-wrap
+msgid "B<-d>,B< --direction >I<word>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:70
+msgid "The search direction, either B<forward> or B<backward>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:70
+#, no-wrap
+msgid "B<-e>,B< --evaluate>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:73
+msgid ""
+"Convert all tags (LABEL, UUID, PARTUUID or PARTLABEL) to the device names."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:73
+#, no-wrap
+msgid "B<-F>,B< --tab-file >I<path>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:78
+msgid ""
+"Search in an alternative file.  If used with B<--fstab>, B<--mtab> or B<--"
+"kernel>, then it overrides the default paths.  If specified more than once, "
+"then tree-like output is disabled (see the B<--list> option)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:78
+#, no-wrap
+msgid "B<-f>,B< --first-only>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:81
+msgid "Print the first matching filesystem only."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:84
+#, no-wrap
+msgid "B<-i>,B< --invert>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:87
+msgid "Invert the sense of matching."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:87
+#, no-wrap
+msgid "B<-k>,B< --kernel>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:92
+msgid ""
+"Search in I</proc/self/mountinfo>.  The output is in the tree-like format.  "
+"This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:92
+#, no-wrap
+msgid "B<-l>,B< --list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:98
+msgid ""
+"Use the list output format.  This output format is automatically enabled if "
+"the output is restricted by the B<-t>, B<-O>, B<-S> or B<-T> option and the "
+"option B<--submounts> is not used or if more that one source file (the "
+"option B<-F>) is specified."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:98
+#, no-wrap
+msgid "B<-m>,B< --mtab>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:103
+msgid ""
+"Search in I</etc/mtab>.  The output is in the list format (see B<--list>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:103
+#, no-wrap
+msgid "B<-N>,B< --task >I<tid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:110
+msgid ""
+"Use alternative namespace /proc/E<lt>tidE<gt>/mountinfo rather than the "
+"default /proc/self/mountinfo.  If the option is specified more than once, "
+"then tree-like output is disabled (see the B<--list> option).  See also the "
+"B<unshare>(1)  command."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:110
+#, no-wrap
+msgid "B<-n>,B< --noheadings>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:113
+msgid "Do not print a header line."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:113
+#, no-wrap
+msgid "B<-O>,B< --options >I<list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:127
+msgid ""
+"Limit the set of printed filesystems.  More than one option may be specified "
+"in a comma-separated list.  The B<-t> and B<-O> options are cumulative in "
+"effect.  It is different from B<-t> in that each option is matched exactly; "
+"a leading I<no> at the beginning does not have global meaning.  The \"no\" "
+"can used for individual items in the list.  The \"no\" prefix interpretation "
+"can be disabled by \"+\" prefix."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:137
+msgid ""
+"Define output columns.  See the B<--help> output to get a list of the "
+"currently supported columns.  The B<TARGET> column contains tree formatting "
+"if the B<--list> or B<--raw> options are not specified."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:140
+msgid ""
+"The default list of columns may be extended if I<list> is specified in the "
+"format I<+list> (e.g. B<findmnt -o +PROPAGATION>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:140
+#, no-wrap
+msgid "B<-P>,B< --pairs>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:143
+msgid ""
+"Use key=\"value\" output format.  All potentially unsafe characters are hex-"
+"escaped (\\exE<lt>codeE<gt>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:143
+#, no-wrap
+msgid "B<-p>,B< --poll>[I<=list>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:148
+msgid ""
+"Monitor changes in the /proc/self/mountinfo file.  Supported actions are: "
+"mount, umount, remount and move.  More than one action may be specified in a "
+"comma-separated list.  All actions are monitored by default."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:151
+msgid ""
+"The time for which B<--poll> will block can be restricted with the B<--"
+"timeout> or B<--first-only> options."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:157
+msgid ""
+"The standard columns always use the new version of the information from the "
+"mountinfo file, except the umount action which is based on the original "
+"information cached by B<findmnt>(8)B<.> The poll mode allows to use extra "
+"columns:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:158
+#, no-wrap
+msgid "B<ACTION>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:161
+msgid ""
+"mount, umount, move or remount action name; this column is enabled by default"
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:161
+#, no-wrap
+msgid "B<OLD-TARGET>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:164
+msgid "available for umount and move actions"
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:164
+#, no-wrap
+msgid "B<OLD-OPTIONS>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:167
+msgid "available for umount and remount actions"
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:168
+#, no-wrap
+msgid "B<-R>,B< --submounts>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:175
+msgid ""
+"Print recursively all submounts for the selected filesystems.  The "
+"restrictions defined by options B<-t>, B<-O>, B<-S>, B<-T> and B<--"
+"direction> are not applied to submounts.  All submounts are always printed "
+"in tree-like order.  The option enables the tree-like output format by "
+"default.  This option has no effect for B<--mtab> or B<--fstab>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:175
+#, no-wrap
+msgid "B<-r>,B< --raw>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:178
+msgid ""
+"Use raw output format.  All potentially unsafe characters are hex-escaped "
+"(\\exE<lt>codeE<gt>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:178
+#, no-wrap
+msgid "B<-S>,B< --source >I<spec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:182
+msgid ""
+"Explicitly define the mount source.  Supported are I<device>, I<maj:min>, "
+"I<LABEL=>, I<UUID=>, I<PARTLABEL=> or I<PARTUUID=>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:182
+#, no-wrap
+msgid "B<-s>,B< --fstab>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:187
+msgid ""
+"Search in I</etc/fstab>.  The output is in the list format (see B<--list>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:187
+#, no-wrap
+msgid "B<-T>,B< --target >I<path>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:194
+msgid ""
+"Explicitly define the mount target (mountpoint directory). If the I<path> is "
+"not a mountpoint file or directory than B<findmnt> checks I<path> elements "
+"in reverse order for get the mountpoint (this feature is supported only if "
+"search in kernel files and unsupported for B<--fstab>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:194
+#, no-wrap
+msgid "B<-t>,B< --types >I<list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:203
+msgid ""
+"Limit the set of printed filesystems.  More than one type may be specified "
+"in a comma-separated list.  The list of filesystem types can be prefixed "
+"with I<no> to specify the filesystem types on which no action should be "
+"taken.  For more details see B<mount>(8)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:203
+#, no-wrap
+msgid "B<-U>,B< --uniq>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:207
+msgid ""
+"Ignore filesystems with duplicate mount targets, thus effectively skipping "
+"over-mounted mount points."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:207
+#, no-wrap
+msgid "B<-u>,B< --notruncate>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:217
+msgid ""
+"Do not truncate text in columns.  The default is to not truncate the "
+"B<TARGET>, B<SOURCE>, B<UUID>, B<LABEL>, B<PARTUUID>, B<PARTLABEL> columns.  "
+"This option disables text truncation also in all other columns."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:217
+#, no-wrap
+msgid "B<-v>,B< --nofsroot>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:220
+msgid ""
+"Do not print a [/dir] in the SOURCE column for bind-mounts or btrfs "
+"subvolumes."
+msgstr ""
+
+#. type: TP
+#: raw/man8/findmnt.8:220
+#, no-wrap
+msgid "B<-w>,B< --timeout >I<milliseconds>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:223
+msgid ""
+"Specify an upper limit on the time for which B<--poll> will block, in "
+"milliseconds."
+msgstr ""
+
+#. type: SH
+#: raw/man8/findmnt.8:223 raw/man5/terminal-colors.d.5:53
+#: raw/man1/hexdump.1:345 raw/man1/rename.1:30 raw/man1/flock.1:115
+#: raw/man1/ionice.1:116 raw/man1/colcrt.1:69 raw/man1/logger.1:274
+#, no-wrap
+msgid "EXAMPLES"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:224
+#, no-wrap
+msgid "B<findmnt --fstab -t nfs>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:227
+msgid "Prints all NFS filesystems defined in I</etc/fstab>."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:227
+#, no-wrap
+msgid "B<findmnt --fstab /mnt/foo>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:232
+msgid ""
+"Prints all I</etc/fstab> filesystems where the mountpoint directory is /mnt/"
+"foo.  It also prints bind mounts where /mnt/foo is a source."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:232
+#, no-wrap
+msgid "B<findmnt --fstab --target /mnt/foo>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:236
+msgid ""
+"Prints all I</etc/fstab> filesystems where the mountpoint directory is /mnt/"
+"foo."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:236
+#, no-wrap
+msgid "B<findmnt --fstab --evaluate>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:240
+msgid ""
+"Prints all I</etc/fstab> filesystems and converts LABEL= and UUID= tags to "
+"the real device names."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:240
+#, no-wrap
+msgid "B<findmnt -n --raw --evaluate --output=target LABEL=/boot>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:242
+msgid ""
+"Prints only the mountpoint where the filesystem with label \"/boot\" is "
+"mounted."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:242
+#, no-wrap
+msgid "B<findmnt --poll --target /mnt/foo>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:244
+msgid "Monitors mount, unmount, remount and move on /mnt/foo."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:244
+#, no-wrap
+msgid "B<findmnt --poll=umount --first-only --target /mnt/foo>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:246
+msgid "Waits for /mnt/foo unmount."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:246
+#, no-wrap
+msgid "B<findmnt --poll=remount -t ext3 -O ro>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:248
+msgid "Monitors remounts to read-only mode on all ext3 filesystems."
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:249
+#, no-wrap
+msgid "LIBMOUNT_FSTAB=E<lt>pathE<gt>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:251
+msgid "overrides the default location of the fstab file"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:251
+#, no-wrap
+msgid "LIBMOUNT_MTAB=E<lt>pathE<gt>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:253
+msgid "overrides the default location of the mtab file"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:253
+#, no-wrap
+msgid "LIBMOUNT_DEBUG=all"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:255
+msgid "enables libmount debug output"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:257
+msgid "enables libsmartcols debug output"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:260
+#, no-wrap
+msgid "Karel Zak E<lt>kzak@redhat.comE<gt>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:264
+msgid "B<mount>(8), B<fstab>(5)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:266
+msgid ""
+"The findmnt command is part of the util-linux package and is available from "
+"ftp://ftp.kernel.org/pub/linux/utils/util-linux/."
+msgstr ""

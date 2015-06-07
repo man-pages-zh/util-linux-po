@@ -1,0 +1,1005 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-06-07 15:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man8/mkfs.cramfs.8:1 raw/man8/fsck.8:4
+#: raw/man8/raw.8:1 raw/man8/hwclock.8:21 raw/man8/mkswap.8:5
+#: raw/man8/resizepart.8:5 raw/man8/nologin.8:1 raw/man8/wipefs.8:4
+#: raw/man8/sfdisk.8:13 raw/man8/blockdev.8:5 raw/man8/fstrim.8:1
+#: raw/man8/mount.8:30 raw/man8/fsfreeze.8:1 raw/man8/pivot_root.8:1
+#: raw/man8/mkfs.8:1 raw/man8/blkid.8:4 raw/man8/swaplabel.8:5
+#: raw/man8/ctrlaltdel.8:3 raw/man8/mkfs.bfs.8:3 raw/man8/partx.8:7
+#: raw/man8/wdctl.8:4 raw/man8/ldattach.8:3 raw/man8/zramctl.8:1
+#: raw/man8/swapon.8:34 raw/man8/cfdisk.8:14 raw/man8/findfs.8:4
+#: raw/man8/setarch.8:1 raw/man8/mkfs.minix.8:3 raw/man8/readprofile.8:1
+#: raw/man8/losetup.8:1 raw/man8/switch_root.8:2 raw/man8/lslocks.8:5
+#: raw/man8/chcpu.8:1 raw/man8/fsck.cramfs.8:1 raw/man8/vipw.8:34
+#: raw/man8/lsblk.8:1 raw/man8/delpart.8:5 raw/man8/fdformat.8:3
+#: raw/man8/umount.8:25 raw/man8/agetty.8:1 raw/man5/terminal-colors.d.5:6
+#: raw/man5/fstab.5:34 raw/man1/hexdump.1:34 raw/man1/kill.1:4
+#: raw/man1/tailf.1:24 raw/man1/rename.1:4 raw/man1/login.1:3
+#: raw/man1/setterm.1:7 raw/man1/colrm.1:34 raw/man1/runuser.1:1
+#: raw/man1/nsenter.1:1 raw/man1/mesg.1:34 raw/man1/write.1:37
+#: raw/man1/flock.1:27 raw/man1/taskset.1:23 raw/man1/chfn.1:9
+#: raw/man1/line.1:2 raw/man1/chsh.1:9 raw/man1/setsid.1:3 raw/man1/col.1:37
+#: raw/man1/scriptreplay.1:1 raw/man1/ionice.1:1 raw/man1/colcrt.1:34
+#: raw/man1/newgrp.1:3 raw/man1/last-deprecated.1:1 raw/man1/chrt.1:23
+#: raw/man1/rev.1:34 raw/man1/dmesg.1:3 raw/man1/pg.1:2 raw/man1/look.1:34
+#: raw/man1/fallocate.1:1 raw/man1/logger.1:34 raw/man1/script.1:34
+#: raw/man1/more.1:37 raw/man1/unshare.1:1 raw/man1/last.1:17
+#: raw/man1/lslogins.1:3 raw/man1/uuidgen.1:4 raw/man1/renice.1:34
+#: raw/man1/mcookie.1:3 raw/man1/ipcs.1:3 raw/man1/ul.1:34
+#: raw/man1/column.1:34 raw/man1/lscpu.1:1 raw/man1/su.1:1
+#: raw/man1/setpriv.1:1 raw/man1/ipcmk.1:3 raw/man1/reset.1:3
+#: raw/man1/cal.1:37 raw/man1/getopt.1:1 raw/man1/utmpdump.1:17
+#: raw/man1/namei.1:1 raw/man1/prlimit.1:5 raw/man1/wall.1:34
+#: raw/man1/ipcrm.1:3 raw/man1/mountpoint.1:1 raw/man1/whereis.1:33
+#: raw/man3/uuid_compare.3:32 raw/man3/uuid_generate.3:32
+#: raw/man3/uuid_is_null.3:32 raw/man3/uuid_unparse.3:32 raw/man3/libblkid.3:9
+#: raw/man3/uuid.3:32 raw/man3/uuid_time.3:32 raw/man3/uuid_parse.3:32
+#: raw/man3/uuid_copy.3:32 raw/man3/uuid_clear.3:32
+#, no-wrap
+msgid "util-linux"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man8/mkfs.cramfs.8:1 raw/man8/fsck.8:4
+#: raw/man8/raw.8:1 raw/man8/hwclock.8:21 raw/man8/mkswap.8:5
+#: raw/man8/resizepart.8:5 raw/man8/nologin.8:1 raw/man8/wipefs.8:4
+#: raw/man8/sfdisk.8:13 raw/man8/blockdev.8:5 raw/man8/fstrim.8:1
+#: raw/man8/mount.8:30 raw/man8/fsfreeze.8:1 raw/man8/pivot_root.8:1
+#: raw/man8/mkfs.8:1 raw/man8/blkid.8:4 raw/man8/swaplabel.8:5
+#: raw/man8/ctrlaltdel.8:3 raw/man8/mkfs.bfs.8:3 raw/man8/partx.8:7
+#: raw/man8/wdctl.8:4 raw/man8/ldattach.8:3 raw/man8/zramctl.8:1
+#: raw/man8/swapon.8:34 raw/man8/cfdisk.8:14 raw/man8/findfs.8:4
+#: raw/man8/setarch.8:1 raw/man8/mkfs.minix.8:3 raw/man8/readprofile.8:1
+#: raw/man8/losetup.8:1 raw/man8/switch_root.8:2 raw/man8/lslocks.8:5
+#: raw/man8/chcpu.8:1 raw/man8/fsck.cramfs.8:1 raw/man8/vipw.8:34
+#: raw/man8/lsblk.8:1 raw/man8/delpart.8:5 raw/man8/fdformat.8:3
+#: raw/man8/umount.8:25 raw/man8/agetty.8:1
+#, no-wrap
+msgid "System Administration"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:20 raw/man8/blkdiscard.8:2 raw/man8/sulogin.8:19
+#: raw/man8/isosize.8:2 raw/man8/tunelp.8:8 raw/man8/fsck.minix.8:4
+#: raw/man8/fdisk.8:8 raw/man8/findmnt.8:2 raw/man8/uuidd.8:6
+#: raw/man8/addpart.8:6 raw/man8/mkfs.cramfs.8:2 raw/man8/fsck.8:5
+#: raw/man8/raw.8:2 raw/man8/hwclock.8:22 raw/man8/mkswap.8:6
+#: raw/man8/resizepart.8:6 raw/man8/nologin.8:2 raw/man8/wipefs.8:5
+#: raw/man8/sfdisk.8:14 raw/man8/blockdev.8:6 raw/man8/fstrim.8:2
+#: raw/man8/mount.8:31 raw/man8/fsfreeze.8:2 raw/man8/pivot_root.8:2
+#: raw/man8/mkfs.8:2 raw/man8/blkid.8:5 raw/man8/swaplabel.8:6
+#: raw/man8/ctrlaltdel.8:4 raw/man8/mkfs.bfs.8:4 raw/man8/partx.8:8
+#: raw/man8/wdctl.8:5 raw/man8/ldattach.8:4 raw/man8/zramctl.8:2
+#: raw/man8/swapon.8:35 raw/man8/cfdisk.8:15 raw/man8/findfs.8:5
+#: raw/man8/setarch.8:2 raw/man8/mkfs.minix.8:4 raw/man8/readprofile.8:2
+#: raw/man8/losetup.8:2 raw/man8/switch_root.8:3 raw/man8/lslocks.8:6
+#: raw/man8/chcpu.8:2 raw/man8/fsck.cramfs.8:2 raw/man8/vipw.8:35
+#: raw/man8/lsblk.8:2 raw/man8/delpart.8:6 raw/man8/fdformat.8:4
+#: raw/man8/umount.8:26 raw/man8/agetty.8:2 raw/man5/hwclock.5:2
+#: raw/man5/terminal-colors.d.5:7 raw/man5/fstab.5:35 raw/man1/hexdump.1:35
+#: raw/man1/kill.1:5 raw/man1/tailf.1:25 raw/man1/rename.1:5
+#: raw/man1/login.1:4 raw/man1/setterm.1:8 raw/man1/colrm.1:35
+#: raw/man1/runuser.1:2 raw/man1/nsenter.1:2 raw/man1/mesg.1:35
+#: raw/man1/write.1:38 raw/man1/flock.1:28 raw/man1/taskset.1:24
+#: raw/man1/chfn.1:10 raw/man1/line.1:3 raw/man1/chsh.1:10 raw/man1/setsid.1:4
+#: raw/man1/col.1:38 raw/man1/scriptreplay.1:2 raw/man1/ionice.1:2
+#: raw/man1/colcrt.1:35 raw/man1/newgrp.1:4 raw/man1/last-deprecated.1:2
+#: raw/man1/chrt.1:24 raw/man1/rev.1:35 raw/man1/dmesg.1:4 raw/man1/pg.1:3
+#: raw/man1/look.1:35 raw/man1/fallocate.1:2 raw/man1/logger.1:35
+#: raw/man1/script.1:35 raw/man1/more.1:38 raw/man1/unshare.1:2
+#: raw/man1/last.1:18 raw/man1/lslogins.1:4 raw/man1/uuidgen.1:5
+#: raw/man1/renice.1:35 raw/man1/mcookie.1:4 raw/man1/ipcs.1:4
+#: raw/man1/ul.1:35 raw/man1/column.1:35 raw/man1/lscpu.1:2 raw/man1/eject.1:8
+#: raw/man1/su.1:2 raw/man1/setpriv.1:2 raw/man1/ipcmk.1:4 raw/man1/reset.1:4
+#: raw/man1/cal.1:38 raw/man1/getopt.1:2 raw/man1/utmpdump.1:18
+#: raw/man1/namei.1:2 raw/man1/prlimit.1:6 raw/man1/wall.1:35
+#: raw/man1/ipcrm.1:4 raw/man1/mountpoint.1:2 raw/man1/whereis.1:34
+#: raw/man3/uuid_compare.3:33 raw/man3/uuid_generate.3:33
+#: raw/man3/uuid_is_null.3:33 raw/man3/uuid_unparse.3:33
+#: raw/man3/libblkid.3:10 raw/man3/uuid.3:33 raw/man3/uuid_time.3:33
+#: raw/man3/uuid_parse.3:33 raw/man3/uuid_copy.3:33 raw/man3/uuid_clear.3:33
+#, no-wrap
+msgid "NAME"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:22 raw/man8/blkdiscard.8:4 raw/man8/sulogin.8:21
+#: raw/man8/isosize.8:4 raw/man8/tunelp.8:10 raw/man8/fsck.minix.8:6
+#: raw/man8/fdisk.8:11 raw/man8/findmnt.8:4 raw/man8/uuidd.8:8
+#: raw/man8/addpart.8:8 raw/man8/mkfs.cramfs.8:4 raw/man8/fsck.8:7
+#: raw/man8/raw.8:4 raw/man8/hwclock.8:24 raw/man8/mkswap.8:8
+#: raw/man8/resizepart.8:8 raw/man8/nologin.8:4 raw/man8/wipefs.8:7
+#: raw/man8/sfdisk.8:16 raw/man8/blockdev.8:8 raw/man8/fstrim.8:4
+#: raw/man8/mount.8:33 raw/man8/fsfreeze.8:4 raw/man8/pivot_root.8:4
+#: raw/man8/mkfs.8:4 raw/man8/blkid.8:7 raw/man8/swaplabel.8:8
+#: raw/man8/ctrlaltdel.8:6 raw/man8/mkfs.bfs.8:6 raw/man8/partx.8:10
+#: raw/man8/wdctl.8:7 raw/man8/ldattach.8:6 raw/man8/zramctl.8:4
+#: raw/man8/swapon.8:37 raw/man8/cfdisk.8:17 raw/man8/findfs.8:7
+#: raw/man8/setarch.8:4 raw/man8/mkfs.minix.8:6 raw/man8/readprofile.8:4
+#: raw/man8/losetup.8:4 raw/man8/switch_root.8:5 raw/man8/lslocks.8:8
+#: raw/man8/chcpu.8:4 raw/man8/fsck.cramfs.8:4 raw/man8/vipw.8:37
+#: raw/man8/lsblk.8:4 raw/man8/delpart.8:8 raw/man8/fdformat.8:6
+#: raw/man8/umount.8:28 raw/man8/agetty.8:5 raw/man5/terminal-colors.d.5:9
+#: raw/man5/fstab.5:37 raw/man1/hexdump.1:37 raw/man1/kill.1:7
+#: raw/man1/tailf.1:27 raw/man1/rename.1:7 raw/man1/login.1:6
+#: raw/man1/setterm.1:10 raw/man1/colrm.1:37 raw/man1/runuser.1:4
+#: raw/man1/nsenter.1:4 raw/man1/mesg.1:37 raw/man1/write.1:40
+#: raw/man1/flock.1:30 raw/man1/taskset.1:26 raw/man1/chfn.1:12
+#: raw/man1/line.1:5 raw/man1/chsh.1:12 raw/man1/setsid.1:6 raw/man1/col.1:40
+#: raw/man1/scriptreplay.1:4 raw/man1/ionice.1:4 raw/man1/colcrt.1:37
+#: raw/man1/newgrp.1:6 raw/man1/last-deprecated.1:4 raw/man1/chrt.1:26
+#: raw/man1/rev.1:37 raw/man1/dmesg.1:6 raw/man1/pg.1:5 raw/man1/look.1:37
+#: raw/man1/fallocate.1:4 raw/man1/logger.1:37 raw/man1/script.1:37
+#: raw/man1/more.1:40 raw/man1/unshare.1:4 raw/man1/last.1:20
+#: raw/man1/lslogins.1:6 raw/man1/uuidgen.1:7 raw/man1/renice.1:37
+#: raw/man1/mcookie.1:6 raw/man1/ipcs.1:6 raw/man1/ul.1:37
+#: raw/man1/column.1:37 raw/man1/lscpu.1:4 raw/man1/eject.1:10 raw/man1/su.1:4
+#: raw/man1/setpriv.1:4 raw/man1/ipcmk.1:6 raw/man1/reset.1:6
+#: raw/man1/cal.1:40 raw/man1/getopt.1:4 raw/man1/utmpdump.1:20
+#: raw/man1/namei.1:4 raw/man1/prlimit.1:8 raw/man1/wall.1:37
+#: raw/man1/ipcrm.1:6 raw/man1/mountpoint.1:4 raw/man1/whereis.1:36
+#: raw/man3/uuid_compare.3:35 raw/man3/uuid_generate.3:36
+#: raw/man3/uuid_is_null.3:35 raw/man3/uuid_unparse.3:35
+#: raw/man3/libblkid.3:12 raw/man3/uuid.3:35 raw/man3/uuid_time.3:35
+#: raw/man3/uuid_parse.3:35 raw/man3/uuid_copy.3:35 raw/man3/uuid_clear.3:35
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:30 raw/man8/blkdiscard.8:13 raw/man8/sulogin.8:24
+#: raw/man8/isosize.8:7 raw/man8/tunelp.8:14 raw/man8/fsck.minix.8:10
+#: raw/man8/fdisk.8:19 raw/man8/findmnt.8:18 raw/man8/uuidd.8:11
+#: raw/man8/addpart.8:11 raw/man8/mkfs.cramfs.8:8 raw/man8/fsck.8:17
+#: raw/man8/raw.8:15 raw/man8/hwclock.8:29 raw/man8/mkswap.8:13
+#: raw/man8/resizepart.8:11 raw/man8/nologin.8:8 raw/man8/wipefs.8:13
+#: raw/man8/sfdisk.8:26 raw/man8/blockdev.8:20 raw/man8/fstrim.8:16
+#: raw/man8/mount.8:57 raw/man8/fsfreeze.8:9 raw/man8/pivot_root.8:7
+#: raw/man8/mkfs.8:9 raw/man8/blkid.8:51 raw/man8/swaplabel.8:15
+#: raw/man8/ctrlaltdel.8:8 raw/man8/mkfs.bfs.8:9 raw/man8/partx.8:21
+#: raw/man8/wdctl.8:11 raw/man8/ldattach.8:14 raw/man8/zramctl.8:39
+#: raw/man8/swapon.8:45 raw/man8/cfdisk.8:21 raw/man8/findfs.8:10
+#: raw/man8/setarch.8:18 raw/man8/mkfs.minix.8:17 raw/man8/readprofile.8:9
+#: raw/man8/losetup.8:61 raw/man8/switch_root.8:13 raw/man8/lslocks.8:12
+#: raw/man8/chcpu.8:14 raw/man8/fsck.cramfs.8:8 raw/man8/vipw.8:43
+#: raw/man8/lsblk.8:8 raw/man8/delpart.8:11 raw/man8/fdformat.8:9
+#: raw/man8/umount.8:43 raw/man8/agetty.8:10 raw/man5/hwclock.5:4
+#: raw/man5/terminal-colors.d.5:11 raw/man5/fstab.5:39 raw/man1/hexdump.1:40
+#: raw/man1/kill.1:20 raw/man1/tailf.1:31 raw/man1/rename.1:11
+#: raw/man1/login.1:21 raw/man1/setterm.1:13 raw/man1/colrm.1:40
+#: raw/man1/runuser.1:11 raw/man1/nsenter.1:9 raw/man1/mesg.1:41
+#: raw/man1/write.1:44 raw/man1/flock.1:42 raw/man1/taskset.1:35
+#: raw/man1/chfn.1:25 raw/man1/line.1:7 raw/man1/chsh.1:20
+#: raw/man1/setsid.1:11 raw/man1/col.1:43 raw/man1/scriptreplay.1:11
+#: raw/man1/ionice.1:39 raw/man1/colcrt.1:41 raw/man1/newgrp.1:9
+#: raw/man1/last-deprecated.1:20 raw/man1/chrt.1:35 raw/man1/rev.1:41
+#: raw/man1/dmesg.1:19 raw/man1/pg.1:14 raw/man1/look.1:41
+#: raw/man1/fallocate.1:22 raw/man1/logger.1:41 raw/man1/script.1:41
+#: raw/man1/more.1:44 raw/man1/unshare.1:9 raw/man1/last.1:28
+#: raw/man1/lslogins.1:12 raw/man1/uuidgen.1:10 raw/man1/renice.1:43
+#: raw/man1/mcookie.1:9 raw/man1/ipcs.1:9 raw/man1/ul.1:40
+#: raw/man1/column.1:40 raw/man1/lscpu.1:10 raw/man1/eject.1:14
+#: raw/man1/su.1:7 raw/man1/setpriv.1:9 raw/man1/ipcmk.1:9 raw/man1/reset.1:8
+#: raw/man1/cal.1:44 raw/man1/getopt.1:20 raw/man1/utmpdump.1:23
+#: raw/man1/namei.1:8 raw/man1/prlimit.1:17 raw/man1/wall.1:43
+#: raw/man1/ipcrm.1:13 raw/man1/mountpoint.1:15 raw/man1/whereis.1:42
+#: raw/man3/uuid_compare.3:41 raw/man3/uuid_generate.3:45
+#: raw/man3/uuid_is_null.3:41 raw/man3/uuid_unparse.3:43
+#: raw/man3/libblkid.3:18 raw/man3/uuid.3:37 raw/man3/uuid_time.3:41
+#: raw/man3/uuid_parse.3:41 raw/man3/uuid_copy.3:41 raw/man3/uuid_clear.3:41
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:45 raw/man8/blkdiscard.8:30 raw/man8/sulogin.8:43
+#: raw/man8/isosize.8:14 raw/man8/tunelp.8:20 raw/man8/fsck.minix.8:52
+#: raw/man8/fdisk.8:47 raw/man8/findmnt.8:39 raw/man8/uuidd.8:18
+#: raw/man8/mkfs.cramfs.8:31 raw/man8/fsck.8:92 raw/man8/raw.8:60
+#: raw/man8/hwclock.8:260 raw/man8/mkswap.8:58 raw/man8/nologin.8:20
+#: raw/man8/wipefs.8:45 raw/man8/sfdisk.8:116 raw/man8/blockdev.8:24
+#: raw/man8/fstrim.8:42 raw/man8/fsfreeze.8:39 raw/man8/pivot_root.8:35
+#: raw/man8/mkfs.8:48 raw/man8/blkid.8:92 raw/man8/swaplabel.8:39
+#: raw/man8/ctrlaltdel.8:32 raw/man8/mkfs.bfs.8:18 raw/man8/partx.8:47
+#: raw/man8/wdctl.8:18 raw/man8/ldattach.8:93 raw/man8/zramctl.8:45
+#: raw/man8/swapon.8:73 raw/man8/cfdisk.8:53 raw/man8/setarch.8:25
+#: raw/man8/mkfs.minix.8:41 raw/man8/readprofile.8:22 raw/man8/losetup.8:71
+#: raw/man8/switch_root.8:25 raw/man8/lslocks.8:16 raw/man8/chcpu.8:30
+#: raw/man8/fsck.cramfs.8:11 raw/man8/lsblk.8:41 raw/man8/fdformat.8:46
+#: raw/man8/umount.8:59 raw/man8/agetty.8:82 raw/man5/hwclock.5:14
+#: raw/man1/hexdump.1:46 raw/man1/kill.1:73 raw/man1/rename.1:17
+#: raw/man1/login.1:89 raw/man1/setterm.1:24 raw/man1/colrm.1:55
+#: raw/man1/runuser.1:51 raw/man1/nsenter.1:61 raw/man1/mesg.1:69
+#: raw/man1/flock.1:62 raw/man1/taskset.1:71 raw/man1/chfn.1:53
+#: raw/man1/chsh.1:31 raw/man1/setsid.1:14 raw/man1/col.1:55
+#: raw/man1/scriptreplay.1:44 raw/man1/ionice.1:83 raw/man1/colcrt.1:47
+#: raw/man1/last-deprecated.1:42 raw/man1/chrt.1:58 raw/man1/rev.1:46
+#: raw/man1/dmesg.1:24 raw/man1/pg.1:35 raw/man1/look.1:65
+#: raw/man1/fallocate.1:33 raw/man1/logger.1:48 raw/man1/script.1:56
+#: raw/man1/more.1:52 raw/man1/unshare.1:46 raw/man1/last.1:66
+#: raw/man1/lslogins.1:18 raw/man1/uuidgen.1:33 raw/man1/renice.1:56
+#: raw/man1/mcookie.1:25 raw/man1/ipcs.1:15 raw/man1/ul.1:56
+#: raw/man1/column.1:47 raw/man1/lscpu.1:85 raw/man1/eject.1:32
+#: raw/man1/su.1:42 raw/man1/ipcmk.1:13 raw/man1/cal.1:48 raw/man1/getopt.1:88
+#: raw/man1/utmpdump.1:31 raw/man1/namei.1:40 raw/man1/wall.1:60
+#: raw/man1/ipcrm.1:48 raw/man1/mountpoint.1:22 raw/man1/whereis.1:81
+#, no-wrap
+msgid "OPTIONS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:152 raw/man8/blkdiscard.8:77 raw/man8/fsck.minix.8:79
+#: raw/man8/fdisk.8:331 raw/man8/findmnt.8:261 raw/man8/uuidd.8:87
+#: raw/man8/addpart.8:32 raw/man8/mkfs.cramfs.8:83 raw/man8/fsck.8:443
+#: raw/man8/hwclock.8:1069 raw/man8/mkswap.8:139 raw/man8/resizepart.8:29
+#: raw/man8/nologin.8:40 raw/man8/wipefs.8:103 raw/man8/sfdisk.8:403
+#: raw/man8/fstrim.8:116 raw/man8/mount.8:3206 raw/man8/fsfreeze.8:71
+#: raw/man8/pivot_root.8:67 raw/man8/mkfs.8:88 raw/man8/blkid.8:308
+#: raw/man8/swaplabel.8:67 raw/man8/ctrlaltdel.8:41 raw/man8/mkfs.bfs.8:54
+#: raw/man8/partx.8:172 raw/man8/ldattach.8:145 raw/man8/swapon.8:232
+#: raw/man8/cfdisk.8:185 raw/man8/findfs.8:76 raw/man8/mkfs.minix.8:80
+#: raw/man8/switch_root.8:48 raw/man8/lslocks.8:83 raw/man8/chcpu.8:100
+#: raw/man8/fsck.cramfs.8:54 raw/man8/vipw.8:72 raw/man8/lsblk.8:161
+#: raw/man8/delpart.8:19 raw/man8/fdformat.8:65 raw/man8/umount.8:196
+#: raw/man5/hwclock.5:38 raw/man5/fstab.5:233 raw/man1/kill.1:147
+#: raw/man1/tailf.1:62 raw/man1/rename.1:79 raw/man1/login.1:287
+#: raw/man1/setterm.1:269 raw/man1/colrm.1:62 raw/man1/runuser.1:221
+#: raw/man1/nsenter.1:163 raw/man1/mesg.1:96 raw/man1/write.1:91
+#: raw/man1/flock.1:179 raw/man1/taskset.1:109 raw/man1/chfn.1:74
+#: raw/man1/line.1:13 raw/man1/chsh.1:56 raw/man1/setsid.1:29
+#: raw/man1/col.1:140 raw/man1/scriptreplay.1:80 raw/man1/colcrt.1:77
+#: raw/man1/newgrp.1:24 raw/man1/chrt.1:142 raw/man1/rev.1:53
+#: raw/man1/dmesg.1:227 raw/man1/pg.1:220 raw/man1/look.1:105
+#: raw/man1/fallocate.1:120 raw/man1/logger.1:280 raw/man1/script.1:163
+#: raw/man1/more.1:219 raw/man1/unshare.1:120 raw/man1/last.1:194
+#: raw/man1/lslogins.1:115 raw/man1/uuidgen.1:55 raw/man1/renice.1:99
+#: raw/man1/mcookie.1:58 raw/man1/ipcs.1:79 raw/man1/ul.1:93
+#: raw/man1/column.1:92 raw/man1/lscpu.1:149 raw/man1/eject.1:178
+#: raw/man1/su.1:241 raw/man1/setpriv.1:144 raw/man1/ipcmk.1:41
+#: raw/man1/reset.1:37 raw/man1/getopt.1:452 raw/man1/utmpdump.1:71
+#: raw/man1/namei.1:74 raw/man1/prlimit.1:106 raw/man1/wall.1:82
+#: raw/man1/ipcrm.1:101 raw/man1/mountpoint.1:54 raw/man3/uuid_compare.3:60
+#: raw/man3/uuid_generate.3:116 raw/man3/uuid_is_null.3:55
+#: raw/man3/uuid_unparse.3:72 raw/man3/libblkid.3:74 raw/man3/uuid.3:57
+#: raw/man3/uuid_time.3:69 raw/man3/uuid_parse.3:64 raw/man3/uuid_copy.3:56
+#: raw/man3/uuid_clear.3:54
+#, no-wrap
+msgid "SEE ALSO"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:155 raw/man8/blkdiscard.8:79 raw/man8/sulogin.8:87
+#: raw/man8/isosize.8:35 raw/man8/tunelp.8:142 raw/man8/fsck.minix.8:131
+#: raw/man8/fdisk.8:337 raw/man8/findmnt.8:264 raw/man8/uuidd.8:90
+#: raw/man8/addpart.8:38 raw/man8/mkfs.cramfs.8:86 raw/man8/fsck.8:465
+#: raw/man8/raw.8:93 raw/man8/hwclock.8:1087 raw/man8/mkswap.8:142
+#: raw/man8/resizepart.8:36 raw/man8/nologin.8:48 raw/man8/wipefs.8:106
+#: raw/man8/sfdisk.8:416 raw/man8/blockdev.8:83 raw/man8/fstrim.8:118
+#: raw/man8/mount.8:3289 raw/man8/fsfreeze.8:73 raw/man8/pivot_root.8:73
+#: raw/man8/mkfs.8:104 raw/man8/blkid.8:313 raw/man8/swaplabel.8:64
+#: raw/man8/ctrlaltdel.8:47 raw/man8/mkfs.bfs.8:56 raw/man8/partx.8:194
+#: raw/man8/wdctl.8:64 raw/man8/ldattach.8:152 raw/man8/zramctl.8:117
+#: raw/man8/swapon.8:251 raw/man8/cfdisk.8:197 raw/man8/findfs.8:80
+#: raw/man8/setarch.8:89 raw/man8/mkfs.minix.8:84 raw/man8/readprofile.8:148
+#: raw/man8/losetup.8:182 raw/man8/switch_root.8:59 raw/man8/lslocks.8:88
+#: raw/man8/chcpu.8:102 raw/man8/fsck.cramfs.8:57 raw/man8/vipw.8:85
+#: raw/man8/lsblk.8:165 raw/man8/delpart.8:25 raw/man8/fdformat.8:72
+#: raw/man8/umount.8:204 raw/man8/agetty.8:449
+#: raw/man5/terminal-colors.d.5:186 raw/man5/fstab.5:245
+#: raw/man1/hexdump.1:375 raw/man1/kill.1:166 raw/man1/tailf.1:65
+#: raw/man1/rename.1:81 raw/man1/login.1:330 raw/man1/setterm.1:276
+#: raw/man1/colrm.1:71 raw/man1/runuser.1:230 raw/man1/nsenter.1:170
+#: raw/man1/mesg.1:107 raw/man1/write.1:99 raw/man1/flock.1:181
+#: raw/man1/taskset.1:125 raw/man1/chfn.1:79 raw/man1/line.1:15
+#: raw/man1/chsh.1:62 raw/man1/setsid.1:33 raw/man1/col.1:154
+#: raw/man1/scriptreplay.1:107 raw/man1/ionice.1:138 raw/man1/colcrt.1:101
+#: raw/man1/newgrp.1:32 raw/man1/last-deprecated.1:60 raw/man1/chrt.1:156
+#: raw/man1/rev.1:55 raw/man1/dmesg.1:241 raw/man1/pg.1:236
+#: raw/man1/look.1:116 raw/man1/fallocate.1:124 raw/man1/logger.1:288
+#: raw/man1/script.1:179 raw/man1/more.1:236 raw/man1/unshare.1:128
+#: raw/man1/last.1:189 raw/man1/lslogins.1:128 raw/man1/uuidgen.1:57
+#: raw/man1/renice.1:115 raw/man1/mcookie.1:63 raw/man1/ipcs.1:112
+#: raw/man1/ul.1:109 raw/man1/column.1:99 raw/man1/lscpu.1:151
+#: raw/man1/eject.1:183 raw/man1/su.1:250 raw/man1/setpriv.1:151
+#: raw/man1/ipcmk.1:48 raw/man1/reset.1:43 raw/man1/cal.1:130
+#: raw/man1/getopt.1:456 raw/man1/utmpdump.1:76 raw/man1/namei.1:77
+#: raw/man1/prlimit.1:118 raw/man1/wall.1:91 raw/man1/ipcrm.1:113
+#: raw/man1/mountpoint.1:56 raw/man1/whereis.1:162 raw/man3/uuid_compare.3:55
+#: raw/man3/uuid_generate.3:112 raw/man3/uuid_is_null.3:50
+#: raw/man3/uuid_unparse.3:67 raw/man3/libblkid.3:77 raw/man3/uuid.3:53
+#: raw/man3/uuid_time.3:64 raw/man3/uuid_parse.3:59 raw/man3/uuid_copy.3:51
+#: raw/man3/uuid_clear.3:49
+#, no-wrap
+msgid "AVAILABILITY"
+msgstr ""
+
+#. type: SH
+#: raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:83 raw/man8/fsck.minix.8:115
+#: raw/man8/uuidd.8:83 raw/man8/fsck.8:461 raw/man8/raw.8:91
+#: raw/man8/wipefs.8:98 raw/man8/sfdisk.8:410 raw/man8/blockdev.8:81
+#: raw/man8/fstrim.8:111 raw/man8/fsfreeze.8:64 raw/man8/blkid.8:302
+#: raw/man8/swaplabel.8:58 raw/man8/ctrlaltdel.8:43 raw/man8/ldattach.8:148
+#: raw/man8/cfdisk.8:191 raw/man8/findfs.8:63 raw/man8/setarch.8:81
+#: raw/man8/chcpu.8:93 raw/man8/fdformat.8:70 raw/man5/hwclock.5:35
+#: raw/man1/tailf.1:56 raw/man1/login.1:314 raw/man1/nsenter.1:166
+#: raw/man1/flock.1:170 raw/man1/taskset.1:119 raw/man1/chfn.1:77
+#: raw/man1/chsh.1:60 raw/man1/setsid.1:31 raw/man1/scriptreplay.1:92
+#: raw/man1/newgrp.1:28 raw/man1/chrt.1:150 raw/man1/unshare.1:126
+#: raw/man1/last.1:185 raw/man1/uuidgen.1:52 raw/man1/ipcs.1:108
+#: raw/man1/lscpu.1:143 raw/man1/setpriv.1:147 raw/man1/ipcmk.1:44
+#: raw/man1/reset.1:41 raw/man1/getopt.1:448 raw/man1/utmpdump.1:69
+#: raw/man1/namei.1:66 raw/man1/mountpoint.1:41 raw/man3/uuid_compare.3:53
+#: raw/man3/uuid_generate.3:110 raw/man3/uuid_is_null.3:48
+#: raw/man3/uuid_unparse.3:65 raw/man3/libblkid.3:64 raw/man3/uuid.3:51
+#: raw/man3/uuid_time.3:62 raw/man3/uuid_parse.3:57 raw/man3/uuid_copy.3:49
+#: raw/man3/uuid_clear.3:47
+#, no-wrap
+msgid "AUTHOR"
+msgstr ""
+
+#. type: IP
+#: raw/man8/fsck.minix.8:53 raw/man8/fsck.8:93 raw/man8/blkid.8:124
+#: raw/man8/mkfs.bfs.8:36 raw/man1/last-deprecated.1:52 raw/man1/more.1:63
+#: raw/man1/whereis.1:118
+#, no-wrap
+msgid "B<-l>"
+msgstr ""
+
+#. type: SH
+#: raw/man8/fdisk.8:321 raw/man8/findmnt.8:248 raw/man8/mkswap.8:135
+#: raw/man8/wipefs.8:100 raw/man8/sfdisk.8:393 raw/man8/mount.8:3195
+#: raw/man8/blkid.8:306 raw/man8/swaplabel.8:61 raw/man8/partx.8:191
+#: raw/man8/swapon.8:226 raw/man8/cfdisk.8:175 raw/man8/findfs.8:73
+#: raw/man8/losetup.8:176 raw/man8/vipw.8:60 raw/man8/lsblk.8:154
+#: raw/man8/umount.8:189 raw/man5/terminal-colors.d.5:177
+#: raw/man1/script.1:150 raw/man1/more.1:194 raw/man1/ul.1:77
+#: raw/man1/column.1:65 raw/man1/getopt.1:423 raw/man1/mountpoint.1:44
+#: raw/man1/whereis.1:159
+#, no-wrap
+msgid "ENVIRONMENT"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkfs.cramfs.8:56 raw/man8/blkid.8:208 raw/man1/login.1:90
+#: raw/man1/more.1:71
+#, no-wrap
+msgid "B<-p>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkfs.cramfs.8:66 raw/man8/fsck.8:302 raw/man8/blockdev.8:25
+#: raw/man8/blkid.8:261 raw/man1/login.1:133
+#, no-wrap
+msgid "B<-V>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkfs.cramfs.8:69 raw/man8/blkid.8:114 raw/man1/login.1:102
+#, no-wrap
+msgid "B<-h>"
+msgstr ""
+
+#. type: TH
+#: raw/man8/blkid.8:4
+#, no-wrap
+msgid "BLKID"
+msgstr ""
+
+#. type: TH
+#: raw/man8/blkid.8:4
+#, no-wrap
+msgid "March 2013"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:7
+msgid "blkid - locate/print block device attributes"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:12
+msgid "B<blkid> B<-L>I< label> | B<-U>I< uuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:21
+msgid "B<blkid> [B<-dghlv>] [B<-c> I<file>] [B<-o> I<format>] [B<-s> I<tag>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:25
+msgid "[B<-t> I<NAME=value>] [I<device> ...]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:36
+msgid ""
+"B<blkid> B<-p> [B<-O> I<offset>] [B<-o> I<format>] [B<-S> I<size>] [B<-s> "
+"I<tag>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:42
+msgid "[B<-n> I<list>] [B<-u> I<list>] I<device> ..."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:50
+msgid "B<blkid> B<-i> [B<-o> I<format>] [B<-s> I<tag>] I<device> ..."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:59
+msgid ""
+"The B<blkid> program is the command-line interface to working with the "
+"B<libblkid>(3)  library.  It can determine the type of content (e.g. "
+"filesystem or swap)  that a block device holds, and also the attributes "
+"(tokens, NAME=value pairs)  from the content metadata (e.g. LABEL or UUID "
+"fields)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:66
+msgid ""
+"It is recommended to use B<lsblk>(8)  command to get information about block "
+"devices rather than blkid.  B<lsblk>(8)  provides more information, better "
+"control on output formatting and it does not require root permissions to get "
+"actual information."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:76
+msgid ""
+"When I<device> is specified, tokens from only this device are displayed.  It "
+"is possible to specify multiple I<device> arguments on the command line.  If "
+"none is given, all devices which appear in I</proc/partitions> are shown, if "
+"they are recognized."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:87
+msgid ""
+"Note that B<blkid> reads information directly from devices and for non-root "
+"users it returns cached unverified information.  It is better to use B<lsblk "
+"--fs> to get a user-friendly overview of filesystems and devices.  "
+"B<lsblk>(8)  is also easy to use in scripts.  B<blkid> is mostly designed "
+"for system services and to test libblkid functionality."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:92
+msgid ""
+"B<blkid> has two main forms of operation: either searching for a device with "
+"a specific NAME=value pair, or displaying NAME=value pairs for one or more "
+"specified devices."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:97
+msgid ""
+"The I<size> and I<offset> arguments may be followed by the multiplicative "
+"suffixes like KiB (=1024), MiB (=1024*1024), and so on for GiB, TiB, PiB, "
+"EiB, ZiB and YiB (the \"iB\" is optional, e.g. \"K\" has the same meaning as "
+"\"KiB\"), or the suffixes KB (=1000), MB (=1000*1000), and so on for GB, TB, "
+"PB, EB, ZB and YB."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:97
+#, no-wrap
+msgid "B<-c>I< cachefile>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:105
+msgid ""
+"Read from I<cachefile> instead of reading from the default cache file (see "
+"the CONFIGURATION FILE section for more details).  If you want to start with "
+"a clean cache (i.e. don't report devices previously scanned but not "
+"necessarily available at this time), specify I</dev/null>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:105 raw/man1/more.1:58
+#, no-wrap
+msgid "B<-d>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:110
+msgid ""
+"Don't encode non-printing characters.  The non-printing characters are "
+"encoded by ^ and M- notation by default.  Note that the B<-o udev> output "
+"format uses a different encoding which cannot be disabled."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:110
+#, no-wrap
+msgid "B<-g>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:114
+msgid ""
+"Perform a garbage collection pass on the blkid cache to remove devices which "
+"no longer exist."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:117
+msgid "Display a usage message and exit."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:117 raw/man1/logger.1:65
+#, no-wrap
+msgid "B<-i>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:121
+msgid ""
+"Display information about I/O Limits (aka I/O topology).  The 'export' "
+"output format is automatically enabled.  This option can be used together "
+"with the B<-p> option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:121
+#, no-wrap
+msgid "B<-k>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:124
+msgid "List all known filesystems and RAIDs and exit."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:134
+msgid ""
+"Look up only one device that matches the search parameter specified with the "
+"B<-t> option.  If there are multiple devices that match the specified search "
+"parameter, then the device with the highest priority is returned, and/or the "
+"first device found at a given priority.  Device types in order of decreasing "
+"priority are: Device Mapper, EVMS, LVM, MD, and finally regular block "
+"devices.  If this option is not specified, B<blkid> will print all of the "
+"devices that match the search parameter."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:134 raw/man8/swapon.8:118
+#, no-wrap
+msgid "B<-L>I< label>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:142
+msgid ""
+"Look up the device that uses this filesystem I<label>; this is equal to B<-l "
+"-o device -t LABEL=>I<label>.  This lookup method is able to reliably use /"
+"dev/disk/by-label udev symlinks (dependent on a setting in /etc/blkid."
+"conf).  Avoid using the symlinks directly; it is not reliable to use the "
+"symlinks without verification.  The B<-L> option works on systems with and "
+"without udev."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:148
+msgid ""
+"Unfortunately, the original B<blkid>(8)  from e2fsprogs uses the B<-L> "
+"option as a synonym for B<-o list>.  For better portability, use B<-l -o "
+"device -t LABEL=>I<label> and B<-o list> in your scripts rather than the B<-"
+"L> option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:148
+#, no-wrap
+msgid "B<-n>I< list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:154
+msgid ""
+"Restrict the probing functions to the specified (comma-separated) I<list> of "
+"superblock types (names).  The list items may be prefixed with \"no\" to "
+"specify the types which should be ignored.  For example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:156
+#, no-wrap
+msgid "  blkid -p -n vfat,ext3,ext4 /dev/sda1\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:158
+msgid "probes for vfat, ext3 and ext4 filesystems, and"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:160
+#, no-wrap
+msgid "  blkid -p -n nominix /dev/sda1\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:163
+msgid ""
+"probes for all supported formats except minix filesystems.  This option is "
+"only useful together with B<-p>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:163
+#, no-wrap
+msgid "B<-o>I< format>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:169
+msgid ""
+"Use the specified output format.  Note that the order of variables and "
+"devices is not fixed.  See also option B<-s>.  The I<format> parameter may "
+"be:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:170
+#, no-wrap
+msgid "B<full>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:173
+msgid "print all tags (the default)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:173
+#, no-wrap
+msgid "B<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:176
+msgid "print the value of the tags"
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:176
+#, no-wrap
+msgid "B<list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:180
+msgid ""
+"print the devices in a user-friendly format; this output format is "
+"unsupported for low-level probing (B<-p> or B<-i>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:184
+msgid ""
+"This output format is B<DEPRECATED> in favour of the B<lsblk>(8)  command."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:184
+#, no-wrap
+msgid "B<device>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:188
+msgid ""
+"print the device name only; this output format is always enabled for the B<-"
+"L> and B<-U> options"
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:188
+#, no-wrap
+msgid "B<udev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:192
+msgid ""
+"print key=\"value\" pairs for easy import into the udev environment; the "
+"keys are prefixed by ID_FS_ or ID_PART_ prefixes"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:196
+msgid ""
+"The udev output returns the ID_FS_AMBIVALENT tag if more superblocks are "
+"detected, and ID_PART_ENTRY_* tags are always returned for all partitions "
+"including empty partitions.  This output format is B<DEPRECATED>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:196
+#, no-wrap
+msgid "B<export>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:200
+msgid ""
+"print key=value pairs for easy import into the environment; this output "
+"format is automatically enabled when I/O Limits (B<-i> option) are requested."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:203
+msgid ""
+"The non-printing characters are encoded by ^ and M- notation and all "
+"potentially unsafe characters are escaped."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:204
+#, no-wrap
+msgid "B<-O>I< offset>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:208
+msgid ""
+"Probe at the given I<offset> (only useful with B<-p>).  This option can be "
+"used together with the B<-i> option."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:211
+msgid "Switch to low-level superblock probing mode (bypassing the cache)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:214
+msgid ""
+"Note that low-level probing also returns information about partition table "
+"type (PTTYPE tag) and partitions (PART_ENTRY_* tags)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:214
+#, no-wrap
+msgid "B<-s>I< tag>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:225
+msgid ""
+"For each (specified) device, show only the tags that match I<tag>.  It is "
+"possible to specify multiple B<-s> options.  If no tag is specified, then "
+"all tokens are shown for all (specified) devices.  In order to just refresh "
+"the cache without showing any tokens, use B<-s none> with no other options."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:225
+#, no-wrap
+msgid "B<-S>I< size>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:228
+msgid "Override the size of device/file (only useful with B<-p>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:228
+#, no-wrap
+msgid "B<-t>I< NAME>B<=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:244
+msgid ""
+"Search for block devices with tokens named I<NAME> that have the value "
+"I<value>, and display any devices which are found.  Common values for "
+"I<NAME> include B<TYPE>, B<LABEL>, and B<UUID>.  If there are no devices "
+"specified on the command line, all block devices will be searched; otherwise "
+"only the specified devices are searched."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:244
+#, no-wrap
+msgid "B<-u>I< list>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:249
+msgid ""
+"Restrict the probing functions to the specified (comma-separated) I<list> of "
+"\"usage\" types.  Supported usage types are: filesystem, raid, crypto and "
+"other.  The list items may be prefixed with \"no\" to specify the usage "
+"types which should be ignored.  For example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:251
+#, no-wrap
+msgid "  blkid -p -u filesystem,other /dev/sda1\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:253
+msgid "probes for all filesystem and other (e.g. swap) formats, and"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:255
+#, no-wrap
+msgid "  blkid -p -u noraid /dev/sda1\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:258
+msgid ""
+"probes for all supported formats except RAIDs.  This option is only useful "
+"together with B<-p>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:258 raw/man8/swapon.8:177
+#, no-wrap
+msgid "B<-U>I< uuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:261
+msgid ""
+"Look up the device that uses this filesystem I<uuid>.  For more details see "
+"the B<-L> option."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:264
+msgid "Display version number and exit."
+msgstr ""
+
+#. type: SH
+#: raw/man8/blkid.8:264
+#, no-wrap
+msgid "RETURN CODE"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:267
+msgid ""
+"If the specified token was found, or if any tags were shown from "
+"(specified)  devices, 0 is returned."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:270
+msgid ""
+"If the specified token was not found, or no (specified) devices could be "
+"identified, an exit code of 2 is returned."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:272
+msgid "For usage or other errors, an exit code of 4 is returned."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:275
+msgid ""
+"If an ambivalent low-level probing result was detected, an exit code of 8 is "
+"returned."
+msgstr ""
+
+#. type: SH
+#: raw/man8/blkid.8:275 raw/man3/libblkid.3:57
+#, no-wrap
+msgid "CONFIGURATION FILE"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:280
+msgid ""
+"The standard location of the I</etc/blkid.conf> config file can be "
+"overridden by the environment variable BLKID_CONF.  The following options "
+"control the libblkid library:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:280
+#, no-wrap
+msgid "I<SEND_UEVENT=E<lt>yes|notE<gt>>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:285
+msgid ""
+"Sends uevent when I</dev/disk/by-{label,uuid,partuuid,partlabel}/> symlink "
+"does not match with LABEL, UUID, PARTUUID or PARTLABEL on the device.  "
+"Default is \"yes\"."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:285
+#, no-wrap
+msgid "I<CACHE_FILE=E<lt>pathE<gt>>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:293
+msgid ""
+"Overrides the standard location of the cache file.  This setting can be "
+"overridden by the environment variable BLKID_FILE.  Default is I</run/blkid/"
+"blkid.tab>, or I</etc/blkid.tab> on systems without a /run directory."
+msgstr ""
+
+#. type: TP
+#: raw/man8/blkid.8:293
+#, no-wrap
+msgid "I<EVALUATE=E<lt>methodsE<gt>>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:302
+msgid ""
+"Defines LABEL and UUID evaluation method(s).  Currently, the libblkid "
+"library supports the \"udev\" and \"scan\" methods.  More than one method "
+"may be specified in a comma-separated list.  Default is \"udev,scan\".  The "
+"\"udev\" method uses udev I</dev/disk/by-*> symlinks and the \"scan\" method "
+"scans all block devices from the I</proc/partitions> file."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:306
+msgid ""
+"B<blkid> was written by Andreas Dilger for libblkid and improved by Theodore "
+"Ts'o and Karel Zak."
+msgstr ""
+
+#. type: IP
+#: raw/man8/blkid.8:307
+#, no-wrap
+msgid "Setting LIBBLKID_DEBUG=all enables debug output."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:313
+msgid "B<libblkid>(3), B<findfs>(8), B<wipefs>(8), B<lsblk>(8),"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/blkid.8:315
+msgid ""
+"The blkid command is part of the util-linux package and is available from "
+"ftp://ftp.kernel.org/pub/linux/utils/util-linux/."
+msgstr ""

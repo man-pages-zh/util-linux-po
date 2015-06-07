@@ -1,0 +1,6871 @@
+# Chinese translations for PACKAGE package
+# Copyright (C) 2015 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-06-07 15:27+0800\n"
+"PO-Revision-Date: 2015-06-07 15:27+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/uuidd.8:5 raw/man8/fstrim.8:1 raw/man8/mount.8:30
+#: raw/man8/fsfreeze.8:1 raw/man8/wdctl.8:4 raw/man8/ldattach.8:3
+#: raw/man8/zramctl.8:1 raw/man8/losetup.8:1 raw/man8/chcpu.8:1
+#: raw/man8/fdformat.8:3 raw/man8/umount.8:25 raw/man1/kill.1:4
+#: raw/man1/tailf.1:24 raw/man1/runuser.1:1 raw/man1/mesg.1:34
+#: raw/man1/flock.1:27 raw/man1/chfn.1:9 raw/man1/chsh.1:9 raw/man1/setsid.1:3
+#: raw/man1/col.1:37 raw/man1/pg.1:2 raw/man1/unshare.1:1 raw/man1/renice.1:34
+#: raw/man1/ipcs.1:3 raw/man1/column.1:34 raw/man1/su.1:1 raw/man1/setpriv.1:1
+#: raw/man1/ipcmk.1:3 raw/man1/utmpdump.1:17 raw/man1/prlimit.1:5
+#: raw/man1/ipcrm.1:3 raw/man1/mountpoint.1:1
+#, no-wrap
+msgid "July 2014"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man8/mkfs.cramfs.8:1 raw/man8/fsck.8:4
+#: raw/man8/raw.8:1 raw/man8/hwclock.8:21 raw/man8/mkswap.8:5
+#: raw/man8/resizepart.8:5 raw/man8/nologin.8:1 raw/man8/wipefs.8:4
+#: raw/man8/sfdisk.8:13 raw/man8/blockdev.8:5 raw/man8/fstrim.8:1
+#: raw/man8/mount.8:30 raw/man8/fsfreeze.8:1 raw/man8/pivot_root.8:1
+#: raw/man8/mkfs.8:1 raw/man8/blkid.8:4 raw/man8/swaplabel.8:5
+#: raw/man8/ctrlaltdel.8:3 raw/man8/mkfs.bfs.8:3 raw/man8/partx.8:7
+#: raw/man8/wdctl.8:4 raw/man8/ldattach.8:3 raw/man8/zramctl.8:1
+#: raw/man8/swapon.8:34 raw/man8/cfdisk.8:14 raw/man8/findfs.8:4
+#: raw/man8/setarch.8:1 raw/man8/mkfs.minix.8:3 raw/man8/readprofile.8:1
+#: raw/man8/losetup.8:1 raw/man8/switch_root.8:2 raw/man8/lslocks.8:5
+#: raw/man8/chcpu.8:1 raw/man8/fsck.cramfs.8:1 raw/man8/vipw.8:34
+#: raw/man8/lsblk.8:1 raw/man8/delpart.8:5 raw/man8/fdformat.8:3
+#: raw/man8/umount.8:25 raw/man8/agetty.8:1 raw/man5/terminal-colors.d.5:6
+#: raw/man5/fstab.5:34 raw/man1/hexdump.1:34 raw/man1/kill.1:4
+#: raw/man1/tailf.1:24 raw/man1/rename.1:4 raw/man1/login.1:3
+#: raw/man1/setterm.1:7 raw/man1/colrm.1:34 raw/man1/runuser.1:1
+#: raw/man1/nsenter.1:1 raw/man1/mesg.1:34 raw/man1/write.1:37
+#: raw/man1/flock.1:27 raw/man1/taskset.1:23 raw/man1/chfn.1:9
+#: raw/man1/line.1:2 raw/man1/chsh.1:9 raw/man1/setsid.1:3 raw/man1/col.1:37
+#: raw/man1/scriptreplay.1:1 raw/man1/ionice.1:1 raw/man1/colcrt.1:34
+#: raw/man1/newgrp.1:3 raw/man1/last-deprecated.1:1 raw/man1/chrt.1:23
+#: raw/man1/rev.1:34 raw/man1/dmesg.1:3 raw/man1/pg.1:2 raw/man1/look.1:34
+#: raw/man1/fallocate.1:1 raw/man1/logger.1:34 raw/man1/script.1:34
+#: raw/man1/more.1:37 raw/man1/unshare.1:1 raw/man1/last.1:17
+#: raw/man1/lslogins.1:3 raw/man1/uuidgen.1:4 raw/man1/renice.1:34
+#: raw/man1/mcookie.1:3 raw/man1/ipcs.1:3 raw/man1/ul.1:34
+#: raw/man1/column.1:34 raw/man1/lscpu.1:1 raw/man1/su.1:1
+#: raw/man1/setpriv.1:1 raw/man1/ipcmk.1:3 raw/man1/reset.1:3
+#: raw/man1/cal.1:37 raw/man1/getopt.1:1 raw/man1/utmpdump.1:17
+#: raw/man1/namei.1:1 raw/man1/prlimit.1:5 raw/man1/wall.1:34
+#: raw/man1/ipcrm.1:3 raw/man1/mountpoint.1:1 raw/man1/whereis.1:33
+#: raw/man3/uuid_compare.3:32 raw/man3/uuid_generate.3:32
+#: raw/man3/uuid_is_null.3:32 raw/man3/uuid_unparse.3:32 raw/man3/libblkid.3:9
+#: raw/man3/uuid.3:32 raw/man3/uuid_time.3:32 raw/man3/uuid_parse.3:32
+#: raw/man3/uuid_copy.3:32 raw/man3/uuid_clear.3:32
+#, no-wrap
+msgid "util-linux"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man8/mkfs.cramfs.8:1 raw/man8/fsck.8:4
+#: raw/man8/raw.8:1 raw/man8/hwclock.8:21 raw/man8/mkswap.8:5
+#: raw/man8/resizepart.8:5 raw/man8/nologin.8:1 raw/man8/wipefs.8:4
+#: raw/man8/sfdisk.8:13 raw/man8/blockdev.8:5 raw/man8/fstrim.8:1
+#: raw/man8/mount.8:30 raw/man8/fsfreeze.8:1 raw/man8/pivot_root.8:1
+#: raw/man8/mkfs.8:1 raw/man8/blkid.8:4 raw/man8/swaplabel.8:5
+#: raw/man8/ctrlaltdel.8:3 raw/man8/mkfs.bfs.8:3 raw/man8/partx.8:7
+#: raw/man8/wdctl.8:4 raw/man8/ldattach.8:3 raw/man8/zramctl.8:1
+#: raw/man8/swapon.8:34 raw/man8/cfdisk.8:14 raw/man8/findfs.8:4
+#: raw/man8/setarch.8:1 raw/man8/mkfs.minix.8:3 raw/man8/readprofile.8:1
+#: raw/man8/losetup.8:1 raw/man8/switch_root.8:2 raw/man8/lslocks.8:5
+#: raw/man8/chcpu.8:1 raw/man8/fsck.cramfs.8:1 raw/man8/vipw.8:34
+#: raw/man8/lsblk.8:1 raw/man8/delpart.8:5 raw/man8/fdformat.8:3
+#: raw/man8/umount.8:25 raw/man8/agetty.8:1
+#, no-wrap
+msgid "System Administration"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:20 raw/man8/blkdiscard.8:2 raw/man8/sulogin.8:19
+#: raw/man8/isosize.8:2 raw/man8/tunelp.8:8 raw/man8/fsck.minix.8:4
+#: raw/man8/fdisk.8:8 raw/man8/findmnt.8:2 raw/man8/uuidd.8:6
+#: raw/man8/addpart.8:6 raw/man8/mkfs.cramfs.8:2 raw/man8/fsck.8:5
+#: raw/man8/raw.8:2 raw/man8/hwclock.8:22 raw/man8/mkswap.8:6
+#: raw/man8/resizepart.8:6 raw/man8/nologin.8:2 raw/man8/wipefs.8:5
+#: raw/man8/sfdisk.8:14 raw/man8/blockdev.8:6 raw/man8/fstrim.8:2
+#: raw/man8/mount.8:31 raw/man8/fsfreeze.8:2 raw/man8/pivot_root.8:2
+#: raw/man8/mkfs.8:2 raw/man8/blkid.8:5 raw/man8/swaplabel.8:6
+#: raw/man8/ctrlaltdel.8:4 raw/man8/mkfs.bfs.8:4 raw/man8/partx.8:8
+#: raw/man8/wdctl.8:5 raw/man8/ldattach.8:4 raw/man8/zramctl.8:2
+#: raw/man8/swapon.8:35 raw/man8/cfdisk.8:15 raw/man8/findfs.8:5
+#: raw/man8/setarch.8:2 raw/man8/mkfs.minix.8:4 raw/man8/readprofile.8:2
+#: raw/man8/losetup.8:2 raw/man8/switch_root.8:3 raw/man8/lslocks.8:6
+#: raw/man8/chcpu.8:2 raw/man8/fsck.cramfs.8:2 raw/man8/vipw.8:35
+#: raw/man8/lsblk.8:2 raw/man8/delpart.8:6 raw/man8/fdformat.8:4
+#: raw/man8/umount.8:26 raw/man8/agetty.8:2 raw/man5/hwclock.5:2
+#: raw/man5/terminal-colors.d.5:7 raw/man5/fstab.5:35 raw/man1/hexdump.1:35
+#: raw/man1/kill.1:5 raw/man1/tailf.1:25 raw/man1/rename.1:5
+#: raw/man1/login.1:4 raw/man1/setterm.1:8 raw/man1/colrm.1:35
+#: raw/man1/runuser.1:2 raw/man1/nsenter.1:2 raw/man1/mesg.1:35
+#: raw/man1/write.1:38 raw/man1/flock.1:28 raw/man1/taskset.1:24
+#: raw/man1/chfn.1:10 raw/man1/line.1:3 raw/man1/chsh.1:10 raw/man1/setsid.1:4
+#: raw/man1/col.1:38 raw/man1/scriptreplay.1:2 raw/man1/ionice.1:2
+#: raw/man1/colcrt.1:35 raw/man1/newgrp.1:4 raw/man1/last-deprecated.1:2
+#: raw/man1/chrt.1:24 raw/man1/rev.1:35 raw/man1/dmesg.1:4 raw/man1/pg.1:3
+#: raw/man1/look.1:35 raw/man1/fallocate.1:2 raw/man1/logger.1:35
+#: raw/man1/script.1:35 raw/man1/more.1:38 raw/man1/unshare.1:2
+#: raw/man1/last.1:18 raw/man1/lslogins.1:4 raw/man1/uuidgen.1:5
+#: raw/man1/renice.1:35 raw/man1/mcookie.1:4 raw/man1/ipcs.1:4
+#: raw/man1/ul.1:35 raw/man1/column.1:35 raw/man1/lscpu.1:2 raw/man1/eject.1:8
+#: raw/man1/su.1:2 raw/man1/setpriv.1:2 raw/man1/ipcmk.1:4 raw/man1/reset.1:4
+#: raw/man1/cal.1:38 raw/man1/getopt.1:2 raw/man1/utmpdump.1:18
+#: raw/man1/namei.1:2 raw/man1/prlimit.1:6 raw/man1/wall.1:35
+#: raw/man1/ipcrm.1:4 raw/man1/mountpoint.1:2 raw/man1/whereis.1:34
+#: raw/man3/uuid_compare.3:33 raw/man3/uuid_generate.3:33
+#: raw/man3/uuid_is_null.3:33 raw/man3/uuid_unparse.3:33
+#: raw/man3/libblkid.3:10 raw/man3/uuid.3:33 raw/man3/uuid_time.3:33
+#: raw/man3/uuid_parse.3:33 raw/man3/uuid_copy.3:33 raw/man3/uuid_clear.3:33
+#, no-wrap
+msgid "NAME"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:22 raw/man8/blkdiscard.8:4 raw/man8/sulogin.8:21
+#: raw/man8/isosize.8:4 raw/man8/tunelp.8:10 raw/man8/fsck.minix.8:6
+#: raw/man8/fdisk.8:11 raw/man8/findmnt.8:4 raw/man8/uuidd.8:8
+#: raw/man8/addpart.8:8 raw/man8/mkfs.cramfs.8:4 raw/man8/fsck.8:7
+#: raw/man8/raw.8:4 raw/man8/hwclock.8:24 raw/man8/mkswap.8:8
+#: raw/man8/resizepart.8:8 raw/man8/nologin.8:4 raw/man8/wipefs.8:7
+#: raw/man8/sfdisk.8:16 raw/man8/blockdev.8:8 raw/man8/fstrim.8:4
+#: raw/man8/mount.8:33 raw/man8/fsfreeze.8:4 raw/man8/pivot_root.8:4
+#: raw/man8/mkfs.8:4 raw/man8/blkid.8:7 raw/man8/swaplabel.8:8
+#: raw/man8/ctrlaltdel.8:6 raw/man8/mkfs.bfs.8:6 raw/man8/partx.8:10
+#: raw/man8/wdctl.8:7 raw/man8/ldattach.8:6 raw/man8/zramctl.8:4
+#: raw/man8/swapon.8:37 raw/man8/cfdisk.8:17 raw/man8/findfs.8:7
+#: raw/man8/setarch.8:4 raw/man8/mkfs.minix.8:6 raw/man8/readprofile.8:4
+#: raw/man8/losetup.8:4 raw/man8/switch_root.8:5 raw/man8/lslocks.8:8
+#: raw/man8/chcpu.8:4 raw/man8/fsck.cramfs.8:4 raw/man8/vipw.8:37
+#: raw/man8/lsblk.8:4 raw/man8/delpart.8:8 raw/man8/fdformat.8:6
+#: raw/man8/umount.8:28 raw/man8/agetty.8:5 raw/man5/terminal-colors.d.5:9
+#: raw/man5/fstab.5:37 raw/man1/hexdump.1:37 raw/man1/kill.1:7
+#: raw/man1/tailf.1:27 raw/man1/rename.1:7 raw/man1/login.1:6
+#: raw/man1/setterm.1:10 raw/man1/colrm.1:37 raw/man1/runuser.1:4
+#: raw/man1/nsenter.1:4 raw/man1/mesg.1:37 raw/man1/write.1:40
+#: raw/man1/flock.1:30 raw/man1/taskset.1:26 raw/man1/chfn.1:12
+#: raw/man1/line.1:5 raw/man1/chsh.1:12 raw/man1/setsid.1:6 raw/man1/col.1:40
+#: raw/man1/scriptreplay.1:4 raw/man1/ionice.1:4 raw/man1/colcrt.1:37
+#: raw/man1/newgrp.1:6 raw/man1/last-deprecated.1:4 raw/man1/chrt.1:26
+#: raw/man1/rev.1:37 raw/man1/dmesg.1:6 raw/man1/pg.1:5 raw/man1/look.1:37
+#: raw/man1/fallocate.1:4 raw/man1/logger.1:37 raw/man1/script.1:37
+#: raw/man1/more.1:40 raw/man1/unshare.1:4 raw/man1/last.1:20
+#: raw/man1/lslogins.1:6 raw/man1/uuidgen.1:7 raw/man1/renice.1:37
+#: raw/man1/mcookie.1:6 raw/man1/ipcs.1:6 raw/man1/ul.1:37
+#: raw/man1/column.1:37 raw/man1/lscpu.1:4 raw/man1/eject.1:10 raw/man1/su.1:4
+#: raw/man1/setpriv.1:4 raw/man1/ipcmk.1:6 raw/man1/reset.1:6
+#: raw/man1/cal.1:40 raw/man1/getopt.1:4 raw/man1/utmpdump.1:20
+#: raw/man1/namei.1:4 raw/man1/prlimit.1:8 raw/man1/wall.1:37
+#: raw/man1/ipcrm.1:6 raw/man1/mountpoint.1:4 raw/man1/whereis.1:36
+#: raw/man3/uuid_compare.3:35 raw/man3/uuid_generate.3:36
+#: raw/man3/uuid_is_null.3:35 raw/man3/uuid_unparse.3:35
+#: raw/man3/libblkid.3:12 raw/man3/uuid.3:35 raw/man3/uuid_time.3:35
+#: raw/man3/uuid_parse.3:35 raw/man3/uuid_copy.3:35 raw/man3/uuid_clear.3:35
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:30 raw/man8/blkdiscard.8:13 raw/man8/sulogin.8:24
+#: raw/man8/isosize.8:7 raw/man8/tunelp.8:14 raw/man8/fsck.minix.8:10
+#: raw/man8/fdisk.8:19 raw/man8/findmnt.8:18 raw/man8/uuidd.8:11
+#: raw/man8/addpart.8:11 raw/man8/mkfs.cramfs.8:8 raw/man8/fsck.8:17
+#: raw/man8/raw.8:15 raw/man8/hwclock.8:29 raw/man8/mkswap.8:13
+#: raw/man8/resizepart.8:11 raw/man8/nologin.8:8 raw/man8/wipefs.8:13
+#: raw/man8/sfdisk.8:26 raw/man8/blockdev.8:20 raw/man8/fstrim.8:16
+#: raw/man8/mount.8:57 raw/man8/fsfreeze.8:9 raw/man8/pivot_root.8:7
+#: raw/man8/mkfs.8:9 raw/man8/blkid.8:51 raw/man8/swaplabel.8:15
+#: raw/man8/ctrlaltdel.8:8 raw/man8/mkfs.bfs.8:9 raw/man8/partx.8:21
+#: raw/man8/wdctl.8:11 raw/man8/ldattach.8:14 raw/man8/zramctl.8:39
+#: raw/man8/swapon.8:45 raw/man8/cfdisk.8:21 raw/man8/findfs.8:10
+#: raw/man8/setarch.8:18 raw/man8/mkfs.minix.8:17 raw/man8/readprofile.8:9
+#: raw/man8/losetup.8:61 raw/man8/switch_root.8:13 raw/man8/lslocks.8:12
+#: raw/man8/chcpu.8:14 raw/man8/fsck.cramfs.8:8 raw/man8/vipw.8:43
+#: raw/man8/lsblk.8:8 raw/man8/delpart.8:11 raw/man8/fdformat.8:9
+#: raw/man8/umount.8:43 raw/man8/agetty.8:10 raw/man5/hwclock.5:4
+#: raw/man5/terminal-colors.d.5:11 raw/man5/fstab.5:39 raw/man1/hexdump.1:40
+#: raw/man1/kill.1:20 raw/man1/tailf.1:31 raw/man1/rename.1:11
+#: raw/man1/login.1:21 raw/man1/setterm.1:13 raw/man1/colrm.1:40
+#: raw/man1/runuser.1:11 raw/man1/nsenter.1:9 raw/man1/mesg.1:41
+#: raw/man1/write.1:44 raw/man1/flock.1:42 raw/man1/taskset.1:35
+#: raw/man1/chfn.1:25 raw/man1/line.1:7 raw/man1/chsh.1:20
+#: raw/man1/setsid.1:11 raw/man1/col.1:43 raw/man1/scriptreplay.1:11
+#: raw/man1/ionice.1:39 raw/man1/colcrt.1:41 raw/man1/newgrp.1:9
+#: raw/man1/last-deprecated.1:20 raw/man1/chrt.1:35 raw/man1/rev.1:41
+#: raw/man1/dmesg.1:19 raw/man1/pg.1:14 raw/man1/look.1:41
+#: raw/man1/fallocate.1:22 raw/man1/logger.1:41 raw/man1/script.1:41
+#: raw/man1/more.1:44 raw/man1/unshare.1:9 raw/man1/last.1:28
+#: raw/man1/lslogins.1:12 raw/man1/uuidgen.1:10 raw/man1/renice.1:43
+#: raw/man1/mcookie.1:9 raw/man1/ipcs.1:9 raw/man1/ul.1:40
+#: raw/man1/column.1:40 raw/man1/lscpu.1:10 raw/man1/eject.1:14
+#: raw/man1/su.1:7 raw/man1/setpriv.1:9 raw/man1/ipcmk.1:9 raw/man1/reset.1:8
+#: raw/man1/cal.1:44 raw/man1/getopt.1:20 raw/man1/utmpdump.1:23
+#: raw/man1/namei.1:8 raw/man1/prlimit.1:17 raw/man1/wall.1:43
+#: raw/man1/ipcrm.1:13 raw/man1/mountpoint.1:15 raw/man1/whereis.1:42
+#: raw/man3/uuid_compare.3:41 raw/man3/uuid_generate.3:45
+#: raw/man3/uuid_is_null.3:41 raw/man3/uuid_unparse.3:43
+#: raw/man3/libblkid.3:18 raw/man3/uuid.3:37 raw/man3/uuid_time.3:41
+#: raw/man3/uuid_parse.3:41 raw/man3/uuid_copy.3:41 raw/man3/uuid_clear.3:41
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: TP
+#: raw/man8/rtcwake.8:126 raw/man8/blkdiscard.8:60 raw/man8/mount.8:820
+#: raw/man8/mkfs.bfs.8:30 raw/man8/partx.8:138 raw/man8/swapon.8:181
+#: raw/man8/setarch.8:33 raw/man8/losetup.8:133 raw/man8/umount.8:136
+#: raw/man1/rename.1:21 raw/man1/mesg.1:70 raw/man1/fallocate.1:86
+#: raw/man1/mcookie.1:42 raw/man1/eject.1:101
+#, no-wrap
+msgid "B<-v>,B< --verbose>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/rtcwake.8:129 raw/man8/blkdiscard.8:67 raw/man8/mkswap.8:98
+#: raw/man8/wipefs.8:87 raw/man8/fstrim.8:90 raw/man8/mount.8:827
+#: raw/man8/fsfreeze.8:58 raw/man8/mkfs.8:64 raw/man8/mkfs.bfs.8:42
+#: raw/man8/partx.8:141 raw/man8/wdctl.8:50 raw/man8/ldattach.8:139
+#: raw/man8/zramctl.8:83 raw/man8/swapon.8:184 raw/man8/cfdisk.8:63
+#: raw/man8/setarch.8:69 raw/man8/losetup.8:136 raw/man8/lslocks.8:37
+#: raw/man8/chcpu.8:73 raw/man8/lsblk.8:120 raw/man8/umount.8:139
+#: raw/man1/hexdump.1:120 raw/man1/rename.1:24 raw/man1/runuser.1:141
+#: raw/man1/mesg.1:73 raw/man1/flock.1:109 raw/man1/setsid.1:23
+#: raw/man1/scriptreplay.1:64 raw/man1/ionice.1:113 raw/man1/dmesg.1:186
+#: raw/man1/pg.1:89 raw/man1/look.1:82 raw/man1/fallocate.1:106
+#: raw/man1/logger.1:220 raw/man1/unshare.1:100 raw/man1/uuidgen.1:47
+#: raw/man1/renice.1:74 raw/man1/mcookie.1:46 raw/man1/lscpu.1:133
+#: raw/man1/eject.1:98 raw/man1/su.1:131 raw/man1/setpriv.1:127
+#: raw/man1/ipcmk.1:34 raw/man1/getopt.1:172 raw/man1/utmpdump.1:41
+#: raw/man1/namei.1:60 raw/man1/wall.1:70 raw/man1/ipcrm.1:83
+#: raw/man1/mountpoint.1:33
+#, no-wrap
+msgid "B<-V>,B< --version>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/rtcwake.8:132 raw/man8/blkdiscard.8:70 raw/man8/sulogin.8:71
+#: raw/man8/fdisk.8:120 raw/man8/mkfs.cramfs.8:69 raw/man8/raw.8:77
+#: raw/man8/hwclock.8:255 raw/man8/mkswap.8:101 raw/man8/nologin.8:25
+#: raw/man8/wipefs.8:90 raw/man8/sfdisk.8:174 raw/man8/fstrim.8:93
+#: raw/man8/mount.8:830 raw/man8/fsfreeze.8:61 raw/man8/pivot_root.8:39
+#: raw/man8/ctrlaltdel.8:36 raw/man8/partx.8:144 raw/man8/wdctl.8:53
+#: raw/man8/ldattach.8:142 raw/man8/zramctl.8:86 raw/man8/swapon.8:187
+#: raw/man8/cfdisk.8:66 raw/man8/setarch.8:72 raw/man8/readprofile.8:90
+#: raw/man8/losetup.8:139 raw/man8/switch_root.8:30 raw/man8/lslocks.8:40
+#: raw/man8/chcpu.8:76 raw/man8/fsck.cramfs.8:34 raw/man8/lsblk.8:123
+#: raw/man8/fdformat.8:62 raw/man8/umount.8:142 raw/man8/agetty.8:263
+#: raw/man1/hexdump.1:123 raw/man1/tailf.1:52 raw/man1/rename.1:27
+#: raw/man1/login.1:136 raw/man1/colrm.1:59 raw/man1/runuser.1:144
+#: raw/man1/nsenter.1:160 raw/man1/mesg.1:76 raw/man1/flock.1:112
+#: raw/man1/taskset.1:86 raw/man1/chfn.1:72 raw/man1/chsh.1:46
+#: raw/man1/setsid.1:26 raw/man1/col.1:85 raw/man1/scriptreplay.1:67
+#: raw/man1/ionice.1:116 raw/man1/colcrt.1:66 raw/man1/chrt.1:109
+#: raw/man1/rev.1:50 raw/man1/dmesg.1:189 raw/man1/look.1:85
+#: raw/man1/fallocate.1:109 raw/man1/logger.1:223 raw/man1/script.1:99
+#: raw/man1/unshare.1:103 raw/man1/lslogins.1:92 raw/man1/uuidgen.1:50
+#: raw/man1/renice.1:77 raw/man1/mcookie.1:49 raw/man1/ipcs.1:30
+#: raw/man1/ul.1:74 raw/man1/column.1:63 raw/man1/lscpu.1:136
+#: raw/man1/eject.1:101 raw/man1/su.1:134 raw/man1/setpriv.1:130
+#: raw/man1/ipcmk.1:37 raw/man1/cal.1:80 raw/man1/utmpdump.1:44
+#: raw/man1/namei.1:63 raw/man1/prlimit.1:57 raw/man1/wall.1:73
+#: raw/man1/ipcrm.1:86 raw/man1/mountpoint.1:36
+msgid "Display version information and exit."
+msgstr ""
+
+#. type: TP
+#: raw/man8/rtcwake.8:132 raw/man8/blkdiscard.8:70 raw/man8/findmnt.8:81
+#: raw/man8/mkswap.8:95 raw/man8/wipefs.8:58 raw/man8/sfdisk.8:174
+#: raw/man8/fstrim.8:93 raw/man8/mount.8:830 raw/man8/fsfreeze.8:61
+#: raw/man8/mkfs.8:69 raw/man8/swaplabel.8:40 raw/man8/mkfs.bfs.8:39
+#: raw/man8/partx.8:144 raw/man8/wdctl.8:53 raw/man8/ldattach.8:142
+#: raw/man8/zramctl.8:86 raw/man8/swapon.8:115 raw/man8/cfdisk.8:54
+#: raw/man8/setarch.8:72 raw/man8/losetup.8:139 raw/man8/lslocks.8:40
+#: raw/man8/chcpu.8:76 raw/man8/lsblk.8:67 raw/man8/umount.8:142
+#: raw/man1/hexdump.1:123 raw/man1/rename.1:27 raw/man1/runuser.1:144
+#: raw/man1/mesg.1:76 raw/man1/flock.1:112 raw/man1/setsid.1:26
+#: raw/man1/scriptreplay.1:67 raw/man1/ionice.1:106 raw/man1/dmesg.1:189
+#: raw/man1/pg.1:92 raw/man1/look.1:85 raw/man1/fallocate.1:109
+#: raw/man1/logger.1:223 raw/man1/unshare.1:103 raw/man1/uuidgen.1:44
+#: raw/man1/renice.1:77 raw/man1/mcookie.1:49 raw/man1/lscpu.1:108
+#: raw/man1/eject.1:53 raw/man1/su.1:134 raw/man1/setpriv.1:130
+#: raw/man1/ipcmk.1:37 raw/man1/getopt.1:93 raw/man1/utmpdump.1:44
+#: raw/man1/namei.1:63 raw/man1/wall.1:73 raw/man1/ipcrm.1:86
+#: raw/man1/mountpoint.1:36
+#, no-wrap
+msgid "B<-h>,B< --help>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/rtcwake.8:135 raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:69
+#: raw/man8/findmnt.8:84 raw/man8/raw.8:74 raw/man8/hwclock.8:259
+#: raw/man8/mkswap.8:98 raw/man8/nologin.8:23 raw/man8/wipefs.8:61
+#: raw/man8/sfdisk.8:177 raw/man8/fstrim.8:96 raw/man8/mount.8:833
+#: raw/man8/fsfreeze.8:64 raw/man8/pivot_root.8:42 raw/man8/mkfs.8:72
+#: raw/man8/swaplabel.8:43 raw/man8/ctrlaltdel.8:39 raw/man8/mkfs.bfs.8:42
+#: raw/man8/partx.8:147 raw/man8/wdctl.8:56 raw/man8/ldattach.8:145
+#: raw/man8/zramctl.8:89 raw/man8/swapon.8:118 raw/man8/cfdisk.8:57
+#: raw/man8/setarch.8:75 raw/man8/readprofile.8:93 raw/man8/losetup.8:142
+#: raw/man8/switch_root.8:28 raw/man8/lslocks.8:43 raw/man8/chcpu.8:79
+#: raw/man8/fsck.cramfs.8:37 raw/man8/lsblk.8:70 raw/man8/fdformat.8:65
+#: raw/man8/umount.8:145 raw/man8/agetty.8:266 raw/man1/hexdump.1:126
+#: raw/man1/tailf.1:55 raw/man1/rename.1:30 raw/man1/colrm.1:62
+#: raw/man1/runuser.1:147 raw/man1/nsenter.1:163 raw/man1/mesg.1:79
+#: raw/man1/flock.1:115 raw/man1/taskset.1:89 raw/man1/chfn.1:69
+#: raw/man1/chsh.1:43 raw/man1/setsid.1:29 raw/man1/col.1:88
+#: raw/man1/scriptreplay.1:70 raw/man1/ionice.1:109 raw/man1/colcrt.1:69
+#: raw/man1/chrt.1:112 raw/man1/rev.1:53 raw/man1/dmesg.1:192 raw/man1/pg.1:95
+#: raw/man1/look.1:88 raw/man1/fallocate.1:112 raw/man1/logger.1:226
+#: raw/man1/script.1:102 raw/man1/unshare.1:106 raw/man1/uuidgen.1:47
+#: raw/man1/renice.1:80 raw/man1/mcookie.1:52 raw/man1/ipcs.1:27
+#: raw/man1/ul.1:77 raw/man1/column.1:65 raw/man1/lscpu.1:111
+#: raw/man1/eject.1:56 raw/man1/su.1:137 raw/man1/setpriv.1:133
+#: raw/man1/ipcmk.1:40 raw/man1/cal.1:83 raw/man1/utmpdump.1:47
+#: raw/man1/namei.1:66 raw/man1/prlimit.1:43 raw/man1/wall.1:76
+#: raw/man1/ipcrm.1:89 raw/man1/mountpoint.1:39
+msgid "Display help text and exit."
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:139 raw/man8/tunelp.8:138 raw/man8/fsck.8:388
+#: raw/man8/hwclock.8:1047 raw/man8/mount.8:3179 raw/man8/ctrlaltdel.8:39
+#: raw/man8/zramctl.8:94 raw/man8/swapon.8:240 raw/man8/readprofile.8:142
+#: raw/man8/losetup.8:155 raw/man8/umount.8:182 raw/man8/agetty.8:396
+#: raw/man5/terminal-colors.d.5:170 raw/man5/fstab.5:230 raw/man1/login.1:273
+#: raw/man1/runuser.1:206 raw/man1/mesg.1:94 raw/man1/newgrp.1:19
+#: raw/man1/last-deprecated.1:58 raw/man1/look.1:100 raw/man1/last.1:181
+#: raw/man1/renice.1:95 raw/man1/mcookie.1:54 raw/man1/su.1:212
+#, no-wrap
+msgid "FILES"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:141 raw/man8/nologin.8:44 raw/man8/mount.8:3281
+#: raw/man8/swapon.8:247 raw/man8/vipw.8:77 raw/man8/umount.8:200
+#: raw/man5/fstab.5:239 raw/man1/colrm.1:67 raw/man1/runuser.1:226
+#: raw/man1/mesg.1:102 raw/man1/write.1:95 raw/man1/col.1:150
+#: raw/man1/colcrt.1:97 raw/man1/look.1:112 raw/man1/script.1:169
+#: raw/man1/more.1:228 raw/man1/lslogins.1:117 raw/man1/renice.1:111
+#: raw/man1/ul.1:105 raw/man1/column.1:97 raw/man1/su.1:246 raw/man1/cal.1:128
+#: raw/man1/wall.1:87
+#, no-wrap
+msgid "HISTORY"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:145 raw/man8/fdisk.8:308 raw/man8/findmnt.8:257
+#: raw/man8/hwclock.8:1080 raw/man8/nologin.8:36 raw/man8/mount.8:3285
+#: raw/man8/mkfs.8:79 raw/man8/partx.8:178 raw/man8/wdctl.8:56
+#: raw/man8/zramctl.8:112 raw/man8/losetup.8:179 raw/man8/switch_root.8:53
+#: raw/man8/lslocks.8:78 raw/man8/lsblk.8:149 raw/man8/agetty.8:435
+#: raw/man1/kill.1:154 raw/man1/ionice.1:133 raw/man1/dmesg.1:230
+#: raw/man1/fallocate.1:112 raw/man1/more.1:222 raw/man1/lslogins.1:119
+#: raw/man1/eject.1:164 raw/man1/prlimit.1:114
+#, no-wrap
+msgid "AUTHORS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:152 raw/man8/blkdiscard.8:77 raw/man8/fsck.minix.8:79
+#: raw/man8/fdisk.8:331 raw/man8/findmnt.8:261 raw/man8/uuidd.8:87
+#: raw/man8/addpart.8:32 raw/man8/mkfs.cramfs.8:83 raw/man8/fsck.8:443
+#: raw/man8/hwclock.8:1069 raw/man8/mkswap.8:139 raw/man8/resizepart.8:29
+#: raw/man8/nologin.8:40 raw/man8/wipefs.8:103 raw/man8/sfdisk.8:403
+#: raw/man8/fstrim.8:116 raw/man8/mount.8:3206 raw/man8/fsfreeze.8:71
+#: raw/man8/pivot_root.8:67 raw/man8/mkfs.8:88 raw/man8/blkid.8:308
+#: raw/man8/swaplabel.8:67 raw/man8/ctrlaltdel.8:41 raw/man8/mkfs.bfs.8:54
+#: raw/man8/partx.8:172 raw/man8/ldattach.8:145 raw/man8/swapon.8:232
+#: raw/man8/cfdisk.8:185 raw/man8/findfs.8:76 raw/man8/mkfs.minix.8:80
+#: raw/man8/switch_root.8:48 raw/man8/lslocks.8:83 raw/man8/chcpu.8:100
+#: raw/man8/fsck.cramfs.8:54 raw/man8/vipw.8:72 raw/man8/lsblk.8:161
+#: raw/man8/delpart.8:19 raw/man8/fdformat.8:65 raw/man8/umount.8:196
+#: raw/man5/hwclock.5:38 raw/man5/fstab.5:233 raw/man1/kill.1:147
+#: raw/man1/tailf.1:62 raw/man1/rename.1:79 raw/man1/login.1:287
+#: raw/man1/setterm.1:269 raw/man1/colrm.1:62 raw/man1/runuser.1:221
+#: raw/man1/nsenter.1:163 raw/man1/mesg.1:96 raw/man1/write.1:91
+#: raw/man1/flock.1:179 raw/man1/taskset.1:109 raw/man1/chfn.1:74
+#: raw/man1/line.1:13 raw/man1/chsh.1:56 raw/man1/setsid.1:29
+#: raw/man1/col.1:140 raw/man1/scriptreplay.1:80 raw/man1/colcrt.1:77
+#: raw/man1/newgrp.1:24 raw/man1/chrt.1:142 raw/man1/rev.1:53
+#: raw/man1/dmesg.1:227 raw/man1/pg.1:220 raw/man1/look.1:105
+#: raw/man1/fallocate.1:120 raw/man1/logger.1:280 raw/man1/script.1:163
+#: raw/man1/more.1:219 raw/man1/unshare.1:120 raw/man1/last.1:194
+#: raw/man1/lslogins.1:115 raw/man1/uuidgen.1:55 raw/man1/renice.1:99
+#: raw/man1/mcookie.1:58 raw/man1/ipcs.1:79 raw/man1/ul.1:93
+#: raw/man1/column.1:92 raw/man1/lscpu.1:149 raw/man1/eject.1:178
+#: raw/man1/su.1:241 raw/man1/setpriv.1:144 raw/man1/ipcmk.1:41
+#: raw/man1/reset.1:37 raw/man1/getopt.1:452 raw/man1/utmpdump.1:71
+#: raw/man1/namei.1:74 raw/man1/prlimit.1:106 raw/man1/wall.1:82
+#: raw/man1/ipcrm.1:101 raw/man1/mountpoint.1:54 raw/man3/uuid_compare.3:60
+#: raw/man3/uuid_generate.3:116 raw/man3/uuid_is_null.3:55
+#: raw/man3/uuid_unparse.3:72 raw/man3/libblkid.3:74 raw/man3/uuid.3:57
+#: raw/man3/uuid_time.3:69 raw/man3/uuid_parse.3:64 raw/man3/uuid_copy.3:56
+#: raw/man3/uuid_clear.3:54
+#, no-wrap
+msgid "SEE ALSO"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:155 raw/man8/blkdiscard.8:79 raw/man8/sulogin.8:87
+#: raw/man8/isosize.8:35 raw/man8/tunelp.8:142 raw/man8/fsck.minix.8:131
+#: raw/man8/fdisk.8:337 raw/man8/findmnt.8:264 raw/man8/uuidd.8:90
+#: raw/man8/addpart.8:38 raw/man8/mkfs.cramfs.8:86 raw/man8/fsck.8:465
+#: raw/man8/raw.8:93 raw/man8/hwclock.8:1087 raw/man8/mkswap.8:142
+#: raw/man8/resizepart.8:36 raw/man8/nologin.8:48 raw/man8/wipefs.8:106
+#: raw/man8/sfdisk.8:416 raw/man8/blockdev.8:83 raw/man8/fstrim.8:118
+#: raw/man8/mount.8:3289 raw/man8/fsfreeze.8:73 raw/man8/pivot_root.8:73
+#: raw/man8/mkfs.8:104 raw/man8/blkid.8:313 raw/man8/swaplabel.8:64
+#: raw/man8/ctrlaltdel.8:47 raw/man8/mkfs.bfs.8:56 raw/man8/partx.8:194
+#: raw/man8/wdctl.8:64 raw/man8/ldattach.8:152 raw/man8/zramctl.8:117
+#: raw/man8/swapon.8:251 raw/man8/cfdisk.8:197 raw/man8/findfs.8:80
+#: raw/man8/setarch.8:89 raw/man8/mkfs.minix.8:84 raw/man8/readprofile.8:148
+#: raw/man8/losetup.8:182 raw/man8/switch_root.8:59 raw/man8/lslocks.8:88
+#: raw/man8/chcpu.8:102 raw/man8/fsck.cramfs.8:57 raw/man8/vipw.8:85
+#: raw/man8/lsblk.8:165 raw/man8/delpart.8:25 raw/man8/fdformat.8:72
+#: raw/man8/umount.8:204 raw/man8/agetty.8:449
+#: raw/man5/terminal-colors.d.5:186 raw/man5/fstab.5:245
+#: raw/man1/hexdump.1:375 raw/man1/kill.1:166 raw/man1/tailf.1:65
+#: raw/man1/rename.1:81 raw/man1/login.1:330 raw/man1/setterm.1:276
+#: raw/man1/colrm.1:71 raw/man1/runuser.1:230 raw/man1/nsenter.1:170
+#: raw/man1/mesg.1:107 raw/man1/write.1:99 raw/man1/flock.1:181
+#: raw/man1/taskset.1:125 raw/man1/chfn.1:79 raw/man1/line.1:15
+#: raw/man1/chsh.1:62 raw/man1/setsid.1:33 raw/man1/col.1:154
+#: raw/man1/scriptreplay.1:107 raw/man1/ionice.1:138 raw/man1/colcrt.1:101
+#: raw/man1/newgrp.1:32 raw/man1/last-deprecated.1:60 raw/man1/chrt.1:156
+#: raw/man1/rev.1:55 raw/man1/dmesg.1:241 raw/man1/pg.1:236
+#: raw/man1/look.1:116 raw/man1/fallocate.1:124 raw/man1/logger.1:288
+#: raw/man1/script.1:179 raw/man1/more.1:236 raw/man1/unshare.1:128
+#: raw/man1/last.1:189 raw/man1/lslogins.1:128 raw/man1/uuidgen.1:57
+#: raw/man1/renice.1:115 raw/man1/mcookie.1:63 raw/man1/ipcs.1:112
+#: raw/man1/ul.1:109 raw/man1/column.1:99 raw/man1/lscpu.1:151
+#: raw/man1/eject.1:183 raw/man1/su.1:250 raw/man1/setpriv.1:151
+#: raw/man1/ipcmk.1:48 raw/man1/reset.1:43 raw/man1/cal.1:130
+#: raw/man1/getopt.1:456 raw/man1/utmpdump.1:76 raw/man1/namei.1:77
+#: raw/man1/prlimit.1:118 raw/man1/wall.1:91 raw/man1/ipcrm.1:113
+#: raw/man1/mountpoint.1:56 raw/man1/whereis.1:162 raw/man3/uuid_compare.3:55
+#: raw/man3/uuid_generate.3:112 raw/man3/uuid_is_null.3:50
+#: raw/man3/uuid_unparse.3:67 raw/man3/libblkid.3:77 raw/man3/uuid.3:53
+#: raw/man3/uuid_time.3:64 raw/man3/uuid_parse.3:59 raw/man3/uuid_copy.3:51
+#: raw/man3/uuid_clear.3:49
+#, no-wrap
+msgid "AVAILABILITY"
+msgstr ""
+
+#. type: SH
+#: raw/man8/tunelp.8:133 raw/man8/raw.8:78 raw/man8/mount.8:3222
+#: raw/man8/mkfs.8:72 raw/man8/readprofile.8:123 raw/man8/agetty.8:413
+#: raw/man1/login.1:295 raw/man1/setterm.1:274 raw/man1/colcrt.1:83
+#: raw/man1/script.1:173 raw/man1/unshare.1:124 raw/man1/renice.1:103
+#: raw/man1/mcookie.1:52 raw/man1/ul.1:100 raw/man1/column.1:72
+#: raw/man1/lscpu.1:136 raw/man1/cal.1:115 raw/man1/getopt.1:437
+#: raw/man1/utmpdump.1:60 raw/man1/namei.1:72
+#, no-wrap
+msgid "BUGS"
+msgstr ""
+
+#. type: IP
+#: raw/man8/fsck.minix.8:69 raw/man8/mkfs.cramfs.8:59 raw/man8/fsck.8:113
+#: raw/man8/mount.8:684 raw/man1/pg.1:83 raw/man1/more.1:81
+#: raw/man1/whereis.1:87
+#, no-wrap
+msgid "B<-s>"
+msgstr ""
+
+#. type: SH
+#: raw/man8/fdisk.8:321 raw/man8/findmnt.8:248 raw/man8/mkswap.8:135
+#: raw/man8/wipefs.8:100 raw/man8/sfdisk.8:393 raw/man8/mount.8:3195
+#: raw/man8/blkid.8:306 raw/man8/swaplabel.8:61 raw/man8/partx.8:191
+#: raw/man8/swapon.8:226 raw/man8/cfdisk.8:175 raw/man8/findfs.8:73
+#: raw/man8/losetup.8:176 raw/man8/vipw.8:60 raw/man8/lsblk.8:154
+#: raw/man8/umount.8:189 raw/man5/terminal-colors.d.5:177
+#: raw/man1/script.1:150 raw/man1/more.1:194 raw/man1/ul.1:77
+#: raw/man1/column.1:65 raw/man1/getopt.1:423 raw/man1/mountpoint.1:44
+#: raw/man1/whereis.1:159
+#, no-wrap
+msgid "ENVIRONMENT"
+msgstr ""
+
+#. type: IP
+#: raw/man8/fdisk.8:326 raw/man8/mkswap.8:136 raw/man8/wipefs.8:101
+#: raw/man8/sfdisk.8:398 raw/man8/mount.8:3202 raw/man8/swaplabel.8:62
+#: raw/man8/partx.8:192 raw/man8/swapon.8:229 raw/man8/cfdisk.8:180
+#: raw/man8/findfs.8:74 raw/man8/lsblk.8:155
+#, no-wrap
+msgid "LIBBLKID_DEBUG=all"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:249 raw/man8/mount.8:3196 raw/man8/umount.8:190
+#, no-wrap
+msgid "LIBMOUNT_FSTAB=E<lt>pathE<gt>"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:251 raw/man8/mount.8:3198 raw/man8/umount.8:192
+#, no-wrap
+msgid "LIBMOUNT_MTAB=E<lt>pathE<gt>"
+msgstr ""
+
+#. type: IP
+#: raw/man8/findmnt.8:253 raw/man8/mount.8:3200 raw/man8/swapon.8:227
+#: raw/man8/lsblk.8:157 raw/man8/umount.8:194 raw/man1/mountpoint.1:45
+#, no-wrap
+msgid "LIBMOUNT_DEBUG=all"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:255 raw/man8/mount.8:3202 raw/man8/umount.8:196
+msgid "enables libmount debug output"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/findmnt.8:260 raw/man8/mount.8:3288
+#, no-wrap
+msgid "Karel Zak E<lt>kzak@redhat.comE<gt>\n"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkfs.cramfs.8:75 raw/man8/fsck.8:48 raw/man8/mount.8:3110
+#: raw/man8/findfs.8:52 raw/man8/chcpu.8:83 raw/man8/fsck.cramfs.8:40
+#: raw/man1/kill.1:52 raw/man1/kill.1:137 raw/man1/rename.1:62
+#, no-wrap
+msgid "B<0>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mkfs.cramfs.8:78 raw/man8/fstrim.8:100 raw/man8/mount.8:3113
+#: raw/man8/findfs.8:55 raw/man8/chcpu.8:86 raw/man8/fsck.cramfs.8:43
+#: raw/man8/lsblk.8:142 raw/man1/kill.1:140
+msgid "success"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkfs.cramfs.8:78 raw/man8/fsck.8:60 raw/man8/mount.8:3124
+#: raw/man8/fsck.cramfs.8:46
+#, no-wrap
+msgid "B<8>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fsck.8:51 raw/man8/mount.8:3113 raw/man8/findfs.8:55
+#: raw/man8/chcpu.8:86 raw/man1/kill.1:140 raw/man1/rename.1:65
+#, no-wrap
+msgid "B<1>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fsck.8:54 raw/man8/mount.8:1926 raw/man8/mount.8:3116
+#: raw/man8/findfs.8:58 raw/man1/rename.1:68
+#, no-wrap
+msgid "B<2>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fsck.8:57 raw/man8/mount.8:3119 raw/man8/fsck.cramfs.8:43
+#: raw/man1/rename.1:71
+#, no-wrap
+msgid "B<4>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fsck.8:63 raw/man8/mount.8:3127 raw/man8/fsck.cramfs.8:49
+#, no-wrap
+msgid "B<16>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/fsck.8:66 raw/man8/mount.8:3130
+#, no-wrap
+msgid "B<32>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mkswap.8:73 raw/man8/mount.8:584 raw/man8/swaplabel.8:43
+#, no-wrap
+msgid "B<-L>,B< --label >I<label>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/wipefs.8:46 raw/man8/mount.8:534 raw/man8/swapon.8:74
+#: raw/man8/losetup.8:78 raw/man8/lsblk.8:42 raw/man8/umount.8:60
+#: raw/man1/lscpu.1:86
+#, no-wrap
+msgid "B<-a>,B< --all>"
+msgstr ""
+
+#. type: SH
+#: raw/man8/fstrim.8:97 raw/man8/mount.8:3107 raw/man8/chcpu.8:80
+#: raw/man8/lsblk.8:139 raw/man1/kill.1:134 raw/man1/getopt.1:399
+#, no-wrap
+msgid "RETURN CODES"
+msgstr ""
+
+#. type: TH
+#: raw/man8/mount.8:30
+#, no-wrap
+msgid "MOUNT"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:33
+msgid "mount - mount a filesystem"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:36
+msgid "B<mount> [B<-l>|B<-h>|B<-V>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:43
+msgid "B<mount -a> [B<-fFnrsvw>] [B<-t> I<fstype>] [B<-O> I<optlist>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:49
+msgid "B<mount> [B<-fnrsvw>] [B<-o> I<options>] I<device>|I<dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:57
+msgid ""
+"B<mount> [B<-fnrsvw>] [B<-t> I<fstype>B<]> [B<-o> I<options>] I<device dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:67
+msgid ""
+"All files accessible in a Unix system are arranged in one big tree, the file "
+"hierarchy, rooted at B</>.  These files can be spread out over several "
+"devices.  The B<mount> command serves to attach the filesystem found on some "
+"device to the big file tree.  Conversely, the B<umount>(8)  command will "
+"detach it again."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:71
+msgid "The standard form of the B<mount> command is:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:75
+msgid "B<mount -t>I< type device dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:91
+msgid ""
+"This tells the kernel to attach the filesystem found on I<device> (which is "
+"of type I<type>)  at the directory I<dir>.  The previous contents (if any) "
+"and owner and mode of I<dir> become invisible, and as long as this "
+"filesystem remains mounted, the pathname I<dir> refers to the root of the "
+"filesystem on I<device>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:93
+msgid "If only the directory or the device is given, for example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:97
+msgid "B<mount /dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:107
+msgid ""
+"then B<mount> looks for a mountpoint (and if not found then for a device) in "
+"the I</etc/fstab> file.  It's possible to use the B<--target> or B<--source> "
+"options to avoid ambivalent interpretation of the given argument.  For "
+"example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:111
+msgid "B<mount --target /mountpoint>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:117
+msgid "B<The listing.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:119
+msgid "The listing mode is maintained for backward compatibility only."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:124
+msgid ""
+"For more robust and customizable output use B<findmnt>(8), B<especially in "
+"your scripts>.  Note that control characters in the mountpoint name are "
+"replaced with '?'."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:127
+msgid "The following command lists all mounted filesystems (of type I<type>):"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:131
+msgid "B<mount >[B<-l>] [B<-t >I<type\\/>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:135
+msgid "The option B<-l> adds labels to this listing.  See below."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:138
+msgid "B<The device indication.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:149
+msgid ""
+"Most devices are indicated by a filename (of a block special device), like "
+"I</dev/sda1>, but there are other possibilities.  For example, in the case "
+"of an NFS mount, I<device> may look like I<knuth.cwi.nl:/dir>.  It is also "
+"possible to indicate a block special device using its filesystem label or "
+"UUID (see the B<-L> and B<-U> options below), or its partition label or "
+"UUID.  (Partition identifiers are supported for example for GUID Partition "
+"Tables (GPT).)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:154
+msgid ""
+"Don't forget that there is no guarantee that UUIDs and labels are really "
+"unique, especially if you move, share or copy the device.  Use B<lsblk -o "
+"+UUID,PARTUUID> to verify that the UUIDs are really unique in your system."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:164
+msgid ""
+"The recommended setup is to use tags (e.g. B<LABEL=>I<label>) rather than B</"
+"dev/disk/by-{label,uuid,partuuid,partlabel}> udev symlinks in the /etc/fstab "
+"file.  Tags are more readable, robust and portable.  The B<mount>(8)  "
+"command internally uses udev symlinks, so the use of symlinks in /etc/fstab "
+"has no advantage over tags.  For more details see B<libblkid>(3)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:171
+msgid ""
+"Note that B<mount>(8)  uses UUIDs as strings.  The UUIDs from the command "
+"line or from B<fstab>(5)  are not converted to internal binary "
+"representation.  The string representation of the UUID should be based on "
+"lower case characters."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:183
+msgid ""
+"The I<proc> filesystem is not associated with a special device, and when "
+"mounting it, an arbitrary keyword, such as I<proc> can be used instead of a "
+"device specification.  (The customary choice I<none> is less fortunate: the "
+"error message `none busy' from B<umount> can be confusing.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:186
+msgid "B<The /etc/fstab, /etc/mtab and /proc/mounts files.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:197
+msgid ""
+"The file I</etc/fstab> (see B<fstab>(5)), may contain lines describing what "
+"devices are usually mounted where, using which options.  The default "
+"location of the B<fstab>(5)  file can be overridden with the B<--fstab>I< "
+"path> command-line option (see below for more details)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:199
+msgid "The command"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:206
+msgid "B<mount -a> [B<-t> I<type>] [B<-O> I<optlist>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:217
+msgid ""
+"(usually given in a bootscript) causes all filesystems mentioned in I<fstab> "
+"(of the proper type and/or having or not having the proper options)  to be "
+"mounted as indicated, except for those whose line contains the B<noauto> "
+"keyword.  Adding the B<-F> option will make B<mount> fork, so that the "
+"filesystems are mounted simultaneously."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:223
+msgid ""
+"When mounting a filesystem mentioned in I<fstab> or I<mtab>, it suffices to "
+"specify on the command line only the device, or only the mount point."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:235
+msgid ""
+"The programs B<mount> and B<umount> traditionally maintained a list of "
+"currently mounted filesystems in the file I</etc/mtab>.  This real mtab file "
+"is still supported, but on current Linux systems it is better to make it a "
+"symlink to I</proc/mounts> instead, because a regular mtab file maintained "
+"in userspace cannot reliably work with namespaces, containers and other "
+"advanced Linux features."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:239
+msgid ""
+"If no arguments are given to B<mount>, the list of mounted filesystems is "
+"printed."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:243
+msgid ""
+"If you want to override mount options from I</etc/fstab> you have to use the "
+"B<-o> option:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:246
+msgid "B<mount>I< device>|I<dir >B<-o>I< options>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:253
+msgid ""
+"and then the mount options from the command line will be appended to the "
+"list of options from I</etc/fstab>.  The usual behavior is that the last "
+"option wins if there are conflicting ones."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:264
+msgid ""
+"The B<mount> program does not read the I</etc/fstab> file if both I<device> "
+"(or LABEL, UUID, PARTUUID or PARTLABEL) and I<dir> are specified.  For "
+"example, to mount device B<foo> at B</dir>:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:267
+msgid "B<mount /dev/foo /dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:272
+msgid "B<The non-superuser mounts.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:279
+msgid ""
+"Normally, only the superuser can mount filesystems.  However, when I<fstab> "
+"contains the B<user> option on a line, anybody can mount the corresponding "
+"filesystem."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:281
+msgid "Thus, given a line"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:284
+msgid "B</dev/cdrom /cd iso9660 ro,user,noauto,unhide>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:288
+msgid ""
+"any user can mount the iso9660 filesystem found on an inserted CDROM using "
+"the command"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:291
+msgid "B<mount /dev/cdrom>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:294
+msgid "or"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:297
+msgid "B<mount /cd>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:321
+msgid ""
+"For more details, see B<fstab>(5).  Only the user that mounted a filesystem "
+"can unmount it again.  If any user should be able to unmount it, then use "
+"B<users> instead of B<user> in the I<fstab> line.  The B<owner> option is "
+"similar to the B<user> option, with the restriction that the user must be "
+"the owner of the special file.  This may be useful e.g.\\& for I</dev/fd> if "
+"a login script makes the console user owner of this device.  The B<group> "
+"option is similar, with the restriction that the user must be member of the "
+"group of the special file."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:324
+msgid "B<The bind mounts.>"
+msgstr ""
+
+#.  In fact since 2.3.99. At first the syntax was mount -t bind.
+#. type: Plain text
+#: raw/man8/mount.8:328
+msgid ""
+"Since Linux 2.4.0 it is possible to remount part of the file hierarchy "
+"somewhere else.  The call is:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:333 raw/man8/mount.8:376 raw/man8/mount.8:392
+msgid "B<mount --bind> I<olddir newdir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:336
+msgid "or by using this fstab entry:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:342
+msgid "B</>I<olddir> B</>I<newdir> B<none bind>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:348
+msgid ""
+"After this call the same contents are accessible in two places.  One can "
+"also remount a single file (on a single file).  It's also possible to use "
+"the bind mount to create a mountpoint from a regular directory, for example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:352
+msgid "B<mount --bind foo foo>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:357
+msgid ""
+"The bind mount call attaches only (part of) a single filesystem, not "
+"possible submounts.  The entire file hierarchy including submounts is "
+"attached a second place by using:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:362
+msgid "B<mount --rbind> I<olddir newdir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:371
+msgid ""
+"Note that the filesystem mount options will remain the same as those on the "
+"original mount point, and cannot be changed by passing the B<-o> option "
+"along with B<--bind>/B<--rbind>.  The mount options can be changed by a "
+"separate remount command, for example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:379
+msgid "B<mount -o remount,ro> I<newdir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:387
+msgid ""
+"Note that the behavior of the remount operation depends on the /etc/mtab "
+"file.  The first command stores the 'bind' flag in the /etc/mtab file and "
+"the second command reads the flag from the file.  If you have a system "
+"without the /etc/mtab file or if you explicitly define source and target for "
+"the remount command (then B<mount>(8) does not read /etc/mtab), then you "
+"have to use the bind flag (or option) for the remount command too.  For "
+"example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:395
+msgid "B<mount -o remount,ro,bind> I<olddir newdir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:405
+msgid ""
+"Note that B<remount,ro,bind> will create a read-only mountpoint (VFS entry), "
+"but the original filesystem superblock will still be writable, meaning that "
+"the I<olddir> will be writable, but the I<newdir> will be read-only."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:408
+msgid "B<The move operation.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:412
+msgid ""
+"Since Linux 2.5.1 it is possible to atomically move a B<mounted tree> to "
+"another place.  The call is:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:417
+msgid "B<mount --move> I<olddir newdir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:427
+msgid ""
+"This will cause the contents which previously appeared under I<olddir> to "
+"now be accessible under I<newdir>.  The physical location of the files is "
+"not changed.  Note that I<olddir> has to be a mountpoint."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:432
+msgid ""
+"Note also that moving a mount residing under a shared mount is invalid and "
+"unsupported.  Use B<findmnt -o TARGET,PROPAGATION> to see the current "
+"propagation flags."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:435
+msgid "B<The shared subtree operations.>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:445
+msgid ""
+"Since Linux 2.6.15 it is possible to mark a mount and its submounts as "
+"shared, private, slave or unbindable.  A shared mount provides the ability "
+"to create mirrors of that mount such that mounts and unmounts within any of "
+"the mirrors propagate to the other mirror.  A slave mount receives "
+"propagation from its master, but not vice versa.  A private mount carries no "
+"propagation abilities.  An unbindable mount is a private mount which cannot "
+"be cloned through a bind operation.  The detailed semantics are documented "
+"in B<Documentation/filesystems/sharedsubtree.txt> file in the kernel source "
+"tree."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:447
+msgid "Supported operations are:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:454
+#, no-wrap
+msgid ""
+"B<mount --make-shared >I<mountpoint>\n"
+"B<mount --make-slave >I<mountpoint>\n"
+"B<mount --make-private >I<mountpoint>\n"
+"B<mount --make-unbindable >I<mountpoint>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:459
+msgid ""
+"The following commands allow one to recursively change the type of all the "
+"mounts under a given mountpoint."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:466
+#, no-wrap
+msgid ""
+"B<mount --make-rshared >I<mountpoint>\n"
+"B<mount --make-rslave >I<mountpoint>\n"
+"B<mount --make-rprivate >I<mountpoint>\n"
+"B<mount --make-runbindable >I<mountpoint>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:474
+msgid ""
+"B<mount>(8)  B<does not read> B<fstab>(5)  when a B<--make->* operation is "
+"requested.  All necessary information has to be specified on the command "
+"line."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:479
+msgid ""
+"Note that the Linux kernel does not allow to change multiple propagation "
+"flags with a single B<mount>(2)  syscall, and the flags cannot be mixed with "
+"other mount options."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:495
+msgid ""
+"Since util-linux 2.23 the B<mount> command allows to use several propagation "
+"flags together and also together with other mount operations.  This feature "
+"is EXPERIMENTAL.  The propagation flags are applied by additional "
+"B<mount>(2) syscalls when the preceding mount operations were successful.  "
+"Note that this use case is not atomic.  It is possible to specify the "
+"propagation flags in B<fstab>(5)  as mount options (B<private>, B<slave>, "
+"B<shared>, B<unbindable>, B<rprivate>, B<rslave>, B<rshared>, "
+"B<runbindable>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:497
+msgid "For example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:501
+#, no-wrap
+msgid "B<mount --make-private --make-unbindable /dev/sda1 /foo>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:505
+msgid "is the same as:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:511
+#, no-wrap
+msgid ""
+"B<mount /dev/sda1 /foo>\n"
+"B<mount --make-private /foo>\n"
+"B<mount --make-unbindable /foo>\n"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:515
+#, no-wrap
+msgid "COMMAND-LINE OPTIONS"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:526
+msgid ""
+"The full set of mount options used by an invocation of B<mount> is "
+"determined by first extracting the mount options for the filesystem from the "
+"I<fstab> table, then applying any options specified by the B<-o> argument, "
+"and finally applying a B<-r> or B<-w> option, when present."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:530
+msgid ""
+"The command B<mount> does not pass all command-line options to the B</sbin/"
+"mount.>I<suffix> mount helpers.  The interface between B<mount> and the "
+"mount helpers is described below in the section EXTERNAL HELPERS."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:534
+msgid "Command-line options available for the B<mount> command are:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:542
+msgid ""
+"Mount all filesystems (of the given types) mentioned in I<fstab> (except for "
+"those whose line contains the B<noauto> keyword).  The filesystems are "
+"mounted following their order in I<fstab>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:542
+#, no-wrap
+msgid "B<-B>,B< --bind>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:546
+msgid ""
+"Remount a subtree somewhere else (so that its contents are available in both "
+"places).  See above."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:546 raw/man8/umount.8:73
+#, no-wrap
+msgid "B<-c>,B< --no-canonicalize>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:555
+msgid ""
+"Don't canonicalize paths.  The mount command canonicalizes all paths (from "
+"command line or fstab) by default.  This option can be used together with "
+"the B<-f> flag for already canonicalized absolute paths.  The option is "
+"designed for mount helpers which call B<mount -i>.  It is strongly "
+"recommended to not use this command-line option for normal mount operations."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:558
+msgid ""
+"Note that B<mount>(8) does not pass this option to the B</sbin/mount."
+">I<type> helpers."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:558
+#, no-wrap
+msgid "B<-F>,B< --fork>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:571
+msgid ""
+"(Used in conjunction with B<-a>.)  Fork off a new incarnation of B<mount> "
+"for each device.  This will do the mounts on different devices or different "
+"NFS servers in parallel.  This has the advantage that it is faster; also NFS "
+"timeouts go in parallel.  A disadvantage is that the mounts are done in "
+"undefined order.  Thus, you cannot use this option if you want to mount both "
+"I</usr> and I</usr/spool>."
+msgstr ""
+
+#. type: IP
+#: raw/man8/mount.8:571
+#, no-wrap
+msgid "B<-f, --fake>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:582
+msgid ""
+"Causes everything to be done except for the actual system call; if it's not "
+"obvious, this ``fakes'' mounting the filesystem.  This option is useful in "
+"conjunction with the B<-v> flag to determine what the B<mount> command is "
+"trying to do.  It can also be used to add entries for devices that were "
+"mounted earlier with the B<-n> option.  The B<-f> option checks for an "
+"existing record in /etc/mtab and fails when the record already exists (with "
+"a regular non-fake mount, this check is done by the kernel)."
+msgstr ""
+
+#. type: IP
+#: raw/man8/mount.8:582
+#, no-wrap
+msgid "B<-i, --internal-only>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:584
+msgid "Don't call the B</sbin/mount.>I<filesystem> helper even if it exists."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:588
+msgid "Mount the partition that has the specified I<label>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:588
+#, no-wrap
+msgid "B<-l>,B< --show-labels>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:598
+msgid ""
+"Add the labels in the mount output.  B<mount> must have permission to read "
+"the disk device (e.g.\\& be suid root) for this to work.  One can set such a "
+"label for ext2, ext3 or ext4 using the B<e2label>(8)  utility, or for XFS "
+"using B<xfs_admin>(8), or for reiserfs using B<reiserfstune>(8)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:598
+#, no-wrap
+msgid "B<-M>,B< --move>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:601
+msgid "Move a subtree to some other place.  See above."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:601 raw/man8/umount.8:105
+#, no-wrap
+msgid "B<-n>,B< --no-mtab>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:608
+msgid ""
+"Mount without writing in I</etc/mtab>.  This is necessary for example when "
+"I</etc> is on a read-only filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:608
+#, no-wrap
+msgid "B<-O>,B< --test-opts >I<opts>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:619
+msgid ""
+"Limit the set of filesystems to which the B<-a> option applies.  In this "
+"regard it is like the B<-t> option except that B<-O> is useless without B<-"
+"a>.  For example, the command:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:623
+msgid "B<mount -a -O no_netdev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:630
+msgid ""
+"mounts all filesystems except those which have the option I<_netdev> "
+"specified in the options field in the I</etc/fstab> file."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:636
+msgid ""
+"It is different from B<-t> in that each option is matched exactly; a leading "
+"B<no> at the beginning of one option does not negate the rest."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:642
+msgid ""
+"The B<-t> and B<-O> options are cumulative in effect; that is, the command"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:645
+msgid "B<mount -a -t ext2 -O _netdev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:649
+msgid ""
+"mounts all ext2 filesystems with the _netdev option, not all filesystems "
+"that are either ext2 or have the _netdev option specified."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:650 raw/man8/swapon.8:125
+#, no-wrap
+msgid "B<-o>,B< --options >I<opts>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:654
+msgid ""
+"Use the specified mount options.  The I<opts> argument is a comma-separated "
+"list.  For example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:658
+msgid "B<mount LABEL=mydisk -o noatime,nodev,nosuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:666
+msgid ""
+"For more details, see the B<FILESYSTEM-INDEPENDENT MOUNT OPTIONS> and "
+"B<FILESYSTEM-SPECIFIC MOUNT OPTIONS> sections."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:668
+#, no-wrap
+msgid "B<-R>,B< --rbind>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:672
+msgid ""
+"Remount a subtree and all possible submounts somewhere else (so that its "
+"contents are available in both places).  See above."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:672 raw/man8/losetup.8:122 raw/man8/umount.8:124
+#, no-wrap
+msgid "B<-r>,B< --read-only>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:676
+msgid "Mount the filesystem read-only.  A synonym is B<-o ro>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:684
+msgid ""
+"Note that, depending on the filesystem type, state and kernel behavior, the "
+"system may still write to the device.  For example, ext3 and ext4 will "
+"replay the journal if the filesystem is dirty.  To prevent this kind of "
+"write access, you may want to mount an ext3 or ext4 filesystem with the B<ro,"
+"noload> mount options or set the block device itself to read-only mode, see "
+"the B<blockdev>(8)  command."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:689
+msgid ""
+"Tolerate sloppy mount options rather than failing.  This will ignore mount "
+"options not supported by a filesystem type.  Not all filesystems support "
+"this option.  Currently it's supported by the B<mount.nfs> mount helper only."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:689
+#, no-wrap
+msgid "B<--source>I< device>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:694
+msgid ""
+"If only one argument for the mount command is given then the argument might "
+"be interpreted as target (mountpoint) or source (device).  This option "
+"allows to explicitly define that the argument is the mount source."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:694
+#, no-wrap
+msgid "B<--target>I< directory>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:699
+msgid ""
+"If only one argument for the mount command is given then the argument might "
+"be interpreted as target (mountpoint) or source (device).  This option "
+"allows to explicitly define that the argument is the mount target."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:699
+#, no-wrap
+msgid "B<-T>,B< --fstab >I<path>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:708
+msgid ""
+"Specifies an alternative fstab file.  If I<path> is a directory then the "
+"files in the directory are sorted by B<strverscmp>(3); files that start with "
+"\".\"\\& or without an \\&.fstab extension are ignored.  The option can be "
+"specified more than once.  This option is mostly designed for initramfs or "
+"chroot scripts where additional configuration is specified beyond standard "
+"system configuration."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:713
+msgid ""
+"Note that B<mount>(8) does not pass the option B<--fstab> to the B</sbin/"
+"mount.>I<type> helpers, meaning that the alternative fstab files will be "
+"invisible for the helpers.  This is no problem for normal mounts, but user "
+"(non-root) mounts always require fstab to verify the user's rights."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:713
+#, no-wrap
+msgid "B<-t>,B< --types >I<fstype>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:724
+msgid ""
+"The argument following the B<-t> is used to indicate the filesystem type.  "
+"The filesystem types which are currently supported depend on the running "
+"kernel.  See I</proc/filesystems> and I</lib/modules/$(uname -r)/kernel/fs> "
+"for a complete list of the filesystems.  The most common are ext2, ext3, "
+"ext4, xfs, btrfs, vfat, sysfs, proc, nfs and cifs."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:733
+msgid ""
+"The programs B<mount> and B<umount> support filesystem subtypes.  The "
+"subtype is defined by a '.subtype' suffix.  For example 'fuse.sshfs'.  It's "
+"recommended to use subtype notation rather than add any prefix to the mount "
+"source (for example 'sshfs#example.com' is deprecated)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:757
+msgid ""
+"If no B<-t> option is given, or if the B<auto> type is specified, mount will "
+"try to guess the desired type.  Mount uses the blkid library for guessing "
+"the filesystem type; if that does not turn up anything that looks familiar, "
+"mount will try to read the file I</etc/filesystems>, or, if that does not "
+"exist, I</proc/filesystems>.  All of the filesystem types listed there will "
+"be tried, except for those that are labeled \"nodev\" (e.g., I<devpts>, "
+"I<proc> and I<nfs>).  If I</etc/filesystems> ends in a line with a single *, "
+"mount will read I</proc/filesystems> afterwards.  While trying, all "
+"filesystem types will be mounted with the mount option B<silent>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:765
+msgid ""
+"The B<auto> type may be useful for user-mounted floppies.  Creating a file "
+"I</etc/filesystems> can be useful to change the probe order (e.g., to try "
+"vfat before msdos or ext3 before ext2) or if you use a kernel module "
+"autoloader."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:781
+msgid ""
+"More than one type may be specified in a comma-separated list, for option B<-"
+"t> as well as in an I</etc/fstab> entry.  The list of filesystem types for "
+"option B<-t> can be prefixed with B<no> to specify the filesystem types on "
+"which no action should be taken.  The prefix B<no> has no effect when "
+"specified in an I</etc/fstab> entry."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:787
+msgid ""
+"The prefix B<no> can be meaningful with the B<-a> option.  For example, the "
+"command"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:791
+msgid "B<mount -a -t nomsdos,smbfs>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:797
+msgid "mounts all filesystems except those of type I<msdos> and I<smbfs>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:815
+msgid ""
+"For most types all the B<mount> program has to do is issue a simple "
+"I<mount>(2)  system call, and no detailed knowledge of the filesystem type "
+"is required.  For a few types however (like nfs, nfs4, cifs, smbfs, ncpfs) "
+"an ad hoc code is necessary.  The nfs, nfs4, cifs, smbfs, and ncpfs "
+"filesystems have a separate mount program.  In order to make it possible to "
+"treat all types in a uniform way, B<mount> will execute the program B</sbin/"
+"mount.>I<type> (if that exists) when called with type I<type>.  Since "
+"different versions of the B<smbmount> program have different calling "
+"conventions, B</sbin/mount.smbfs> may have to be a shell script that sets up "
+"the desired call."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:816
+#, no-wrap
+msgid "B<-U>,B< --uuid >I<uuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:820
+msgid "Mount the partition that has the specified I<uuid>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:823 raw/man8/partx.8:141 raw/man8/losetup.8:136
+#: raw/man8/umount.8:139 raw/man1/prlimit.1:55
+msgid "Verbose mode."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:823
+#, no-wrap
+msgid "B<-w>,B< --rw>,B< --read-write>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:827
+msgid ""
+"Mount the filesystem read/write.  This is the default.  A synonym is B<-o "
+"rw>."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:834
+#, no-wrap
+msgid "FILESYSTEM-INDEPENDENT MOUNT OPTIONS"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:838
+msgid ""
+"Some of these options are only useful when they appear in the I</etc/fstab> "
+"file."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:844
+msgid ""
+"Some of these options could be enabled or disabled by default in the system "
+"kernel.  To check the current setting see the options in /proc/mounts.  Note "
+"that filesystems also have per-filesystem specific default mount options "
+"(see for example B<tune2fs -l> output for extN filesystems)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:849
+msgid ""
+"The following options apply to any filesystem that is being mounted (but not "
+"every filesystem actually honors them \\(en e.g.\\&, the B<sync> option "
+"today has an effect only for ext2, ext3, fat, vfat and ufs):"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:850
+#, no-wrap
+msgid "B<async>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:855
+msgid ""
+"All I/O to the filesystem should be done asynchronously.  (See also the "
+"B<sync> option.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:855
+#, no-wrap
+msgid "B<atime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:863
+msgid ""
+"Do not use the noatime feature, so the inode access time is controlled by "
+"kernel defaults.  See also the descriptions of the B<strictatime> and "
+"B<relatime> mount options."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:863
+#, no-wrap
+msgid "B<noatime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:867
+msgid ""
+"Do not update inode access times on this filesystem (e.g., for faster access "
+"on the news spool to speed up news servers)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:867
+#, no-wrap
+msgid "B<auto>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:872
+msgid "Can be mounted with the B<-a> option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:872 raw/man5/fstab.5:174
+#, no-wrap
+msgid "B<noauto>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:877
+msgid ""
+"Can only be mounted explicitly (i.e., the B<-a> option will not cause the "
+"filesystem to be mounted)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:877
+#, no-wrap
+msgid "B<context=>\\,I<context>, B<fscontext=>\\,/I<context>, B<defcontext=>\\,/I<context> and B<rootcontext=>\\,I<context>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:890
+msgid ""
+"The B<context=> option is useful when mounting filesystems that do not "
+"support extended attributes, such as a floppy or hard disk formatted with "
+"VFAT, or systems that are not normally running under SELinux, such as an "
+"ext3 formatted disk from a non-SELinux workstation.  You can also use "
+"B<context=> on filesystems you do not trust, such as a floppy.  It also "
+"helps in compatibility with xattr-supporting filesystems on earlier 2.4."
+"E<lt>xE<gt> kernel versions.  Even where xattrs are supported, you can save "
+"time not having to label every file by assigning the entire disk one "
+"security context."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:893
+msgid ""
+"A commonly used option for removable media is B<context=\"system_u:object_r:"
+"removable_t\">."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:901
+msgid ""
+"Two other options are B<fscontext=> and B<defcontext=>, both of which are "
+"mutually exclusive of the context option.  This means you can use fscontext "
+"and defcontext with each other, but neither can be used with context."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:913
+msgid ""
+"The B<fscontext=> option works for all filesystems, regardless of their "
+"xattr support.  The fscontext option sets the overarching filesystem label "
+"to a specific security context.  This filesystem label is separate from the "
+"individual labels on the files.  It represents the entire filesystem for "
+"certain kinds of permission checks, such as during mount or file creation.  "
+"Individual file labels are still obtained from the xattrs on the files "
+"themselves.  The context option actually sets the aggregate context that "
+"fscontext provides, in addition to supplying the same label for individual "
+"files."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:918
+msgid ""
+"You can set the default security context for unlabeled files using "
+"B<defcontext=> option.  This overrides the value set for unlabeled files in "
+"the policy and requires a filesystem that supports xattr labeling."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:924
+msgid ""
+"The B<rootcontext=> option allows you to explicitly label the root inode of "
+"a FS being mounted before that FS or inode becomes visible to userspace.  "
+"This was found to be useful for things like stateless linux."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:927
+msgid ""
+"Note that the kernel rejects any remount request that includes the context "
+"option, B<even> when unchanged from the current context."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:935
+msgid ""
+"B<Warning: the >I<context>B< value might contain commas>, in which case the "
+"value has to be properly quoted, otherwise B<mount>(8)  will interpret the "
+"comma as a separator between mount options.  Don't forget that the shell "
+"strips off quotes and thus B<double quoting is required>.  For example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:941
+#, no-wrap
+msgid ""
+"B<mount -t tmpfs none /mnt -o \\e>\n"
+"B<'context=\"system_u:object_r:tmp_t:s0:c127,c456\",noexec'>\n"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:946
+msgid "For more details, see B<selinux>(8)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:948 raw/man5/fstab.5:171
+#, no-wrap
+msgid "B<defaults>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:952
+msgid ""
+"Use the default options: B<rw>, B<suid>, B<dev>, B<exec>, B<auto>, "
+"B<nouser>, and B<async>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:955
+msgid ""
+"Note that the real set of all default mount options depends on kernel and "
+"filesystem type.  See the beginning of this section for more details."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:955
+#, no-wrap
+msgid "B<dev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:958
+msgid "Interpret character or block special devices on the filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:958
+#, no-wrap
+msgid "B<nodev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:962
+msgid "Do not interpret character or block special devices on the file system."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:962
+#, no-wrap
+msgid "B<diratime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:965
+msgid ""
+"Update directory inode access times on this filesystem.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:965
+#, no-wrap
+msgid "B<nodiratime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:968
+msgid "Do not update directory inode access times on this filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:968
+#, no-wrap
+msgid "B<dirsync>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:973
+msgid ""
+"All directory updates within the filesystem should be done synchronously.  "
+"This affects the following system calls: creat, link, unlink, symlink, "
+"mkdir, rmdir, mknod and rename."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:973
+#, no-wrap
+msgid "B<exec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:976
+msgid "Permit execution of binaries."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:976
+#, no-wrap
+msgid "B<noexec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:981
+msgid ""
+"Do not permit direct execution of any binaries on the mounted filesystem.  "
+"(Until recently it was possible to run binaries anyway using a command like /"
+"lib/ld*.so /mnt/binary.  This trick fails since Linux 2.4.25 / 2.6.0.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:981
+#, no-wrap
+msgid "B<group>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:989
+msgid ""
+"Allow an ordinary user to mount the filesystem if one of that user's groups "
+"matches the group of the device.  This option implies the options B<nosuid> "
+"and B<nodev> (unless overridden by subsequent options, as in the option line "
+"B<group,dev,suid>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:989
+#, no-wrap
+msgid "B<iversion>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:992
+msgid ""
+"Every time the inode is modified, the i_version field will be incremented."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:992
+#, no-wrap
+msgid "B<noiversion>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:995
+msgid "Do not increment the i_version inode field."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:995
+#, no-wrap
+msgid "B<mand>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:999
+msgid "Allow mandatory locks on this filesystem.  See B<fcntl>(2)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:999
+#, no-wrap
+msgid "B<nomand>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1002
+msgid "Do not allow mandatory locks on this filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1002
+#, no-wrap
+msgid "B<_netdev>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1007
+msgid ""
+"The filesystem resides on a device that requires network access (used to "
+"prevent the system from attempting to mount these filesystems until the "
+"network has been enabled on the system)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1007 raw/man5/fstab.5:188
+#, no-wrap
+msgid "B<nofail>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1010
+msgid "Do not report errors for this device if it does not exist."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1010
+#, no-wrap
+msgid "B<relatime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1017
+msgid ""
+"Update inode access times relative to modify or change time.  Access time is "
+"only updated if the previous access time was earlier than the current modify "
+"or change time.  (Similar to B<noatime>, but it doesn't break B<mutt> or "
+"other applications that need to know if a file has been read since the last "
+"time it was modified.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1026
+msgid ""
+"Since Linux 2.6.30, the kernel defaults to the behavior provided by this "
+"option (unless B<noatime> was specified), and the B<strictatime> option is "
+"required to obtain traditional semantics.  In addition, since Linux 2.6.30, "
+"the file's last access time is always updated if it is more than 1 day old."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1026
+#, no-wrap
+msgid "B<norelatime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1033
+msgid ""
+"Do not use the B<relatime> feature.  See also the B<strictatime> mount "
+"option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1033
+#, no-wrap
+msgid "B<strictatime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1042
+msgid ""
+"Allows to explicitly request full atime updates.  This makes it possible for "
+"the kernel to default to B<relatime> or B<noatime> but still allow userspace "
+"to override it.  For more details about the default system mount options "
+"see /proc/mounts."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1042
+#, no-wrap
+msgid "B<nostrictatime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1045
+msgid "Use the kernel's default behavior for inode access time updates."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1045
+#, no-wrap
+msgid "B<lazytime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1048
+msgid ""
+"Only update times (atime, mtime, ctime) on the in-memory version of the file "
+"inode."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1051
+msgid ""
+"This mount option significantly reduces writes to the inode table for "
+"workloads that perform frequent random writes to preallocated files."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1053
+msgid "The on-disk timestamps are updated only when:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1056
+msgid ""
+"- the inode needs to be updated for some change unrelated to file timestamps"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1062
+msgid "- the application employs B<fsync>(2), B<syncfs>(2), or B<sync>(2)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1064
+msgid "- an undeleted inode is evicted from memory"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1066
+msgid "- more than 24 hours have passed since the i-node was written to disk."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1068
+#, no-wrap
+msgid "B<nolazytime>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1071
+msgid "Do not use the nolazytime feature."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1071
+#, no-wrap
+msgid "B<suid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1075
+msgid "Allow set-user-identifier or set-group-identifier bits to take effect."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1075
+#, no-wrap
+msgid "B<nosuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1079
+msgid ""
+"Do not allow set-user-identifier or set-group-identifier bits to take effect."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1079
+#, no-wrap
+msgid "B<silent>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1082
+msgid "Turn on the silent flag."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1082
+#, no-wrap
+msgid "B<loud>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1085
+msgid "Turn off the silent flag."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1085 raw/man5/fstab.5:180
+#, no-wrap
+msgid "B<owner>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1093
+msgid ""
+"Allow an ordinary user to mount the filesystem if that user is the owner of "
+"the device.  This option implies the options B<nosuid> and B<nodev> (unless "
+"overridden by subsequent options, as in the option line B<owner,dev,suid>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1093
+#, no-wrap
+msgid "B<remount>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1098
+msgid ""
+"Attempt to remount an already-mounted filesystem.  This is commonly used to "
+"change the mount flags for a filesystem, especially to make a readonly "
+"filesystem writable.  It does not change device or mount point."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1106
+msgid ""
+"The remount functionality follows the standard way the mount command works "
+"with options from fstab.  This means that the mount command only doesn't "
+"read fstab (or mtab) when both the I<device> and I<dir> are specified."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1108
+msgid "B<mount -o remount,rw /dev/foo /dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1112
+msgid ""
+"After this call all old mount options are replaced and arbitrary stuff from "
+"fstab (or mtab) is ignored, except the loop= option which is internally "
+"generated and maintained by the mount command."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1114
+msgid "B<mount -o remount,rw /dir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1120
+msgid ""
+"After this call mount reads fstab and merges these options with the options "
+"from the command line (B<-o>). If no mountpoint found in fstab than remount "
+"with unspecified source is allowed."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1120
+#, no-wrap
+msgid "B<ro>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1123
+msgid "Mount the filesystem read-only."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1123
+#, no-wrap
+msgid "B<rw>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1126
+msgid "Mount the filesystem read-write."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1126
+#, no-wrap
+msgid "B<sync>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1131
+msgid ""
+"All I/O to the filesystem should be done synchronously.  In the case of "
+"media with a limited number of write cycles (e.g.\\& some flash drives), "
+"B<sync> may cause life-cycle shortening."
+msgstr ""
+
+#. type: tbl table
+#: raw/man8/mount.8:1131 raw/man5/fstab.5:177 raw/man1/logger.1:246
+#, no-wrap
+msgid "B<user>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1141
+msgid ""
+"Allow an ordinary user to mount the filesystem.  The name of the mounting "
+"user is written to the mtab file (or to the private libmount file in /run/"
+"mount on systems without a regular mtab) so that this same user can unmount "
+"the filesystem again.  This option implies the options B<noexec>, B<nosuid>, "
+"and B<nodev> (unless overridden by subsequent options, as in the option line "
+"B<user,exec,dev,suid>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1141
+#, no-wrap
+msgid "B<nouser>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1145
+msgid ""
+"Forbid an ordinary user to mount the filesystem.  This is the default; it "
+"does not imply any other options."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1145
+#, no-wrap
+msgid "B<users>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1153
+msgid ""
+"Allow any user to mount and to unmount the filesystem, even when some other "
+"ordinary user mounted it.  This option implies the options B<noexec>, "
+"B<nosuid>, and B<nodev> (unless overridden by subsequent options, as in the "
+"option line B<users,exec,dev,suid>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1153
+#, no-wrap
+msgid "B<x-*>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1161
+msgid ""
+"All options prefixed with \"x-\" are interpreted as comments or as userspace "
+"application-specific options.  These options are not stored in the mtab "
+"file, nor sent to the mount.I<type> helpers nor to the B<mount>(2)  system "
+"call.  The suggested format is B<x->I<appname>.I<option> (e.g.\\& B<x-"
+"systemd.automount>)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1161
+#, no-wrap
+msgid "B<x-mount.mkdir>[B<=>I<mode>B<]>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1169
+msgid ""
+"Allow to make a target directory (mountpoint).  The optional argument "
+"I<mode> specifies the filesystem access mode used for B<mkdir>(2)  in octal "
+"notation.  The default mode is 0755.  This functionality is supported only "
+"for root users."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1170
+#, no-wrap
+msgid "FILESYSTEM-SPECIFIC MOUNT OPTIONS"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1175
+msgid ""
+"The following options apply only to certain filesystems.  We sort them by "
+"filesystem.  They all follow the B<-o> flag."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1179
+msgid ""
+"What options are supported depends a bit on the running kernel.  More info "
+"may be found in the kernel source subdirectory I<Documentation/filesystems>."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1180
+#, no-wrap
+msgid "Mount options for adfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1181 raw/man8/mount.8:1191 raw/man8/mount.8:1454
+#: raw/man8/mount.8:1897 raw/man8/mount.8:2149 raw/man8/mount.8:2218
+#: raw/man8/mount.8:2392
+#, no-wrap
+msgid "B<uid=>\\,I<value> and B<gid=>\\,I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1184
+msgid ""
+"Set the owner and group of the files in the filesystem (default: uid=gid=0)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1184
+#, no-wrap
+msgid "B<ownmask=>\\,I<value> and B<othmask=>\\,I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1190
+msgid ""
+"Set the permission mask for ADFS 'owner' permissions and 'other' "
+"permissions, respectively (default: 0700 and 0077, respectively).  See also "
+"I</usr/src/linux/Documentation/filesystems/adfs.txt>."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1190
+#, no-wrap
+msgid "Mount options for affs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1199
+msgid ""
+"Set the owner and group of the root of the filesystem (default: uid=gid=0, "
+"but with option B<uid> or B<gid> without specified value, the uid and gid of "
+"the current process are taken)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1199
+#, no-wrap
+msgid "B<setuid=>\\,I<value> and B<setgid=>\\,I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1202
+msgid "Set the owner and group of all files."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1202 raw/man8/mount.8:1443 raw/man8/mount.8:1462
+#: raw/man8/mount.8:2238
+#, no-wrap
+msgid "B<mode=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1209
+msgid ""
+"Set the mode of all files to I<value> & 0777 disregarding the original "
+"permissions.  Add search permission to directories that have read "
+"permission.  The value is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1209
+#, no-wrap
+msgid "B<protect>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1212
+msgid "Do not allow any changes to the protection bits on the filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1212
+#, no-wrap
+msgid "B<usemp>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1217
+msgid ""
+"Set uid and gid of the root of the filesystem to the uid and gid of the "
+"mount point upon the first sync or umount, and then clear this option.  "
+"Strange..."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1217
+#, no-wrap
+msgid "B<verbose>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1220
+msgid "Print an informational message for each successful mount."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1220
+#, no-wrap
+msgid "B<prefix=>I<string>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1223
+msgid "Prefix used before volume name, when following a link."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1223
+#, no-wrap
+msgid "B<volume=>I<string>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1226
+msgid ""
+"Prefix (of length at most 30) used before '/' when following a symbolic link."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1226
+#, no-wrap
+msgid "B<reserved=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1229
+msgid "(Default: 2.) Number of unused blocks at the start of the device."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1229
+#, no-wrap
+msgid "B<root=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1232
+msgid "Give explicitly the location of the root block."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1232
+#, no-wrap
+msgid "B<bs=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1235
+msgid "Give blocksize.  Allowed values are 512, 1024, 2048, 4096."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1235 raw/man8/mount.8:1600
+#, no-wrap
+msgid "B<grpquota>|B<noquota>|B<quota>|B<usrquota>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1240
+msgid ""
+"These options are accepted but ignored.  (However, quota utilities may react "
+"to such strings in I</etc/fstab>.)"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1240
+#, no-wrap
+msgid "Mount options for btrfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1244
+msgid ""
+"Btrfs is a copy-on-write filesystem for Linux aimed at implementing advanced "
+"features while focusing on fault tolerance, repair, and easy administration."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1244
+#, no-wrap
+msgid "B<alloc_start=>I<bytes>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1250
+msgid ""
+"Debugging option to force all block allocations above a certain byte "
+"threshold on each block device.  The value is specified in bytes, optionally "
+"with a K, M, or G suffix, case insensitive.  Default is 1MB."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1250
+#, no-wrap
+msgid "B<autodefrag>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1256
+msgid ""
+"Disable/enable auto defragmentation.  Auto defragmentation detects small "
+"random writes into files and queues them up for the defrag process.  Works "
+"best for small files; not well-suited for large database workloads."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1256
+#, no-wrap
+msgid "B<check_int>|B<check_int_data>|B<check_int_print_mask>=I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1260
+msgid ""
+"These debugging options control the behavior of the integrity checking "
+"module(the BTRFS_FS_CHECK_INTEGRITY config option required)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1265
+msgid ""
+"B<check_int> enables the integrity checker module, which examines all block-"
+"write requests to ensure on-disk consistency, at a large memory and CPU cost."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1269
+msgid ""
+"B<check_int_data> includes extent data in the integrity checks, and implies "
+"the check_int option."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1274
+msgid ""
+"B<check_int_print_mask> takes a bitmask of BTRFSIC_PRINT_MASK_* values as "
+"defined in fs/btrfs/check-integrity.c, to control the integrity checker "
+"module behavior."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1278
+msgid "See comments at the top of I<fs/btrfs/check-integrity.c> for more info."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1278
+#, no-wrap
+msgid "B<commit=>I<seconds>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1284
+msgid ""
+"Set the interval of periodic commit, 30 seconds by default.  Higher values "
+"defer data being synced to permanent storage, with obvious consequences when "
+"the system crashes.  The upper bound is not forced, but a warning is printed "
+"if it's more than 300 seconds (5 minutes)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1284
+#, no-wrap
+msgid "B<compress>|B<compress=>I<type>|B<compress-force>|B<compress-force=>I<type>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1291
+msgid ""
+"Control BTRFS file data compression.  Type may be specified as \"zlib\" \"lzo"
+"\" or \"no\" (for no compression, used for remounting).  If no type is "
+"specified, zlib is used.  If B<compress-force> is specified, all files will "
+"be compressed, whether or not they compress well.  If compression is "
+"enabled, B<nodatacow> and B<nodatasum> are disabled."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1291
+#, no-wrap
+msgid "B<degraded>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1296
+msgid ""
+"Allow mounts to continue with missing devices.  A read-write mount may fail "
+"with too many devices missing, for example if a stripe member is completely "
+"missing."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1296
+#, no-wrap
+msgid "B<device=>I<devicepath>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1301
+msgid ""
+"Specify a device during mount so that ioctls on the control device can be "
+"avoided.  Especially useful when trying to mount a multi-device setup as "
+"root.  May be specified multiple times for multiple devices."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1301 raw/man8/mount.8:2012
+#, no-wrap
+msgid "B<discard>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1310
+msgid ""
+"Disable/enable the discard mount option.  The discard function issues "
+"frequent commands to let the block device reclaim space freed by the "
+"filesystem.  This is useful for SSD devices, thinly provisioned LUNs and "
+"virtual machine images, but may have a significant performance impact.  (The "
+"B<fstrim> command is also available to initiate batch trims from userspace.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1310
+#, no-wrap
+msgid "B<enospc_debug>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1313
+msgid ""
+"Disable/enable debugging option to be more verbose in some ENOSPC conditions."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1313
+#, no-wrap
+msgid "B<fatal_errors=>I<action>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1318
+#, no-wrap
+msgid ""
+"Action to take when encountering a fatal error: \n"
+"  \"bug\" - BUG() on a fatal error.  This is the default.\n"
+"  \"panic\" - panic() on a fatal error.\n"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1318
+#, no-wrap
+msgid "B<flushoncommit>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1328
+msgid ""
+"The B<flushoncommit> mount option forces any data dirtied by a write in a "
+"prior transaction to commit as part of the current commit.  This makes the "
+"committed state a fully consistent view of the filesystem from the "
+"application's perspective (i.e., it includes all completed filesystem "
+"operations).  This was previously the behavior only when a snapshot is "
+"created."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1328
+#, no-wrap
+msgid "B<inode_cache>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1332
+msgid ""
+"Enable free inode number caching.  Defaults to off due to an overflow "
+"problem when the free space CRCs don't fit inside a single page."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1332
+#, no-wrap
+msgid "B<max_inline=>I<bytes>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1339
+msgid ""
+"Specify the maximum amount of space, in bytes, that can be inlined in a "
+"metadata B-tree leaf.  The value is specified in bytes, optionally with a K, "
+"M, or G suffix, case insensitive.  In practice, this value is limited by the "
+"root sector size, with some space unavailable due to leaf headers.  For a 4k "
+"sectorsize, max inline data is ~3900 bytes."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1339
+#, no-wrap
+msgid "B<metadata_ratio=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1344
+msgid ""
+"Specify that 1 metadata chunk should be allocated after every I<value> data "
+"chunks.  Off by default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1344
+#, no-wrap
+msgid "B<noacl>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1349
+msgid ""
+"Enable/disable support for Posix Access Control Lists (ACLs).  See the "
+"B<acl>(5)  manual page for more information about ACLs."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1349
+#, no-wrap
+msgid "B<nobarrier>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1356
+msgid ""
+"Enable/disable the use of block-layer write barriers.  Write barriers ensure "
+"that certain IOs make it through the device cache and are on persistent "
+"storage.  If disabled on a device with a volatile (non-battery-backed) write-"
+"back cache, the B<nobarrier> option will lead to filesystem corruption on a "
+"system crash or power loss."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1356
+#, no-wrap
+msgid "B<nodatacow>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1360
+msgid ""
+"Enable/disable data copy-on-write for newly created files.  This option "
+"implies B<nodatasum>, and disables all compression."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1360
+#, no-wrap
+msgid "B<nodatasum>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1364
+msgid ""
+"Enable/disable data checksumming for newly created files.  This option "
+"implies B<datacow>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1364
+#, no-wrap
+msgid "B<notreelog>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1367
+msgid "Enable/disable the tree logging used for fsync and O_SYNC writes."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1367
+#, no-wrap
+msgid "B<recovery>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1372
+msgid ""
+"Enable autorecovery attempts if a bad tree root is found at mount time.  "
+"Currently this scans a list of several previous tree roots and tries to use "
+"the first readable."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1372
+#, no-wrap
+msgid "B<rescan_uuid_tree>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1376
+msgid ""
+"Force check and rebuild procedure of the UUID tree.  This should not "
+"normally be needed."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1376
+#, no-wrap
+msgid "B<skip_balance>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1380
+msgid ""
+"Skip automatic resume of an interrupted balance operation after mount.  May "
+"be resumed with \"btrfs balance resume.\""
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1380
+#, no-wrap
+msgid "B<nospace_cache>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1383
+msgid "Disable freespace cache loading without clearing the cache."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1383
+#, no-wrap
+msgid "B<clear_cache>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1387
+msgid ""
+"Force clearing and rebuilding of the disk space cache if something has gone "
+"wrong."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1387
+#, no-wrap
+msgid "B<ssd>|B<nossd>|B<ssd_spread>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1393
+msgid ""
+"Options to control ssd allocation schemes.  By default, BTRFS will enable or "
+"disable ssd allocation heuristics depending on whether a rotational or "
+"nonrotational disk is in use.  The B<ssd> and B<nossd> options can override "
+"this autodetection."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1397
+msgid ""
+"The B<ssd_spread> mount option attempts to allocate into big chunks of "
+"unused space, and may perform better on low-end ssds.  B<ssd_spread> implies "
+"B<ssd>, enabling all other ssd heuristics as well."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1397
+#, no-wrap
+msgid "B<subvol=>I<path>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1404
+msgid ""
+"Mount subvolume at I<path> rather than the root subvolume.  The I<path> is "
+"relative to the top level subvolume."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1404
+#, no-wrap
+msgid "B<subvolid=>I<ID>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1410
+msgid ""
+"Mount subvolume specified by an ID number rather than the root subvolume.  "
+"This allows mounting of subvolumes which are not in the root of the mounted "
+"filesystem.  You can use \"btrfs subvolume list\" to see subvolume ID "
+"numbers."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1410
+#, no-wrap
+msgid "B<subvolrootid=>I<objectid>B<  >(deprecated)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1418
+msgid ""
+"Mount subvolume specified by I<objectid> rather than the root subvolume.  "
+"This allows mounting of subvolumes which are not in the root of the mounted "
+"filesystem.  You can use \"btrfs subvolume show \" to see the object ID for "
+"a subvolume."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1418
+#, no-wrap
+msgid "B<thread_pool=>I<number>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1422
+msgid ""
+"The number of worker threads to allocate.  The default number is equal to "
+"the number of CPUs + 2, or 8, whichever is smaller."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1422
+#, no-wrap
+msgid "B<user_subvol_rm_allowed>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1425
+msgid "Allow subvolumes to be deleted by a non-root user.  Use with caution."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1426
+#, no-wrap
+msgid "Mount options for cifs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1430
+msgid ""
+"See the options section of the B<mount.cifs>(8)  man page (cifs-utils "
+"package must be installed)."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1431
+#, no-wrap
+msgid "Mount options for coherent"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1433 raw/man8/mount.8:2323 raw/man8/mount.8:2504
+#: raw/man8/mount.8:2507 raw/man8/mount.8:2521 raw/man8/mount.8:2856
+msgid "None."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1434
+#, no-wrap
+msgid "Mount options for debugfs"
+msgstr ""
+
+#.  or just /debug
+#.  present since 2.6.11
+#. type: Plain text
+#: raw/man8/mount.8:1440
+msgid ""
+"The debugfs filesystem is a pseudo filesystem, traditionally mounted on I</"
+"sys/kernel/debug>.  As of kernel version 3.4, debugfs has the following "
+"options:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1440 raw/man8/mount.8:2126
+#, no-wrap
+msgid "B<uid=>I<n>B<, gid=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1443
+msgid "Set the owner and group of the mountpoint."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1446
+msgid "Sets the mode of the mountpoint."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1446
+#, no-wrap
+msgid "Mount options for devpts"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1454
+msgid ""
+"The devpts filesystem is a pseudo filesystem, traditionally mounted on I</"
+"dev/pts>.  In order to acquire a pseudo terminal, a process opens I</dev/"
+"ptmx>; the number of the pseudo terminal is then made available to the "
+"process and the pseudo terminal slave can be accessed as I</dev/pts/"
+">E<lt>numberE<gt>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1462
+msgid ""
+"This sets the owner or the group of newly created PTYs to the specified "
+"values.  When nothing is specified, they will be set to the UID and GID of "
+"the creating process.  For example, if there is a tty group with GID 5, then "
+"B<gid=5> will cause newly created PTYs to belong to the tty group."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1471
+msgid ""
+"Set the mode of newly created PTYs to the specified value.  The default is "
+"0600.  A value of B<mode=620> and B<gid=5> makes \"mesg y\" the default on "
+"newly created PTYs."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1471
+#, no-wrap
+msgid "B<newinstance>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1476
+msgid ""
+"Create a private instance of devpts filesystem, such that indices of ptys "
+"allocated in this new instance are independent of indices created in other "
+"instances of devpts."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1483
+msgid ""
+"All mounts of devpts without this B<newinstance> option share the same set "
+"of pty indices (i.e legacy mode).  Each mount of devpts with the "
+"B<newinstance> option has a private set of pty indices."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1489
+msgid ""
+"This option is mainly used to support containers in the linux kernel.  It is "
+"implemented in linux kernel versions starting with 2.6.29.  Further, this "
+"mount option is valid only if CONFIG_DEVPTS_MULTIPLE_INSTANCES is enabled in "
+"the kernel configuration."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1497
+msgid ""
+"To use this option effectively, I</dev/ptmx> must be a symbolic link to "
+"I<pts/ptmx.> See I<Documentation/filesystems/devpts.txt> in the linux kernel "
+"source tree for details."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1497
+#, no-wrap
+msgid "B<ptmxmode=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1503
+msgid "Set the mode for the new I<ptmx> device node in the devpts filesystem."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1510
+msgid ""
+"With the support for multiple instances of devpts (see B<newinstance> option "
+"above), each instance has a private I<ptmx> node in the root of the devpts "
+"filesystem (typically I</dev/pts/ptmx>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1521
+msgid ""
+"For compatibility with older versions of the kernel, the default mode of the "
+"new I<ptmx> node is 0000.  B<ptmxmode=>I<value> specifies a more useful mode "
+"for the I<ptmx> node and is highly recommended when the B<newinstance> "
+"option is specified."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1526
+msgid ""
+"This option is only implemented in linux kernel versions starting with "
+"2.6.29.  Further, this option is valid only if "
+"CONFIG_DEVPTS_MULTIPLE_INSTANCES is enabled in the kernel configuration."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1527
+#, no-wrap
+msgid "Mount options for ext2"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1532
+msgid ""
+"The `ext2' filesystem is the standard Linux filesystem.  Since Linux 2.5.46, "
+"for most mount options the default is determined by the filesystem "
+"superblock.  Set them with B<tune2fs>(8)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1532
+#, no-wrap
+msgid "B<acl>|B<noacl>"
+msgstr ""
+
+#.  requires CONFIG_EXT2_FS_POSIX_ACL
+#. type: Plain text
+#: raw/man8/mount.8:1536
+msgid "Support POSIX Access Control Lists (or not)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1536
+#, no-wrap
+msgid "B<bsddf>|B<minixdf>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1548
+msgid ""
+"Set the behavior for the I<statfs> system call.  The B<minixdf> behavior is "
+"to return in the I<f_blocks> field the total number of blocks of the "
+"filesystem, while the B<bsddf> behavior (which is the default) is to "
+"subtract the overhead blocks used by the ext2 filesystem and not available "
+"for file storage.  Thus"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1550
+msgid "% mount /k -o minixdf; df /k; umount /k"
+msgstr ""
+
+#. type: tbl table
+#: raw/man8/mount.8:1554 raw/man8/mount.8:1563
+#, no-wrap
+msgid "Filesystem#1024-blocks#Used#Available#Capacity#Mounted on"
+msgstr ""
+
+#. type: tbl table
+#: raw/man8/mount.8:1555
+#, no-wrap
+msgid "/dev/sda6#2630655#86954#2412169#3%#/k"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1559
+msgid "% mount /k -o bsddf; df /k; umount /k"
+msgstr ""
+
+#. type: tbl table
+#: raw/man8/mount.8:1564
+#, no-wrap
+msgid "/dev/sda6#2543714#13#2412169#0%#/k"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1570
+msgid ""
+"(Note that this example shows that one can add command-line options to the "
+"options given in I</etc/fstab>.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1571
+#, no-wrap
+msgid "B<check=none> or B<nocheck>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1579
+msgid ""
+"No checking is done at mount time.  This is the default.  This is fast.  It "
+"is wise to invoke B<e2fsck>(8)  every now and then, e.g.\\& at boot time.  "
+"The non-default behavior is unsupported (check=normal and check=strict "
+"options have been removed).  Note that these mount options don't have to be "
+"supported if ext4 kernel driver is used for ext2 and ext3 filesystems."
+msgstr ""
+
+#. type: tbl table
+#: raw/man8/mount.8:1579 raw/man8/mount.8:2005 raw/man1/logger.1:266
+#, no-wrap
+msgid "B<debug>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1582
+msgid "Print debugging info upon each (re)mount."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1582 raw/man8/mount.8:2312
+#, no-wrap
+msgid "B<errors=>{B<continue>|B<remount-ro>|B<panic>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1590
+msgid ""
+"Define the behavior when an error is encountered.  (Either ignore errors and "
+"just mark the filesystem erroneous and continue, or remount the filesystem "
+"read-only, or panic and halt the system.)  The default is set in the "
+"filesystem superblock, and can be changed using B<tune2fs>(8)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1590
+#, no-wrap
+msgid "B<grpid>|B<bsdgroups> and B<nogrpid>|B<sysvgroups>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1600
+msgid ""
+"These options define what group id a newly created file gets.  When B<grpid> "
+"is set, it takes the group id of the directory in which it is created; "
+"otherwise (the default) it takes the fsgid of the current process, unless "
+"the directory has the setgid bit set, in which case it takes the gid from "
+"the parent directory, and also gets the setgid bit set if it is a directory "
+"itself."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1605
+msgid ""
+"The usrquota (same as quota) mount option enables user quota support on the "
+"filesystem.  grpquota enables group quotas support.  You need the quota "
+"utilities to actually enable and manage the quota system."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1605 raw/man8/mount.8:1850
+#, no-wrap
+msgid "B<nouid32>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1609 raw/man8/mount.8:1855
+msgid ""
+"Disables 32-bit UIDs and GIDs.  This is for interoperability with older "
+"kernels which only store and expect 16-bit values."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1609
+#, no-wrap
+msgid "B<oldalloc> or B<orlov>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1612
+msgid "Use old allocator or Orlov allocator for new inodes.  Orlov is default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1612
+#, no-wrap
+msgid "B<resgid=>\\,I<n> and B<resuid=>\\,I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1621
+msgid ""
+"The ext2 filesystem reserves a certain percentage of the available space (by "
+"default 5%, see B<mke2fs>(8)  and B<tune2fs>(8)).  These options determine "
+"who can use the reserved blocks.  (Roughly: whoever has the specified uid, "
+"or belongs to the specified group.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1621
+#, no-wrap
+msgid "B<sb=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1637
+msgid ""
+"Instead of block 1, use block I<n> as superblock.  This could be useful when "
+"the filesystem has been damaged.  (Earlier, copies of the superblock would "
+"be made every 8192 blocks: in block 1, 8193, 16385, \\&...\\& (and one got "
+"thousands of copies on a big filesystem).  Since version 1.08, B<mke2fs> has "
+"a -s (sparse superblock) option to reduce the number of backup superblocks, "
+"and since version 1.15 this is the default.  Note that this may mean that "
+"ext2 filesystems created by a recent B<mke2fs> cannot be mounted r/w under "
+"Linux 2.0.*.)  The block number here uses 1\\ k units.  Thus, if you want to "
+"use logical block 32768 on a filesystem with 4\\ k blocks, use \"sb=131072\"."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1637
+#, no-wrap
+msgid "B<user_xattr>|B<nouser_xattr>"
+msgstr ""
+
+#.  requires CONFIG_EXT2_FS_XATTR
+#. type: Plain text
+#: raw/man8/mount.8:1641
+msgid "Support \"user.\" extended attributes (or not)."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1643
+#, no-wrap
+msgid "Mount options for ext3"
+msgstr ""
+
+#.  .TP
+#.  .BR abort
+#.  Mount the filesystem in abort mode, as if a fatal error has occurred.
+#. type: Plain text
+#: raw/man8/mount.8:1650
+msgid ""
+"The ext3 filesystem is a version of the ext2 filesystem which has been "
+"enhanced with journaling.  It supports the same options as ext2 as well as "
+"the following additions:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1650
+#, no-wrap
+msgid "B<journal=update>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1653
+msgid "Update the ext3 filesystem's journal to the current format."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1653
+#, no-wrap
+msgid "B<journal=inum>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1660
+msgid ""
+"When a journal already exists, this option is ignored.  Otherwise, it "
+"specifies the number of the inode which will represent the ext3 filesystem's "
+"journal file; ext3 will create a new journal, overwriting the old contents "
+"of the file whose inode number is I<inum>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1660
+#, no-wrap
+msgid "B<journal_dev=devnum>/B<journal_path=path>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1667
+msgid ""
+"When the external journal device's major/minor numbers have changed, these "
+"options allow the user to specify the new journal location.  The journal "
+"device is identified either through its new major/minor numbers encoded in "
+"devnum, or via a path to the device."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1667
+#, no-wrap
+msgid "B<norecovery>/B<noload>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1674
+msgid ""
+"Don't load the journal on mounting.  Note that if the filesystem was not "
+"unmounted cleanly, skipping the journal replay will lead to the filesystem "
+"containing inconsistencies that can lead to any number of problems."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1674
+#, no-wrap
+msgid "B<data=>{B<journal>|B<ordered>|B<writeback>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1681
+msgid ""
+"Specifies the journaling mode for file data.  Metadata is always journaled.  "
+"To use modes other than B<ordered> on the root filesystem, pass the mode to "
+"the kernel as boot parameter, e.g.\\& I<rootflags=data=journal>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1682
+#, no-wrap
+msgid "B<journal>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1686
+msgid ""
+"All data is committed into the journal prior to being written into the main "
+"filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1686
+#, no-wrap
+msgid "B<ordered>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1690
+msgid ""
+"This is the default mode.  All data is forced directly out to the main file "
+"system prior to its metadata being committed to the journal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1690
+#, no-wrap
+msgid "B<writeback>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1697
+msgid ""
+"Data ordering is not preserved \\(en data may be written into the main "
+"filesystem after its metadata has been committed to the journal.  This is "
+"rumoured to be the highest-throughput option.  It guarantees internal "
+"filesystem integrity, however it can allow old data to appear in files after "
+"a crash and journal recovery."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1698
+#, no-wrap
+msgid "B<data_err=ignore>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1702
+msgid ""
+"Just print an error message if an error occurs in a file data buffer in "
+"ordered mode."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1702
+#, no-wrap
+msgid "B<data_err=abort>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1705
+msgid ""
+"Abort the journal if an error occurs in a file data buffer in ordered mode."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1705
+#, no-wrap
+msgid "B<barrier=0> / B<barrier=1>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1714
+msgid ""
+"This disables / enables the use of write barriers in the jbd code.  "
+"barrier=0 disables, barrier=1 enables (default).  This also requires an IO "
+"stack which can support barriers, and if jbd gets an error on a barrier "
+"write, it will disable barriers again with a warning.  Write barriers "
+"enforce proper on-disk ordering of journal commits, making volatile disk "
+"write caches safe to use, at some performance penalty.  If your disks are "
+"battery-backed in one way or another, disabling barriers may safely improve "
+"performance."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1714
+#, no-wrap
+msgid "B<commit=>I<nrsec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1719
+msgid ""
+"Sync all data and metadata every I<nrsec> seconds.  The default value is 5 "
+"seconds.  Zero means default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1719 raw/man8/mount.8:2482
+#, no-wrap
+msgid "B<user_xattr>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1724 raw/man8/mount.8:2487
+msgid "Enable Extended User Attributes.  See the B<attr>(5)  manual page."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1724 raw/man8/mount.8:2487
+#, no-wrap
+msgid "B<acl>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1729 raw/man8/mount.8:2492
+msgid "Enable POSIX Access Control Lists.  See the B<acl>(5)  manual page."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1729
+#, no-wrap
+msgid "B<usrjquota=aquota.user>|B<grpjquota=aquota.group>|B<jqfmt=vfsv0>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1737
+msgid ""
+"Apart from the old quota system (as in ext2, jqfmt=vfsold aka version 1 "
+"quota)  ext3 also supports journaled quotas (version 2 quota).  jqfmt=vfsv0 "
+"enables journaled quotas.  For journaled quotas the mount options "
+"usrjquota=aquota.user and grpjquota=aquota.group are required to tell the "
+"quota system which quota database files to use.  Journaled quotas have the "
+"advantage that even after a crash no quota check is required."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1738
+#, no-wrap
+msgid "Mount options for ext4"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1742
+msgid ""
+"The ext4 filesystem is an advanced level of the ext3 filesystem which "
+"incorporates scalability and reliability enhancements for supporting large "
+"filesystem."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1749
+msgid ""
+"The options B<journal_dev, norecovery, noload, data, commit, orlov, "
+"oldalloc, [no]user_xattr> B<[no]acl, bsddf, minixdf, debug, errors, "
+"data_err, grpid, bsdgroups, nogrpid> B<sysvgroups, resgid, resuid, sb, "
+"quota, noquota, grpquota, usrquota> B<usrjquota, grpjquota and jqfmt> are "
+"backwardly compatible with ext3 or ext2."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1749
+#, no-wrap
+msgid "B<journal_checksum>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1754
+msgid ""
+"Enable checksumming of the journal transactions.  This will allow the "
+"recovery code in e2fsck and the kernel to detect corruption in the kernel.  "
+"It is a compatible change and will be ignored by older kernels."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1754
+#, no-wrap
+msgid "B<journal_async_commit>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1759
+msgid ""
+"Commit block can be written to disk without waiting for descriptor blocks.  "
+"If enabled, older kernels cannot mount the device.  This will enable "
+"'journal_checksum' internally."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1759
+#, no-wrap
+msgid "B<barrier=0> / B<barrier=1> / B<barrier> / B<nobarrier>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1764
+msgid ""
+"These mount options have the same effect as in ext3.  The mount options "
+"\"barrier\" and \"nobarrier\" are added for consistency with other ext4 "
+"mount options."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1766
+msgid "The ext4 filesystem enables write barriers by default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1766
+#, no-wrap
+msgid "B<inode_readahead_blks=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1771
+msgid ""
+"This tuning parameter controls the maximum number of inode table blocks that "
+"ext4's inode table readahead algorithm will pre-read into the buffer cache.  "
+"The value must be a power of 2.  The default value is 32 blocks."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1771
+#, no-wrap
+msgid "B<stripe=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1776
+msgid ""
+"Number of filesystem blocks that mballoc will try to use for allocation size "
+"and alignment.  For RAID5/6 systems this should be the number of data disks "
+"* RAID chunk size in filesystem blocks."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1776
+#, no-wrap
+msgid "B<delalloc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1779
+msgid "Deferring block allocation until write-out time."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1779
+#, no-wrap
+msgid "B<nodelalloc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1783
+msgid ""
+"Disable delayed allocation.  Blocks are allocated when data is copied from "
+"user to page cache."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1783
+#, no-wrap
+msgid "B<max_batch_time=>I<usec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1798
+msgid ""
+"Maximum amount of time ext4 should wait for additional filesystem operations "
+"to be batch together with a synchronous write operation.  Since a "
+"synchronous write operation is going to force a commit and then a wait for "
+"the I/O complete, it doesn't cost much, and can be a huge throughput win, we "
+"wait for a small amount of time to see if any other transactions can "
+"piggyback on the synchronous write.  The algorithm used is designed to "
+"automatically tune for the speed of the disk, by measuring the amount of "
+"time (on average) that it takes to finish committing a transaction.  Call "
+"this time the \"commit time\".  If the time that the transaction has been "
+"running is less than the commit time, ext4 will try sleeping for the commit "
+"time to see if other operations will join the transaction.  The commit time "
+"is capped by the max_batch_time, which defaults to 15000\\ \\[mc]s (15\\ "
+"ms).  This optimization can be turned off entirely by setting max_batch_time "
+"to 0."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1798
+#, no-wrap
+msgid "B<min_batch_time=>I<usec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1804
+msgid ""
+"This parameter sets the commit time (as described above) to be at least "
+"min_batch_time.  It defaults to zero microseconds.  Increasing this "
+"parameter may improve the throughput of multi-threaded, synchronous "
+"workloads on very fast disks, at the cost of increasing latency."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1804
+#, no-wrap
+msgid "B<journal_ioprio=>I<prio>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1810
+msgid ""
+"The I/O priority (from 0 to 7, where 0 is the highest priority) which should "
+"be used for I/O operations submitted by kjournald2 during a commit "
+"operation.  This defaults to 3, which is a slightly higher priority than the "
+"default I/O priority."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1810
+#, no-wrap
+msgid "B<abort>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1815
+msgid ""
+"Simulate the effects of calling ext4_abort() for debugging purposes.  This "
+"is normally used while remounting a filesystem which is already mounted."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1815
+#, no-wrap
+msgid "B<auto_da_alloc>|B<noauto_da_alloc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1819
+msgid ""
+"Many broken applications don't use fsync() when replacing existing files via "
+"patterns such as"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1821
+msgid ""
+"fd = open(\"foo.new\")/write(fd,...)/close(fd)/ rename(\"foo.new\", \"foo\")"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1823
+msgid "or worse yet"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1825
+msgid "fd = open(\"foo\", O_TRUNC)/write(fd,...)/close(fd)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1833
+msgid ""
+"If auto_da_alloc is enabled, ext4 will detect the replace-via-rename and "
+"replace-via-truncate patterns and force that any delayed allocation blocks "
+"are allocated such that at the next journal commit, in the default "
+"data=ordered mode, the data blocks of the new file are forced to disk before "
+"the rename()  operation is committed.  This provides roughly the same level "
+"of guarantees as ext3, and avoids the \"zero-length\" problem that can "
+"happen when a system crashes before the delayed allocation blocks are forced "
+"to disk."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1833
+#, no-wrap
+msgid "B<noinit_itable>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1839
+msgid ""
+"Do not initialize any uninitialized inode table blocks in the background.  "
+"This feature may be used by installation CD's so that the install process "
+"can complete as quickly as possible; the inode table initialization process "
+"would then be deferred until the next time the filesystem is mounted."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1839
+#, no-wrap
+msgid "B<init_itable=n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1844
+msgid ""
+"The lazy itable init code will wait n times the number of milliseconds it "
+"took to zero out the previous block group's inode table.  This minimizes the "
+"impact on system performance while the filesystem's inode table is being "
+"initialized."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1844
+#, no-wrap
+msgid "B<discard>/B<nodiscard>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1850
+msgid ""
+"Controls whether ext4 should issue discard/TRIM commands to the underlying "
+"block device when blocks are freed.  This is useful for SSD devices and "
+"sparse/thinly-provisioned LUNs, but it is off by default until sufficient "
+"testing has been done."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1855
+#, no-wrap
+msgid "B<block_validity>/B<noblock_validity>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1862
+msgid ""
+"This options allows to enables/disables the in-kernel facility for tracking "
+"filesystem metadata blocks within internal data structures.  This allows "
+"multi-block allocator and other routines to quickly locate extents which "
+"might overlap with filesystem metadata blocks.  This option is intended for "
+"debugging purposes and since it negatively affects the performance, it is "
+"off by default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1862
+#, no-wrap
+msgid "B<dioread_lock>/B<dioread_nolock>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1873
+msgid ""
+"Controls whether or not ext4 should use the DIO read locking.  If the "
+"dioread_nolock option is specified ext4 will allocate uninitialized extent "
+"before buffer write and convert the extent to initialized after IO "
+"completes.  This approach allows ext4 code to avoid using inode mutex, which "
+"improves scalability on high speed storages.  However this does not work "
+"with data journaling and dioread_nolock option will be ignored with kernel "
+"warning.  Note that dioread_nolock code path is only used for extent-based "
+"files.  Because of the restrictions this options comprises it is off by "
+"default (e.g.\\& dioread_lock)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1873
+#, no-wrap
+msgid "B<max_dir_size_kb=n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1881
+msgid ""
+"This limits the size of the directories so that any attempt to expand them "
+"beyond the specified limit in kilobytes will cause an ENOSPC error.  This is "
+"useful in memory-constrained environments, where a very large directory can "
+"cause severe performance problems or even provoke the Out Of Memory killer. "
+"(For example, if there is only 512\\ MB memory available, a 176\\ MB "
+"directory may seriously cramp the system's style.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1881
+#, no-wrap
+msgid "B<i_version>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1884
+msgid "Enable 64-bit inode version support.  This option is off by default."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:1885
+#, no-wrap
+msgid "Mount options for fat"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1894
+msgid ""
+"(Note: I<fat> is not a separate filesystem, but a common part of the "
+"I<msdos>, I<umsdos> and I<vfat> filesystems.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1894
+#, no-wrap
+msgid "B<blocksize=>{B<512>|B<1024>|B<2048>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1897
+msgid "Set blocksize (default 512).  This option is obsolete."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1901 raw/man8/mount.8:2130
+msgid ""
+"Set the owner and group of all files.  (Default: the uid and gid of the "
+"current process.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1901 raw/man8/mount.8:2153
+#, no-wrap
+msgid "B<umask=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1907 raw/man8/mount.8:2159
+msgid ""
+"Set the umask (the bitmask of the permissions that are B<not> present).  The "
+"default is the umask of the current process.  The value is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1907
+#, no-wrap
+msgid "B<dmask=>I<value>"
+msgstr ""
+
+#.  Present since Linux 2.5.43.
+#. type: Plain text
+#: raw/man8/mount.8:1913
+msgid ""
+"Set the umask applied to directories only.  The default is the umask of the "
+"current process.  The value is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1913
+#, no-wrap
+msgid "B<fmask=>I<value>"
+msgstr ""
+
+#.  Present since Linux 2.5.43.
+#. type: Plain text
+#: raw/man8/mount.8:1919
+msgid ""
+"Set the umask applied to regular files only.  The default is the umask of "
+"the current process.  The value is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1919
+#, no-wrap
+msgid "B<allow_utime=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1922
+msgid "This option controls the permission check of mtime/atime."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1923
+#, no-wrap
+msgid "B<20>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1926
+msgid ""
+"If current process is in group of file's group ID, you can change timestamp."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1929
+msgid "Other users can change timestamp."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1933
+msgid ""
+"The default is set from `dmask' option. (If the directory is writable, "
+"B<utime>(2)  is also allowed.  I.e.\\& \\s+3~\\s0dmask & 022)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1939
+msgid ""
+"Normally B<utime>(2)  checks current process is owner of the file, or it has "
+"CAP_FOWNER capability.  But FAT filesystem doesn't have uid/gid on disk, so "
+"normal check is too inflexible.  With this option you can relax it."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1940
+#, no-wrap
+msgid "B<check=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1943
+msgid "Three different levels of pickiness can be chosen:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1944
+#, no-wrap
+msgid "B<r>[B<elaxed>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1952
+msgid ""
+"Upper and lower case are accepted and equivalent, long name parts are "
+"truncated (e.g.\\& I<verylongname.foobar> becomes I<verylong.foo>), leading "
+"and embedded spaces are accepted in each name part (name and extension)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1952
+#, no-wrap
+msgid "B<n>[B<ormal>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1956
+msgid ""
+"Like \"relaxed\", but many special characters (*, ?, E<lt>, spaces, etc.) "
+"are rejected.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1956
+#, no-wrap
+msgid "B<s>[B<trict>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1961
+msgid ""
+"Like \"normal\", but names that contain long parts or special characters "
+"that are sometimes used on Linux but are not accepted by MS-DOS (+, =, etc.) "
+"are rejected."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1962
+#, no-wrap
+msgid "B<codepage=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1966
+msgid ""
+"Sets the codepage for converting to shortname characters on FAT and VFAT "
+"filesystems.  By default, codepage 437 is used."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1966
+#, no-wrap
+msgid "B<conv=>I<mode>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1972
+msgid ""
+"The I<fat> filesystem can perform CRLFE<lt>--E<gt>NL conversion (MS-DOS text "
+"format to UNIX text format) in the kernel.  The following conversion "
+"I<mode>s are available:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1973
+#, no-wrap
+msgid "B<b>[B<inary>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1976
+msgid "No translation is performed.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1976
+#, no-wrap
+msgid "B<t>[B<ext>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1979
+msgid "CRLFE<lt>--E<gt>NL translation is performed on all files."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1979
+#, no-wrap
+msgid "B<a>[B<uto>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1988
+msgid ""
+"CRLFE<lt>--E<gt>NL translation is performed on all files that don't have a "
+"\"well-known binary\" extension.  The list of known extensions can be found "
+"at the beginning of I<fs/fat/misc.c> (as of 2.0, the list is: exe, com, bin, "
+"app, sys, drv, ovl, ovr, obj, lib, dll, pif, arc, zip, lha, lzh, zoo, tar, "
+"z, arj, tz, taz, tzp, tpz, gz, tgz, deb, gif, bmp, tif, gl, jpg, pcx, tfm, "
+"vf, gf, pk, pxl, dvi)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1991
+msgid ""
+"Programs that do computed lseeks won't like in-kernel text conversion.  "
+"Several people have had their data ruined by this translation.  Beware!"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:1994
+msgid ""
+"For filesystems mounted in binary mode, a conversion tool (fromdos/todos) is "
+"available.  This option is obsolete."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:1995
+#, no-wrap
+msgid "B<cvf_format=>I<module>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2002
+msgid ""
+"Forces the driver to use the CVF (Compressed Volume File) module "
+"cvf_I<module> instead of auto-detection.  If the kernel supports kmod, the "
+"cvf_format=xxx option also controls on-demand CVF module loading.  This "
+"option is obsolete."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2002
+#, no-wrap
+msgid "B<cvf_option=>I<option>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2005
+msgid "Option passed to the CVF module.  This option is obsolete."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2012
+msgid ""
+"Turn on the I<debug> flag.  A version string and a list of filesystem "
+"parameters will be printed (these data are also printed if the parameters "
+"appear to be inconsistent)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2017
+msgid ""
+"If set, causes discard/TRIM commands to be issued to the block device when "
+"blocks are freed.  This is useful for SSD devices and sparse/thinly-"
+"provisioned LUNs."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2017
+#, no-wrap
+msgid "B<dos1xfloppy>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2022
+msgid ""
+"If set, use a fallback default BIOS Parameter Block configuration, "
+"determined by backing device size. These static parameters match defaults "
+"assumed by DOS 1.x for 160 kiB, 180 kiB, 320 kiB, and 360 kiB floppies and "
+"floppy images."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2022
+#, no-wrap
+msgid "B<errors=>{B<panic>|B<continue>|B<remount-ro>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2026
+msgid ""
+"Specify FAT behavior on critical errors: panic, continue without doing "
+"anything, or remount the partition in read-only mode (default behavior)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2026
+#, no-wrap
+msgid "B<fat=>{B<12>|B<16>|B<32>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2030
+msgid ""
+"Specify a 12, 16 or 32 bit fat.  This overrides the automatic FAT type "
+"detection routine.  Use with caution!"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2030 raw/man8/mount.8:2275
+#, no-wrap
+msgid "B<iocharset=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2035
+msgid ""
+"Character set to use for converting between 8 bit characters and 16 bit "
+"Unicode characters.  The default is iso8859-1.  Long filenames are stored on "
+"disk in Unicode format."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2035
+#, no-wrap
+msgid "B<nfs=>{B<stale_rw>|B<nostale_ro>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2038
+msgid "Enable this only if you want to export the FAT filesystem over NFS."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2046
+msgid ""
+"B<stale_rw>: This option maintains an index (cache) of directory inodes "
+"which is used by the nfs-related code to improve look-ups. Full file "
+"operations (read/write) over NFS are supported but with cache eviction at "
+"NFS server, this could result in spurious B<ESTALE> errors."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2058
+msgid ""
+"B<nostale_ro>: This option bases the inode number and filehandle on the on-"
+"disk location of a file in the FAT directory entry.  This ensures that "
+"B<ESTALE> will not be returned after a file is evicted from the inode cache. "
+"However, it means that operations such as rename, create and unlink could "
+"cause filehandles that previously pointed at one file to point at a "
+"different file, potentially causing data corruption. For this reason, this "
+"option also mounts the filesystem readonly."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2062
+msgid ""
+"To maintain backward compatibility, '-o nfs' is also accepted, defaulting to "
+"B<stale_rw>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2062
+#, no-wrap
+msgid "B<tz=UTC>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2070
+msgid ""
+"This option disables the conversion of timestamps between local time (as "
+"used by Windows on FAT) and UTC (which Linux uses internally).  This is "
+"particularly useful when mounting devices (like digital cameras)  that are "
+"set to UTC in order to avoid the pitfalls of local time."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2070
+#, no-wrap
+msgid "B<time_offset=>I<minutes>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2082
+msgid ""
+"Set offset for conversion of timestamps from local time used by FAT to UTC.  "
+"I.e., I<minutes> minutes will be subtracted from each timestamp to convert "
+"it to UTC used internally by Linux. This is useful when the time zone set in "
+"the kernel via B<settimeofday>(2)  is not the time zone used by the "
+"filesystem. Note that this option still does not provide correct time stamps "
+"in all cases in presence of DST - time stamps in a different DST setting "
+"will be off by one hour."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2082 raw/man8/mount.8:2144
+#, no-wrap
+msgid "B<quiet>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2088
+msgid ""
+"Turn on the I<quiet> flag.  Attempts to chown or chmod files do not return "
+"errors, although they fail.  Use with caution!"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2088
+#, no-wrap
+msgid "B<rodir>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2093
+msgid ""
+"FAT has the ATTR_RO (read-only) attribute. On Windows, the ATTR_RO of the "
+"directory will just be ignored, and is used only by applications as a flag "
+"(e.g. it's set for the customized folder)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2096
+msgid ""
+"If you want to use ATTR_RO as read-only flag even for the directory, set "
+"this option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2096
+#, no-wrap
+msgid "B<showexec>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2100
+msgid ""
+"If set, the execute permission bits of the file will be allowed only if the "
+"extension part of the name is \\&.EXE, \\&.COM, or \\&.BAT.  Not set by "
+"default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2100
+#, no-wrap
+msgid "B<sys_immutable>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2104
+msgid ""
+"If set, ATTR_SYS attribute on FAT is handled as IMMUTABLE flag on Linux.  "
+"Not set by default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2104
+#, no-wrap
+msgid "B<flush>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2108
+msgid ""
+"If set, the filesystem will try to flush to disk more early than normal.  "
+"Not set by default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2108
+#, no-wrap
+msgid "B<usefree>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2116
+msgid ""
+"Use the \"free clusters\" value stored on FSINFO.  It'll be used to "
+"determine number of free clusters without scanning disk.  But it's not used "
+"by default, because recent Windows don't update it correctly in some case.  "
+"If you are sure the \"free clusters\" on FSINFO is correct, by this option "
+"you can avoid scanning disk."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2116
+#, no-wrap
+msgid "B<dots>, B<nodots>, B<dotsOK=>[B<yes>|B<no>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2120
+msgid ""
+"Various misguided attempts to force Unix or DOS conventions onto a FAT "
+"filesystem."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2121
+#, no-wrap
+msgid "Mount options for hfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2122
+#, no-wrap
+msgid "B<creator=>I<cccc>B<, type=>I<cccc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2126
+msgid ""
+"Set the creator/type values as shown by the MacOS finder used for creating "
+"new files.  Default values: '????'."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2130
+#, no-wrap
+msgid "B<dir_umask=>I<n>B<, file_umask=>I<n>B<, umask=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2134
+msgid ""
+"Set the umask used for all directories, all regular files, or all files and "
+"directories.  Defaults to the umask of the current process."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2134
+#, no-wrap
+msgid "B<session=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2139
+msgid ""
+"Select the CDROM session to mount.  Defaults to leaving that decision to the "
+"CDROM driver.  This option will fail with anything but a CDROM as underlying "
+"device."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2139
+#, no-wrap
+msgid "B<part=>I<n>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2144
+msgid ""
+"Select partition number n from the device.  Only makes sense for CDROMs.  "
+"Defaults to not parsing the partition table at all."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2147
+msgid "Don't complain about invalid mount options."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2148
+#, no-wrap
+msgid "Mount options for hpfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2153
+msgid ""
+"Set the owner and group of all files. (Default: the uid and gid of the "
+"current process.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2159
+#, no-wrap
+msgid "B<case=>{B<lower>|B<asis>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2164
+msgid ""
+"Convert all files names to lower case, or leave them.  (Default: "
+"B<case=lower>.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2164
+#, no-wrap
+msgid "B<conv=>{B<binary>|B<text>|B<auto>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2177
+msgid ""
+"For B<conv=text>, delete some random CRs (in particular, all followed by "
+"NL)  when reading a file.  For B<conv=auto>, choose more or less at random "
+"between B<conv=binary> and B<conv=text>.  For B<conv=binary>, just read what "
+"is in the file.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2177
+#, no-wrap
+msgid "B<nocheck>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2180
+msgid "Do not abort mounting when certain consistency checks fail."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2181
+#, no-wrap
+msgid "Mount options for iso9660"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2186
+msgid ""
+"ISO 9660 is a standard describing a filesystem structure to be used on CD-"
+"ROMs. (This filesystem type is also seen on some DVDs.  See also the I<udf> "
+"filesystem.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2193
+msgid ""
+"Normal I<iso9660> filenames appear in a 8.3 format (i.e., DOS-like "
+"restrictions on filename length), and in addition all characters are in "
+"upper case.  Also there is no field for file ownership, protection, number "
+"of links, provision for block/character devices, etc."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2199
+msgid ""
+"Rock Ridge is an extension to iso9660 that provides all of these UNIX-like "
+"features.  Basically there are extensions to each directory record that "
+"supply all of the additional information, and when Rock Ridge is in use, the "
+"filesystem is indistinguishable from a normal UNIX filesystem (except that "
+"it is read-only, of course)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2199
+#, no-wrap
+msgid "B<norock>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2203
+msgid ""
+"Disable the use of Rock Ridge extensions, even if available.  Cf.\\& B<map>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2203
+#, no-wrap
+msgid "B<nojoliet>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2207
+msgid ""
+"Disable the use of Microsoft Joliet extensions, even if available.  Cf.\\& "
+"B<map>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2207
+#, no-wrap
+msgid "B<check=>{B<r>[B<elaxed>]|B<s>[B<trict>]}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2218
+msgid ""
+"With B<check=relaxed>, a filename is first converted to lower case before "
+"doing the lookup.  This is probably only meaningful together with B<norock> "
+"and B<map=normal>.  (Default: B<check=strict>.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2224
+msgid ""
+"Give all files in the filesystem the indicated user or group id, possibly "
+"overriding the information found in the Rock Ridge extensions.  (Default: "
+"B<uid=0,gid=0>.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2224
+#, no-wrap
+msgid "B<map=>{B<n>[B<ormal>]|B<o>[B<ff>]|B<a>[B<corn>]}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2238
+msgid ""
+"For non-Rock Ridge volumes, normal name translation maps upper to lower case "
+"ASCII, drops a trailing `;1', and converts `;' to `.'.  With B<map=off> no "
+"name translation is done.  See B<norock>.  (Default: B<map=normal>.)  "
+"B<map=acorn> is like B<map=normal> but also apply Acorn extensions if "
+"present."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2244
+msgid ""
+"For non-Rock Ridge volumes, give all files the indicated mode.  (Default: "
+"read and execute permission for everybody.)  Since Linux 2.1.37 one no "
+"longer needs to specify the mode in decimal. (Octal is indicated by a "
+"leading 0.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2244 raw/man8/mount.8:2674
+#, no-wrap
+msgid "B<unhide>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2249
+msgid ""
+"Also show hidden and associated files.  (If the ordinary files and the "
+"associated or hidden files have the same filenames, this may make the "
+"ordinary files inaccessible.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2249
+#, no-wrap
+msgid "B<block=>{B<512>|B<1024>|B<2048>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2254
+msgid "Set the block size to the indicated value.  (Default: B<block=1024>.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2254
+#, no-wrap
+msgid "B<conv=>{B<a>[B<uto>]|B<b>[B<inary>]|B<m>[B<text>]|B<t>[B<ext>]}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2261
+msgid ""
+"(Default: B<conv=binary>.)  Since Linux 1.3.54 this option has no effect "
+"anymore.  (And non-binary settings used to be very dangerous, possibly "
+"leading to silent data corruption.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2261
+#, no-wrap
+msgid "B<cruft>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2266
+msgid ""
+"If the high byte of the file length contains other garbage, set this mount "
+"option to ignore the high order bits of the file length.  This implies that "
+"a file cannot be larger than 16\\ MB."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2266
+#, no-wrap
+msgid "B<session=>I<x>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2269
+msgid "Select number of session on multisession CD. (Since 2.3.4.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2269
+#, no-wrap
+msgid "B<sbsector=>I<xxx>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2272
+msgid "Session begins from sector xxx. (Since 2.3.4.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2275
+msgid ""
+"The following options are the same as for vfat and specifying them only "
+"makes sense when using discs encoded using Microsoft's Joliet extensions."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2279
+msgid ""
+"Character set to use for converting 16 bit Unicode characters on CD to 8 bit "
+"characters.  The default is iso8859-1."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2279 raw/man8/mount.8:2370 raw/man8/mount.8:2808
+#, no-wrap
+msgid "B<utf8>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2282
+msgid "Convert 16 bit Unicode characters on CD to UTF-8."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2283
+#, no-wrap
+msgid "Mount options for jfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2284 raw/man8/mount.8:2359
+#, no-wrap
+msgid "B<iocharset=>I<name>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2293
+msgid ""
+"Character set to use for converting from Unicode to ASCII.  The default is "
+"to do no conversion.  Use B<iocharset=utf8> for UTF8 translations.  This "
+"requires CONFIG_NLS_UTF8 to be set in the kernel I<.config> file."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2293
+#, no-wrap
+msgid "B<resize=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2301
+msgid ""
+"Resize the volume to I<value> blocks.  JFS only supports growing a volume, "
+"not shrinking it.  This option is only valid during a remount, when the "
+"volume is mounted read-write.  The B<resize> keyword with no value will grow "
+"the volume to the full size of the partition."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2301
+#, no-wrap
+msgid "B<nointegrity>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2306
+msgid ""
+"Do not write to the journal.  The primary use of this option is to allow for "
+"higher performance when restoring a volume from backup media.  The integrity "
+"of the volume is not guaranteed if the system abnormally ends."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2306
+#, no-wrap
+msgid "B<integrity>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2312
+msgid ""
+"Default.  Commit metadata changes to the journal.  Use this option to "
+"remount a volume where the B<nointegrity> option was previously specified in "
+"order to restore normal behavior."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2317
+msgid ""
+"Define the behavior when an error is encountered.  (Either ignore errors and "
+"just mark the filesystem erroneous and continue, or remount the filesystem "
+"read-only, or panic and halt the system.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2317
+#, no-wrap
+msgid "B<noquota>|B<quota>|B<usrquota>|B<grpquota>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2320
+msgid "These options are accepted but ignored."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2321
+#, no-wrap
+msgid "Mount options for minix"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2324
+#, no-wrap
+msgid "Mount options for msdos"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2331
+msgid ""
+"See mount options for fat.  If the I<msdos> filesystem detects an "
+"inconsistency, it reports an error and sets the file system read-only.  The "
+"filesystem can be made writable again by remounting it."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2332
+#, no-wrap
+msgid "Mount options for ncpfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2342
+msgid ""
+"Just like I<nfs>, the I<ncpfs> implementation expects a binary argument (a "
+"I<struct ncp_mount_data>)  to the mount system call.  This argument is "
+"constructed by B<ncpmount>(8)  and the current version of B<mount> (2.12) "
+"does not know anything about ncpfs."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2343
+#, no-wrap
+msgid "Mount options for nfs and nfs4"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2347
+msgid ""
+"See the options section of the B<nfs>(5)  man page (nfs-utils package must "
+"be installed)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2357
+msgid ""
+"The I<nfs> and I<nfs4> implementation expects a binary argument (a I<struct "
+"nfs_mount_data>)  to the mount system call.  This argument is constructed by "
+"B<mount.nfs>(8)  and the current version of B<mount> (2.13) does not know "
+"anything about nfs and nfs4."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2358
+#, no-wrap
+msgid "Mount options for ntfs"
+msgstr ""
+
+#.  since 2.5.11
+#. type: Plain text
+#: raw/man8/mount.8:2365
+msgid ""
+"Character set to use when returning file names.  Unlike VFAT, NTFS "
+"suppresses names that contain nonconvertible characters.  Deprecated."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2365
+#, no-wrap
+msgid "B<nls=>I<name>"
+msgstr ""
+
+#.  since 2.5.11
+#. type: Plain text
+#: raw/man8/mount.8:2370
+msgid "New name for the option earlier called I<iocharset>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2373
+msgid "Use UTF-8 for converting file names."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2373
+#, no-wrap
+msgid "B<uni_xlate=>{B<0>|B<1>|B<2>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2380
+msgid ""
+"For 0 (or `no' or `false'), do not use escape sequences for unknown Unicode "
+"characters.  For 1 (or `yes' or `true') or 2, use vfat-style 4-byte escape "
+"sequences starting with \":\".  Here 2 give a little-endian encoding and 1 a "
+"byteswapped bigendian encoding."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2380
+#, no-wrap
+msgid "B<posix=[0|1]>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2385
+msgid ""
+"If enabled (posix=1), the filesystem distinguishes between upper and lower "
+"case.  The 8.3 alias names are presented as hard links instead of being "
+"suppressed.  This option is obsolete."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2385
+#, no-wrap
+msgid "B<uid=>\\,I<value>, B<gid=>\\,I<value> and B<umask=>\\,I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2390
+msgid ""
+"Set the file permission on the filesystem.  The umask value is given in "
+"octal.  By default, the files are owned by root and not readable by somebody "
+"else."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2391
+#, no-wrap
+msgid "Mount options for proc"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2395
+msgid "These options are recognized, but have no effect as far as I can see."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2396
+#, no-wrap
+msgid "Mount options for ramfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2400
+msgid ""
+"Ramfs is a memory based filesystem.  Mount it and you have it.  Unmount it "
+"and it is gone.  Present since Linux 2.3.99pre4.  There are no mount options."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2401
+#, no-wrap
+msgid "Mount options for reiserfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2403
+msgid "Reiserfs is a journaling filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2403
+#, no-wrap
+msgid "B<conv>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2408
+msgid ""
+"Instructs version 3.6 reiserfs software to mount a version 3.5 filesystem, "
+"using the 3.6 format for newly created objects.  This filesystem will no "
+"longer be compatible with reiserfs 3.5 tools."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2408
+#, no-wrap
+msgid "B<hash=>{B<rupasov>|B<tea>|B<r5>|B<detect>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2411
+msgid ""
+"Choose which hash function reiserfs will use to find files within "
+"directories."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2412
+#, no-wrap
+msgid "B<rupasov>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2418
+msgid ""
+"A hash invented by Yury Yu. Rupasov.  It is fast and preserves locality, "
+"mapping lexicographically close file names to close hash values.  This "
+"option should not be used, as it causes a high probability of hash "
+"collisions."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2418
+#, no-wrap
+msgid "B<tea>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2424
+msgid ""
+"A Davis-Meyer function implemented by Jeremy Fitzhardinge.  It uses hash "
+"permuting bits in the name.  It gets high randomness and, therefore, low "
+"probability of hash collisions at some CPU cost.  This may be used if "
+"EHASHCOLLISION errors are experienced with the r5 hash."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2424
+#, no-wrap
+msgid "B<r5>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2429
+msgid ""
+"A modified version of the rupasov hash.  It is used by default and is the "
+"best choice unless the filesystem has huge directories and unusual file-name "
+"patterns."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2429
+#, no-wrap
+msgid "B<detect>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2437
+msgid ""
+"Instructs I<mount> to detect which hash function is in use by examining the "
+"filesystem being mounted, and to write this information into the reiserfs "
+"superblock.  This is only useful on the first mount of an old format "
+"filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2438
+#, no-wrap
+msgid "B<hashed_relocation>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2442 raw/man8/mount.8:2446
+msgid ""
+"Tunes the block allocator.  This may provide performance improvements in "
+"some situations."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2442
+#, no-wrap
+msgid "B<no_unhashed_relocation>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2446
+#, no-wrap
+msgid "B<noborder>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2450
+msgid ""
+"Disable the border allocator algorithm invented by Yury Yu. Rupasov.  This "
+"may provide performance improvements in some situations."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2450
+#, no-wrap
+msgid "B<nolog>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2459
+msgid ""
+"Disable journaling.  This will provide slight performance improvements in "
+"some situations at the cost of losing reiserfs's fast recovery from "
+"crashes.  Even with this option turned on, reiserfs still performs all "
+"journaling operations, save for actual writes into its journaling area.  "
+"Implementation of I<nolog> is a work in progress."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2459
+#, no-wrap
+msgid "B<notail>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2465
+msgid ""
+"By default, reiserfs stores small files and `file tails' directly into its "
+"tree.  This confuses some utilities such as B<LILO>(8).  This option is used "
+"to disable packing of files into the tree."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2465
+#, no-wrap
+msgid "B<replayonly>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2470
+msgid ""
+"Replay the transactions which are in the journal, but do not actually mount "
+"the filesystem.  Mainly used by I<reiserfsck>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2470
+#, no-wrap
+msgid "B<resize=>I<number>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2482
+msgid ""
+"A remount option which permits online expansion of reiserfs partitions.  "
+"Instructs reiserfs to assume that the device has I<number> blocks.  This "
+"option is designed for use with devices which are under logical volume "
+"management (LVM).  There is a special I<resizer> utility which can be "
+"obtained from I<ftp://ftp.namesys.com/pub/reiserfsprogs>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2492
+#, no-wrap
+msgid "B<barrier=none> / B<barrier=flush>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2501
+msgid ""
+"This disables / enables the use of write barriers in the journaling code.  "
+"barrier=none disables, barrier=flush enables (default).  This also requires "
+"an IO stack which can support barriers, and if reiserfs gets an error on a "
+"barrier write, it will disable barriers again with a warning.  Write "
+"barriers enforce proper on-disk ordering of journal commits, making volatile "
+"disk write caches safe to use, at some performance penalty.  If your disks "
+"are battery-backed in one way or another, disabling barriers may safely "
+"improve performance."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2502
+#, no-wrap
+msgid "Mount options for romfs"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2505
+#, no-wrap
+msgid "Mount options for squashfs"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2508
+#, no-wrap
+msgid "Mount options for smbfs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2518
+msgid ""
+"Just like I<nfs>, the I<smbfs> implementation expects a binary argument (a "
+"I<struct smb_mount_data>)  to the mount system call.  This argument is "
+"constructed by B<smbmount>(8)  and the current version of B<mount> (2.12) "
+"does not know anything about smbfs."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2519
+#, no-wrap
+msgid "Mount options for sysv"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2522
+#, no-wrap
+msgid "Mount options for tmpfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2523
+#, no-wrap
+msgid "B<size=>I<nbytes>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2530
+msgid ""
+"Override default maximum size of the filesystem.  The size is given in "
+"bytes, and rounded up to entire pages.  The default is half of the memory.  "
+"The size parameter also accepts a suffix % to limit this tmpfs instance to "
+"that percentage of your physical RAM: the default, when neither size nor "
+"nr_blocks is specified, is size=50%"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2530
+#, no-wrap
+msgid "B<nr_blocks=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2533
+msgid "The same as size, but in blocks of PAGE_CACHE_SIZE"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2533
+#, no-wrap
+msgid "B<nr_inodes=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2539
+msgid ""
+"The maximum number of inodes for this instance.  The default is half of the "
+"number of your physical RAM pages, or (on a machine with highmem) the number "
+"of lowmem RAM pages, whichever is the lower."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2551
+msgid ""
+"The tmpfs mount options for sizing (B<size>, B<nr_blocks>, and "
+"B<nr_inodes>)  accept a suffix B<k>, B<m> or B<g> for Ki, Mi, Gi (binary "
+"kilo (kibi), binary mega (mebi) and binary giga (gibi)) and can be changed "
+"on remount."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2552
+#, no-wrap
+msgid "B<mode=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2555
+msgid "Set initial permissions of the root directory."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2555 raw/man8/mount.8:2671
+#, no-wrap
+msgid "B<uid=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2558
+msgid "The user id."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2558 raw/man8/mount.8:2664
+#, no-wrap
+msgid "B<gid=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2561
+msgid "The group id."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2561
+#, no-wrap
+msgid "B<mpol=[default|prefer:Node|bind:NodeList|interleave|interleave:NodeList]>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2566
+msgid ""
+"Set the NUMA memory allocation policy for all files in that instance (if the "
+"kernel CONFIG_NUMA is enabled) \\(en which can be adjusted on the fly via "
+"'mount -o remount \\&...'"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2567
+#, no-wrap
+msgid "B<default>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2570
+msgid "prefers to allocate memory from the local node"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2570
+#, no-wrap
+msgid "B<prefer:Node>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2573
+msgid "prefers to allocate memory from the given Node"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2573
+#, no-wrap
+msgid "B<bind:NodeList>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2576
+msgid "allocates memory only from nodes in NodeList"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2576
+#, no-wrap
+msgid "B<interleave>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2579
+msgid "prefers to allocate from each node in turn"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2579
+#, no-wrap
+msgid "B<interleave:NodeList>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2582
+msgid "allocates from each node of NodeList in turn."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2586
+msgid ""
+"The NodeList format is a comma-separated list of decimal numbers and ranges, "
+"a range being two \"hyphen-minus\"-separated decimal numbers, the smallest "
+"and largest node numbers in the range.  For example, "
+"mpol=bind:0\\(en3,5,7,9\\(en15"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2595
+msgid ""
+"Note that trying to mount a tmpfs with an mpol option will fail if the "
+"running kernel does not support NUMA; and will fail if its nodelist "
+"specifies a node which is not online.  If your system relies on that tmpfs "
+"being mounted, but from time to time runs a kernel built without NUMA "
+"capability (perhaps a safe recovery kernel), or with fewer nodes online, "
+"then it is advisable to omit the mpol option from automatic mount options.  "
+"It can be added later, when the tmpfs is already mounted on MountPoint, by "
+"'mount -o remount,mpol=Policy:NodeList MountPoint'."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2596
+#, no-wrap
+msgid "Mount options for ubifs"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2601
+msgid ""
+"UBIFS is a flash file system which works on top of UBI volumes.  Note that "
+"B<atime> is not supported and is always turned off."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2601
+#, no-wrap
+msgid "The device name may be specified as"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2609
+msgid "B<ubiX_Y> UBI device number B<X>, volume number B<Y>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2609
+#, no-wrap
+msgid "B<ubiY>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2615
+msgid "UBI device number B<0>, volume number B<Y>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2615
+#, no-wrap
+msgid "B<ubiX:NAME>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2621
+msgid "UBI device number B<X>, volume with name B<NAME>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2621
+#, no-wrap
+msgid "B<ubi:NAME>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2627
+msgid "UBI device number B<0>, volume with name B<NAME>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2632
+msgid "Alternative B<!> separator may be used instead of B<:>."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2632
+#, no-wrap
+msgid "The following mount options are available:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2634
+#, no-wrap
+msgid "B<bulk_read>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2640
+msgid ""
+"Enable bulk-read.  VFS read-ahead is disabled because it slows down the file "
+"system.  Bulk-Read is an internal optimization.  Some flashes may read "
+"faster if the data are read at one go, rather than at several read "
+"requests.  For example, OneNAND can do \"read-while-load\" if it reads more "
+"than one NAND page."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2640
+#, no-wrap
+msgid "B<no_bulk_read>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2643
+msgid "Do not bulk-read.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2643
+#, no-wrap
+msgid "B<chk_data_crc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2646
+msgid "Check data CRC-32 checksums.  This is the default."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2646
+#, no-wrap
+msgid "B<no_chk_data_crc>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2652
+msgid ""
+"Do not check data CRC-32 checksums.  With this option, the filesystem does "
+"not check CRC-32 checksum for data, but it does check it for the internal "
+"indexing information.  This option only affects reading, not writing.  "
+"CRC-32 is always calculated when writing the data."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2652
+#, no-wrap
+msgid "B<compr=>{B<none>|B<lzo>|B<zlib>}"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2658
+msgid ""
+"Select the default compressor which is used when new files are written.  It "
+"is still possible to read compressed files if mounted with the B<none> "
+"option."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2659
+#, no-wrap
+msgid "Mount options for udf"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2664
+msgid ""
+"udf is the \"Universal Disk Format\" filesystem defined by the Optical "
+"Storage Technology Association, and is often used for DVD-ROM.  See also "
+"I<iso9660>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2667
+msgid "Set the default group."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2667
+#, no-wrap
+msgid "B<umask=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2671
+msgid "Set the default umask.  The value is given in octal."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2674
+msgid "Set the default user."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2677
+msgid "Show otherwise hidden files."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2677
+#, no-wrap
+msgid "B<undelete>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2680
+msgid "Show deleted files in lists."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2680
+#, no-wrap
+msgid "B<nostrict>"
+msgstr ""
+
+#.  .TP
+#.  .B utf8
+#.  (unused).
+#. type: Plain text
+#: raw/man8/mount.8:2686
+msgid "Unset strict conformance."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2686
+#, no-wrap
+msgid "B<iocharset>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2689
+msgid "Set the NLS character set."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2689
+#, no-wrap
+msgid "B<bs=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2692
+msgid "Set the block size. (May not work unless 2048.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2692
+#, no-wrap
+msgid "B<novrs>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2695
+msgid "Skip volume sequence recognition."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2695
+#, no-wrap
+msgid "B<session=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2698
+msgid "Set the CDROM session counting from 0.  Default: last session."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2698
+#, no-wrap
+msgid "B<anchor=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2701
+msgid "Override standard anchor location.  Default: 256."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2701
+#, no-wrap
+msgid "B<volume=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2704
+msgid "Override the VolumeDesc location. (unused)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2704
+#, no-wrap
+msgid "B<partition=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2707
+msgid "Override the PartitionDesc location. (unused)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2707
+#, no-wrap
+msgid "B<lastblock=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2710
+msgid "Set the last block of the filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2710
+#, no-wrap
+msgid "B<fileset=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2713
+msgid "Override the fileset block location. (unused)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2713
+#, no-wrap
+msgid "B<rootdir=>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2716
+msgid "Override the root directory location. (unused)"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2717
+#, no-wrap
+msgid "Mount options for ufs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2718
+#, no-wrap
+msgid "B<ufstype=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2726
+msgid ""
+"UFS is a filesystem widely used in different operating systems.  The problem "
+"are differences among implementations.  Features of some implementations are "
+"undocumented, so its hard to recognize the type of ufs automatically.  "
+"That's why the user must specify the type of ufs by mount option.  Possible "
+"values are:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2727
+#, no-wrap
+msgid "B<old>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2731
+msgid ""
+"Old format of ufs, this is the default, read only.  (Don't forget to give "
+"the -r option.)"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2731
+#, no-wrap
+msgid "B<44bsd>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2734
+msgid ""
+"For filesystems created by a BSD-like system (NetBSD, FreeBSD, OpenBSD)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2734
+#, no-wrap
+msgid "B<ufs2>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2737
+msgid "Used in FreeBSD 5.x supported as read-write."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2737
+#, no-wrap
+msgid "B<5xbsd>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2740
+msgid "Synonym for ufs2."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2740
+#, no-wrap
+msgid "B<sun>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2743
+msgid "For filesystems created by SunOS or Solaris on Sparc."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2743
+#, no-wrap
+msgid "B<sunx86>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2746
+msgid "For filesystems created by Solaris on x86."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2746
+#, no-wrap
+msgid "B<hp>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2749
+msgid "For filesystems created by HP-UX, read-only."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2749
+#, no-wrap
+msgid "B<nextstep>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2752
+msgid ""
+"For filesystems created by NeXTStep (on NeXT station) (currently read only)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2752
+#, no-wrap
+msgid "B<nextstep-cd>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2755
+msgid "For NextStep CDROMs (block_size == 2048), read-only."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2755
+#, no-wrap
+msgid "B<openstep>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2759
+msgid ""
+"For filesystems created by OpenStep (currently read only).  The same "
+"filesystem type is also used by Mac OS X."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2761
+#, no-wrap
+msgid "B<onerror=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2764
+msgid "Set behavior on error:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2765
+#, no-wrap
+msgid "B<panic>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2768
+msgid "If an error is encountered, cause a kernel panic."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2768
+#, no-wrap
+msgid "[B<lock>|B<umount>|B<repair>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2772
+msgid ""
+"These mount options don't do anything at present; when an error is "
+"encountered only a console message is printed."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2774
+#, no-wrap
+msgid "Mount options for umsdos"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2780
+msgid ""
+"See mount options for msdos.  The B<dotsOK> option is explicitly killed by "
+"I<umsdos>."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2781
+#, no-wrap
+msgid "Mount options for vfat"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2790
+msgid ""
+"First of all, the mount options for I<fat> are recognized.  The B<dotsOK> "
+"option is explicitly killed by I<vfat>.  Furthermore, there are"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2790
+#, no-wrap
+msgid "B<uni_xlate>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2799
+msgid ""
+"Translate unhandled Unicode characters to special escaped sequences.  This "
+"lets you backup and restore filenames that are created with any Unicode "
+"characters.  Without this option, a '?' is used when no translation is "
+"possible.  The escape character is ':' because it is otherwise invalid on "
+"the vfat filesystem.  The escape sequence that gets used, where u is the "
+"Unicode character, is: ':', (u & 0x3f), ((uE<gt>E<gt>6) & 0x3f), "
+"(uE<gt>E<gt>12)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2799
+#, no-wrap
+msgid "B<posix>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2803
+msgid ""
+"Allow two files with names that only differ in case.  This option is "
+"obsolete."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2803
+#, no-wrap
+msgid "B<nonumtail>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2808
+msgid ""
+"First try to make a short name without sequence number, before trying I<name"
+"\\s+3~\\s0num.ext>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2814
+msgid ""
+"UTF8 is the filesystem safe 8-bit encoding of Unicode that is used by the "
+"console.  It can be enabled for the filesystem with this option or disabled "
+"with utf8=0, utf8=no or utf8=false.  If `uni_xlate' gets set, UTF8 gets "
+"disabled."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2814
+#, no-wrap
+msgid "B<shortname=>I<mode>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2819
+msgid ""
+"Defines the behavior for creation and display of filenames which fit into "
+"8.3 characters.  If a long name for a file exists, it will always be the "
+"preferred one for display.  There are four I<mode>s:"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2820
+#, no-wrap
+msgid "B<lower>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2824
+msgid ""
+"Force the short name to lower case upon display; store a long name when the "
+"short name is not all upper case."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2824
+#, no-wrap
+msgid "B<win95>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2828
+msgid ""
+"Force the short name to upper case upon display; store a long name when the "
+"short name is not all upper case."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2828
+#, no-wrap
+msgid "B<winnt>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2832
+msgid ""
+"Display the short name as is; store a long name when the short name is not "
+"all lower case or all upper case."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2832
+#, no-wrap
+msgid "B<mixed>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2836
+msgid ""
+"Display the short name as is; store a long name when the short name is not "
+"all upper case.  This mode is the default since Linux 2.6.32."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2839
+#, no-wrap
+msgid "Mount options for usbfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2840
+#, no-wrap
+msgid "B<devuid=>\\,I<uid> and B<devgid=>\\,I<gid> and B<devmode=>\\,I<mode>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2844
+msgid ""
+"Set the owner and group and mode of the device files in the usbfs filesystem "
+"(default: uid=gid=0, mode=0644).  The mode is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2844
+#, no-wrap
+msgid "B<busuid=>\\,I<uid> and B<busgid=>\\,I<gid> and B<busmode=>\\,I<mode>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2848
+msgid ""
+"Set the owner and group and mode of the bus directories in the usbfs "
+"filesystem (default: uid=gid=0, mode=0555).  The mode is given in octal."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2848
+#, no-wrap
+msgid "B<listuid=>\\,I<uid> and B<listgid=>\\,I<gid> and B<listmode=>\\,I<mode>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2853
+msgid ""
+"Set the owner and group and mode of the file I<devices> (default: uid=gid=0, "
+"mode=0444).  The mode is given in octal."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2854
+#, no-wrap
+msgid "Mount options for xenix"
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:2857
+#, no-wrap
+msgid "Mount options for xfs"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2858
+#, no-wrap
+msgid "B<allocsize=>I<size>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2864
+msgid ""
+"Sets the buffered I/O end-of-file preallocation size when doing delayed "
+"allocation writeout.  Valid values for this option are page size (typically "
+"4KiB) through to 1GiB, inclusive, in power-of-2 increments."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2871
+msgid ""
+"The default behavior is for dynamic end-of-file preallocation size, which "
+"uses a set of heuristics to optimise the preallocation size based on the "
+"current allocation patterns within the file and the access patterns to the "
+"file.  Specifying a fixed allocsize value turns off the dynamic behavior."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2871
+#, no-wrap
+msgid "B<attr2>|B<noattr2>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2879
+msgid ""
+"The options enable/disable an \"opportunistic\" improvement to be made in "
+"the way inline extended attributes are stored on-disk.  When the new form is "
+"used for the first time when attr2 is selected (either when setting or "
+"removing extended attributes) the on-disk superblock feature bit field will "
+"be updated to reflect this format being in use."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2884
+msgid ""
+"The default behavior is determined by the on-disk feature bit indicating "
+"that attr2 behavior is active.  If either mount option it set, then that "
+"becomes the new default used by the filesystem."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2887
+msgid ""
+"CRC enabled filesystems always use the attr2 format, and so will reject the "
+"noattr2 mount option if it is set."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2887
+#, no-wrap
+msgid "B<barrier>|B<nobarrier>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2893
+msgid ""
+"Enables/disables the use of block layer write barriers for writes into the "
+"journal and for data integrity operations.  This allows for drive level "
+"write caching to be enabled, for devices that support write barriers."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2893
+#, no-wrap
+msgid "B<discard>|B<nodiscard>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2899
+msgid ""
+"Enable/disable the issuing of commands to let the block device reclaim space "
+"freed by the filesystem.  This is useful for SSD devices, thinly provisioned "
+"LUNs and virtual machine images, but may have a performance impact."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2904
+msgid ""
+"Note: It is currently recommended that you use the fstrim application to "
+"discard unused blocks rather than the discard mount option because the "
+"performance impact of this option is quite severe."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2904
+#, no-wrap
+msgid "B<grpid>|B<bsdgroups>|B<nogrpid>|B<sysvgroups>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2913
+msgid ""
+"These options define what group ID a newly created file gets.  When grpid is "
+"set, it takes the group ID of the directory in which it is created; "
+"otherwise it takes the fsgid of the current process, unless the directory "
+"has the setgid bit set, in which case it takes the gid from the parent "
+"directory, and also gets the setgid bit set if it is a directory itself."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2913
+#, no-wrap
+msgid "B<filestreams>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2918
+msgid ""
+"Make the data allocator use the filestreams allocation mode across the "
+"entire filesystem rather than just on directories configured to use it."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2918
+#, no-wrap
+msgid "B<ikeep>|B<noikeep>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2924
+msgid ""
+"When ikeep is specified, XFS does not delete empty inode clusters and keeps "
+"them around on disk.  When noikeep is specified, empty inode clusters are "
+"returned to the free space pool."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2924
+#, no-wrap
+msgid "B<inode32>|B<inode64>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2929
+msgid ""
+"When inode32 is specified, it indicates that XFS limits inode creation to "
+"locations which will not result in inode numbers with more than 32 bits of "
+"significance."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2934
+msgid ""
+"When inode64 is specified, it indicates that XFS is allowed to create inodes "
+"at any location in the filesystem, including those which will result in "
+"inode numbers occupying more than 32 bits of significance."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2941
+msgid ""
+"inode32 is provided for backwards compatibility with older systems and "
+"applications, since 64 bits inode numbers might cause problems for some "
+"applications that cannot handle large inode numbers.  If applications are in "
+"use which do not handle inode numbers bigger than 32 bits, the inode32 "
+"option should be specified."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2941
+#, no-wrap
+msgid "B<largeio>|B<nolargeio>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2948
+msgid ""
+"If \"nolargeio\" is specified, the optimal I/O reported in st_blksize by "
+"stat(2) will be as small as possible to allow user applications to avoid "
+"inefficient read/modify/write I/O.  This is typically the page size of the "
+"machine, as this is the granularity of the page cache."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2955
+msgid ""
+"If \"largeio\" specified, a filesystem that was created with a \"swidth\" "
+"specified will return the \"swidth\" value (in bytes)  in st_blksize.  If "
+"the filesystem does not have a \"swidth\" specified but does specify an "
+"\"allocsize\" then \"allocsize\" (in bytes) will be returned instead.  "
+"Otherwise the behavior is the same as if \"nolargeio\" was specified."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2955
+#, no-wrap
+msgid "B<logbufs=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2959
+msgid ""
+"Set the number of in-memory log buffers.  Valid numbers range from 2\\(en8 "
+"inclusive."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2961
+msgid "The default value is 8 buffers."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2967
+msgid ""
+"If the memory cost of 8 log buffers is too high on small systems, then it "
+"may be reduced at some cost to performance on metadata intensive workloads.  "
+"The logbsize option below controls the size of each buffer and so is also "
+"relevant to this case."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2967
+#, no-wrap
+msgid "B<logbsize=>I<value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2976
+msgid ""
+"Set the size of each in-memory log buffer.  The size may be specified in "
+"bytes, or in kibibytes (KiB) with a \"k\" suffix.  Valid sizes for version 1 "
+"and version 2 logs are 16384 (value=16k)  and 32768 (value=32k).  Valid "
+"sizes for version 2 logs also include 65536 (value=64k), 131072 (value=128k) "
+"and 262144 (value=256k).  The logbsize must be an integer multiple of the "
+"log stripe unit configured at mkfs time."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2979
+msgid ""
+"The default value for version 1 logs is 32768, while the default value for "
+"version 2 logs is MAX(32768, log_sunit)."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2979
+#, no-wrap
+msgid "B<logdev=>I<device >and B<rtdev=>I<device>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2986
+msgid ""
+"Use an external log (metadata journal) and/or real-time device.  An XFS "
+"filesystem has up to three parts: a data section, a log section, and a real-"
+"time section.  The real-time section is optional, and the log section can be "
+"separate from the data section or contained within it."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2986
+#, no-wrap
+msgid "B<noalign>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:2992
+msgid ""
+"Data allocations will not be aligned at stripe unit boundaries.  This is "
+"only relevant to filesystems created with non-zero data alignment parameters "
+"(sunit, swidth) by mkfs."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:2992
+#, no-wrap
+msgid "B<norecovery>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3000
+msgid ""
+"The filesystem will be mounted without running log recovery.  If the "
+"filesystem was not cleanly unmounted, it is likely to be inconsistent when "
+"mounted in \"norecovery\" mode.  Some files or directories may not be "
+"accessible because of this.  Filesystems mounted \"norecovery\" must be "
+"mounted read-only or the mount will fail."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3000
+#, no-wrap
+msgid "B<nouuid>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3006
+msgid ""
+"Don't check for double mounted file systems using the file system uuid.  "
+"This is useful to mount LVM snapshot volumes, and often used in combination "
+"with \"norecovery\" for mounting read-only snapshots."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3006
+#, no-wrap
+msgid "B<noquota>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3010
+msgid ""
+"Forcibly turns off all quota accounting and enforcement within the "
+"filesystem."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3010
+#, no-wrap
+msgid "B<uquota/usrquota/uqnoenforce/quota>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3014
+msgid ""
+"User disk quota accounting enabled, and limits (optionally)  enforced.  "
+"Refer to xfs_quota(8) for further details."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3014
+#, no-wrap
+msgid "B<gquota/grpquota/gqnoenforce>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3018
+msgid ""
+"Group disk quota accounting enabled and limits (optionally)  enforced.  "
+"Refer to xfs_quota(8) for further details."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3018
+#, no-wrap
+msgid "B<pquota/prjquota/pqnoenforce>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3022
+msgid ""
+"Project disk quota accounting enabled and limits (optionally)  enforced.  "
+"Refer to xfs_quota(8) for further details."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3022
+#, no-wrap
+msgid "B<sunit=>I<value >and B<swidth>I<=value>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3028
+msgid ""
+"Used to specify the stripe unit and width for a RAID device or a stripe "
+"volume.  \"value\" must be specified in 512-byte block units.  These options "
+"are only relevant to filesystems that were created with non-zero data "
+"alignment parameters."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3034
+msgid ""
+"The sunit and swidth parameters specified must be compatible with the "
+"existing filesystem alignment characteristics.  In general, that means the "
+"only valid changes to sunit are increasing it by a power-of-2 multiple.  "
+"Valid swidth values are any integer multiple of a valid sunit value."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3039
+msgid ""
+"Typically the only time these mount options are necessary if after an "
+"underlying RAID device has had it's geometry modified, such as adding a new "
+"disk to a RAID5 lun and reshaping it."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3039
+#, no-wrap
+msgid "B<swalloc>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3044
+msgid ""
+"Data allocations will be rounded up to stripe width boundaries when the "
+"current end of file is being extended and the file size is larger than the "
+"stripe width size."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3044
+#, no-wrap
+msgid "B<wsync>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3053
+msgid ""
+"When specified, all filesystem namespace operations are executed "
+"synchronously.  This ensures that when the namespace operation (create, "
+"unlink, etc) completes, the change to the namespace is on stable storage.  "
+"This is useful in HA setups where failover must not result in clients seeing "
+"inconsistent namespace presentation during or after a failover event."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:3054
+#, no-wrap
+msgid "THE LOOP DEVICE"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3057
+msgid ""
+"One further possible type is a mount via the loop device.  For example, the "
+"command"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3060
+msgid "B<mount /tmp/disk.img /mnt -t vfat -o loop=/dev/loop3>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3068
+msgid ""
+"will set up the loop device I</dev/loop3> to correspond to the file I</tmp/"
+"disk.img>, and then mount this device on I</mnt>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3073
+msgid ""
+"If no explicit loop device is mentioned (but just an option `B<-o loop>' is "
+"given), then B<mount> will try to find some unused loop device and use that, "
+"for example"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3076
+msgid "B<mount /tmp/disk.img /mnt -o loop>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3082
+msgid ""
+"The mount command B<automatically> creates a loop device from a regular file "
+"if a filesystem type is not specified or the filesystem is known for "
+"libblkid, for example:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3085
+msgid "B<mount /tmp/disk.img /mnt>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3087
+msgid "B<mount -t ext3 /tmp/disk.img /mnt>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3095
+msgid ""
+"This type of mount knows about three options, namely B<loop>, B<offset> and "
+"B<sizelimit>, that are really options to B<\\%losetup>(8).  (These options "
+"can be used in addition to those specific to the filesystem type.)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3103
+msgid ""
+"Since Linux 2.6.25 auto-destruction of loop devices is supported, meaning "
+"that any loop device allocated by B<mount> will be freed by B<umount> "
+"independently of I</etc/mtab>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3106
+msgid ""
+"You can also free a loop device by hand, using B<losetup -d >orB< umount -d>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3110
+msgid "B<mount> has the following return codes (the bits can be ORed):"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3116
+msgid "incorrect invocation or permissions"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3119
+msgid "system error (out of memory, cannot fork, no more loop devices)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3124
+msgid "internal B<mount> bug"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3127
+msgid "user interrupt"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3130
+msgid "problems writing or locking /etc/mtab"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3133
+msgid "mount failure"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3133 raw/man8/chcpu.8:89 raw/man1/kill.1:143
+#: raw/man1/rename.1:74
+#, no-wrap
+msgid "B<64>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3136
+msgid "some mount succeeded"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3140
+msgid ""
+"The command B<mount -a> returns 0 (all succeeded), 32 (all failed), or 64 "
+"(some failed, some succeeded)."
+msgstr ""
+
+#. type: SH
+#: raw/man8/mount.8:3141 raw/man8/umount.8:154
+#, no-wrap
+msgid "EXTERNAL HELPERS"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3143
+msgid "The syntax of external mount helpers is:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3152
+msgid ""
+"B</sbin/mount.>I<suffix> I<spec dir> [B<-sfnv>] [B<-o> I<options>] [B<-t> "
+"I<type>B<.>I<subtype>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3158
+msgid ""
+"where the I<suffix> is the filesystem type and the B<-sfnvo> options have "
+"the same meaning as the normal mount options.  The B<-t> option is used for "
+"filesystems with subtypes support (for example B</sbin/mount.fuse -t fuse."
+"sshfs>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3178
+msgid ""
+"The command B<mount> does not pass the mount options B<unbindable>, "
+"B<runbindable>, B<private>, B<rprivate>, B<slave>, B<rslave>, B<shared>, "
+"B<rshared>, B<auto>, B<noauto>, B<comment>, B<x-*>, B<loop>, B<offset> and "
+"B<sizelimit> to the mount.E<lt>suffixE<gt> helpers.  All other options are "
+"used in a comma-separated list as argument to the B<-o> option."
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3180
+#, no-wrap
+msgid "I</etc/fstab>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3183
+msgid "filesystem table"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3183
+#, no-wrap
+msgid "I</etc/mtab>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3186 raw/man8/umount.8:186
+msgid "table of mounted filesystems"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3186
+#, no-wrap
+msgid "I</etc/mtab\\s+3~\\s0>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3189
+msgid "lock file"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3189
+#, no-wrap
+msgid "I</etc/mtab.tmp>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3192
+msgid "temporary file"
+msgstr ""
+
+#. type: TP
+#: raw/man8/mount.8:3192
+#, no-wrap
+msgid "I</etc/filesystems>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3195
+msgid "a list of filesystem types to try"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3198 raw/man8/umount.8:192
+msgid "overrides the default location of the fstab file (ignored for suid)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3200 raw/man8/umount.8:194
+msgid "overrides the default location of the mtab file (ignored for suid)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3204
+msgid "enables libblkid debug output"
+msgstr ""
+
+#. type: IP
+#: raw/man8/mount.8:3204 raw/man8/losetup.8:177
+#, no-wrap
+msgid "LOOPDEV_DEBUG=all"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3206
+msgid "enables loop device setup debug output"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3222
+msgid ""
+"B<mount>(2), B<umount>(2), B<fstab>(5), B<umount>(8), B<swapon>(8), "
+"B<findmnt>(8), B<nfs>(5), B<xfs>(5), B<e2label>(8), B<xfs_admin>(8), "
+"B<mountd>(8), B<nfsd>(8), B<mke2fs>(8), B<tune2fs>(8), B<losetup>(8)"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3224
+msgid "It is possible for a corrupted filesystem to cause a crash."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3232
+msgid ""
+"Some Linux filesystems don't support B<-o sync and -o dirsync> (the ext2, "
+"ext3, fat and vfat filesystems I<do> support synchronous updates (a la BSD) "
+"when mounted with the B<sync> option)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3245
+msgid ""
+"The B<-o remount> may not be able to change mount parameters (all I<ext2fs>-"
+"specific parameters, except B<sb>, are changeable with a remount, for "
+"example, but you can't change B<gid> or B<umask> for the I<fatfs>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3258
+msgid ""
+"It is possible that files I</etc/mtab> and I</proc/mounts> don't match on "
+"systems with regular mtab file. The first file is based only on the mount "
+"command options, but the content of the second file also depends on the "
+"kernel and others settings (e.g.\\& remote NFS server.  In particular case "
+"the mount command may reports unreliable information about a NFS mount point "
+"and the /proc/mounts file usually contains more reliable information.) This "
+"is another reason to replace mtab file with symlink to the I</proc/mounts> "
+"file."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3265
+msgid ""
+"Checking files on NFS filesystem referenced by file descriptors (i.e.\\& the "
+"B<fcntl> and B<ioctl> families of functions) may lead to inconsistent result "
+"due to the lack of consistency check in kernel even if noac is used."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3281
+msgid ""
+"The B<loop> option with the B<offset> or B<sizelimit> options used may fail "
+"when using older kernels if the B<mount> command can't confirm that the size "
+"of the block device has been configured as requested.  This situation can be "
+"worked around by using the B<losetup> command manually before calling "
+"B<mount> with the configured loop device."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3285
+msgid "A B<mount> command existed in Version 5 AT&T UNIX."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/mount.8:3291
+msgid ""
+"The mount command is part of the util-linux package and is available from "
+"ftp://ftp.kernel.org/pub/linux/utils/util-linux/."
+msgstr ""

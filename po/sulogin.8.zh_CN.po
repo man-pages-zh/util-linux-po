@@ -1,0 +1,330 @@
+# Chinese translations for PACKAGE package
+# Copyright (C) 2015 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-06-07 15:06+0800\n"
+"PO-Revision-Date: 2015-06-07 15:06+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/uuidd.8:5 raw/man1/kill.1:4 raw/man1/tailf.1:24
+#: raw/man1/runuser.1:1 raw/man1/mesg.1:34 raw/man1/flock.1:27
+#: raw/man1/chfn.1:9 raw/man1/chsh.1:9 raw/man1/setsid.1:3 raw/man1/col.1:37
+#: raw/man1/pg.1:2
+#, no-wrap
+msgid "July 2014"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5 raw/man5/terminal-colors.d.5:6 raw/man5/fstab.5:34
+#: raw/man1/hexdump.1:34 raw/man1/kill.1:4 raw/man1/tailf.1:24
+#: raw/man1/rename.1:4 raw/man1/login.1:3 raw/man1/setterm.1:7
+#: raw/man1/colrm.1:34 raw/man1/runuser.1:1 raw/man1/nsenter.1:1
+#: raw/man1/mesg.1:34 raw/man1/write.1:37 raw/man1/flock.1:27
+#: raw/man1/taskset.1:23 raw/man1/chfn.1:9 raw/man1/line.1:2 raw/man1/chsh.1:9
+#: raw/man1/setsid.1:3 raw/man1/col.1:37 raw/man1/scriptreplay.1:1
+#: raw/man1/ionice.1:1 raw/man1/colcrt.1:34 raw/man1/newgrp.1:3
+#: raw/man1/last-deprecated.1:1 raw/man1/chrt.1:23 raw/man1/rev.1:34
+#: raw/man1/dmesg.1:3 raw/man1/pg.1:2 raw/man1/look.1:34
+#: raw/man1/fallocate.1:1 raw/man1/logger.1:34
+#, no-wrap
+msgid "util-linux"
+msgstr ""
+
+#. type: TH
+#: raw/man8/rtcwake.8:19 raw/man8/blkdiscard.8:1 raw/man8/sulogin.8:18
+#: raw/man8/isosize.8:1 raw/man8/tunelp.8:7 raw/man8/fsck.minix.8:3
+#: raw/man8/fdisk.8:6 raw/man8/findmnt.8:1 raw/man8/uuidd.8:5
+#: raw/man8/addpart.8:5
+#, no-wrap
+msgid "System Administration"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:20 raw/man8/blkdiscard.8:2 raw/man8/sulogin.8:19
+#: raw/man8/isosize.8:2 raw/man8/tunelp.8:8 raw/man8/fsck.minix.8:4
+#: raw/man8/fdisk.8:8 raw/man8/findmnt.8:2 raw/man8/uuidd.8:6
+#: raw/man8/addpart.8:6 raw/man5/hwclock.5:2 raw/man5/terminal-colors.d.5:7
+#: raw/man5/fstab.5:35 raw/man1/hexdump.1:35 raw/man1/kill.1:5
+#: raw/man1/tailf.1:25 raw/man1/rename.1:5 raw/man1/login.1:4
+#: raw/man1/setterm.1:8 raw/man1/colrm.1:35 raw/man1/runuser.1:2
+#: raw/man1/nsenter.1:2 raw/man1/mesg.1:35 raw/man1/write.1:38
+#: raw/man1/flock.1:28 raw/man1/taskset.1:24 raw/man1/chfn.1:10
+#: raw/man1/line.1:3 raw/man1/chsh.1:10 raw/man1/setsid.1:4 raw/man1/col.1:38
+#: raw/man1/scriptreplay.1:2 raw/man1/ionice.1:2 raw/man1/colcrt.1:35
+#: raw/man1/newgrp.1:4 raw/man1/last-deprecated.1:2 raw/man1/chrt.1:24
+#: raw/man1/rev.1:35 raw/man1/dmesg.1:4 raw/man1/pg.1:3 raw/man1/look.1:35
+#: raw/man1/fallocate.1:2 raw/man1/logger.1:35
+#, no-wrap
+msgid "NAME"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:22 raw/man8/blkdiscard.8:4 raw/man8/sulogin.8:21
+#: raw/man8/isosize.8:4 raw/man8/tunelp.8:10 raw/man8/fsck.minix.8:6
+#: raw/man8/fdisk.8:11 raw/man8/findmnt.8:4 raw/man8/uuidd.8:8
+#: raw/man8/addpart.8:8 raw/man5/terminal-colors.d.5:9 raw/man5/fstab.5:37
+#: raw/man1/hexdump.1:37 raw/man1/kill.1:7 raw/man1/tailf.1:27
+#: raw/man1/rename.1:7 raw/man1/login.1:6 raw/man1/setterm.1:10
+#: raw/man1/colrm.1:37 raw/man1/runuser.1:4 raw/man1/nsenter.1:4
+#: raw/man1/mesg.1:37 raw/man1/write.1:40 raw/man1/flock.1:30
+#: raw/man1/taskset.1:26 raw/man1/chfn.1:12 raw/man1/line.1:5
+#: raw/man1/chsh.1:12 raw/man1/setsid.1:6 raw/man1/col.1:40
+#: raw/man1/scriptreplay.1:4 raw/man1/ionice.1:4 raw/man1/colcrt.1:37
+#: raw/man1/newgrp.1:6 raw/man1/last-deprecated.1:4 raw/man1/chrt.1:26
+#: raw/man1/rev.1:37 raw/man1/dmesg.1:6 raw/man1/pg.1:5 raw/man1/look.1:37
+#: raw/man1/fallocate.1:4 raw/man1/logger.1:37
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:30 raw/man8/blkdiscard.8:13 raw/man8/sulogin.8:24
+#: raw/man8/isosize.8:7 raw/man8/tunelp.8:14 raw/man8/fsck.minix.8:10
+#: raw/man8/fdisk.8:19 raw/man8/findmnt.8:18 raw/man8/uuidd.8:11
+#: raw/man8/addpart.8:11 raw/man5/hwclock.5:4 raw/man5/terminal-colors.d.5:11
+#: raw/man5/fstab.5:39 raw/man1/hexdump.1:40 raw/man1/kill.1:20
+#: raw/man1/tailf.1:31 raw/man1/rename.1:11 raw/man1/login.1:21
+#: raw/man1/setterm.1:13 raw/man1/colrm.1:40 raw/man1/runuser.1:11
+#: raw/man1/nsenter.1:9 raw/man1/mesg.1:41 raw/man1/write.1:44
+#: raw/man1/flock.1:42 raw/man1/taskset.1:35 raw/man1/chfn.1:25
+#: raw/man1/line.1:7 raw/man1/chsh.1:20 raw/man1/setsid.1:11 raw/man1/col.1:43
+#: raw/man1/scriptreplay.1:11 raw/man1/ionice.1:39 raw/man1/colcrt.1:41
+#: raw/man1/newgrp.1:9 raw/man1/last-deprecated.1:20 raw/man1/chrt.1:35
+#: raw/man1/rev.1:41 raw/man1/dmesg.1:19 raw/man1/pg.1:14 raw/man1/look.1:41
+#: raw/man1/fallocate.1:22 raw/man1/logger.1:41
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:45 raw/man8/blkdiscard.8:30 raw/man8/sulogin.8:43
+#: raw/man8/isosize.8:14 raw/man8/tunelp.8:20 raw/man8/fsck.minix.8:52
+#: raw/man8/fdisk.8:47 raw/man8/findmnt.8:39 raw/man8/uuidd.8:18
+#: raw/man5/hwclock.5:14 raw/man1/hexdump.1:46 raw/man1/kill.1:73
+#: raw/man1/rename.1:17 raw/man1/login.1:89 raw/man1/setterm.1:24
+#: raw/man1/colrm.1:55 raw/man1/runuser.1:51 raw/man1/nsenter.1:61
+#: raw/man1/mesg.1:69 raw/man1/flock.1:62 raw/man1/taskset.1:71
+#: raw/man1/chfn.1:53 raw/man1/chsh.1:31 raw/man1/setsid.1:14
+#: raw/man1/col.1:55 raw/man1/scriptreplay.1:44 raw/man1/ionice.1:83
+#: raw/man1/colcrt.1:47 raw/man1/last-deprecated.1:42 raw/man1/chrt.1:58
+#: raw/man1/rev.1:46 raw/man1/dmesg.1:24 raw/man1/pg.1:35 raw/man1/look.1:65
+#: raw/man1/fallocate.1:33 raw/man1/logger.1:48
+#, no-wrap
+msgid "OPTIONS"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/rtcwake.8:132 raw/man8/blkdiscard.8:70 raw/man8/sulogin.8:71
+#: raw/man8/fdisk.8:120 raw/man1/hexdump.1:123 raw/man1/tailf.1:52
+#: raw/man1/rename.1:27 raw/man1/login.1:136 raw/man1/colrm.1:59
+#: raw/man1/runuser.1:144 raw/man1/nsenter.1:160 raw/man1/mesg.1:76
+#: raw/man1/flock.1:112 raw/man1/taskset.1:86 raw/man1/chfn.1:72
+#: raw/man1/chsh.1:46 raw/man1/setsid.1:26 raw/man1/col.1:85
+#: raw/man1/scriptreplay.1:67 raw/man1/ionice.1:116 raw/man1/colcrt.1:66
+#: raw/man1/chrt.1:109 raw/man1/rev.1:50 raw/man1/dmesg.1:189
+#: raw/man1/look.1:85 raw/man1/fallocate.1:109 raw/man1/logger.1:223
+msgid "Display version information and exit."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/rtcwake.8:135 raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:69
+#: raw/man8/findmnt.8:84 raw/man1/hexdump.1:126 raw/man1/tailf.1:55
+#: raw/man1/rename.1:30 raw/man1/colrm.1:62 raw/man1/runuser.1:147
+#: raw/man1/nsenter.1:163 raw/man1/mesg.1:79 raw/man1/flock.1:115
+#: raw/man1/taskset.1:89 raw/man1/chfn.1:69 raw/man1/chsh.1:43
+#: raw/man1/setsid.1:29 raw/man1/col.1:88 raw/man1/scriptreplay.1:70
+#: raw/man1/ionice.1:109 raw/man1/colcrt.1:69 raw/man1/chrt.1:112
+#: raw/man1/rev.1:53 raw/man1/dmesg.1:192 raw/man1/pg.1:95 raw/man1/look.1:88
+#: raw/man1/fallocate.1:112 raw/man1/logger.1:226
+msgid "Display help text and exit."
+msgstr ""
+
+#. type: SH
+#: raw/man8/rtcwake.8:155 raw/man8/blkdiscard.8:79 raw/man8/sulogin.8:87
+#: raw/man8/isosize.8:35 raw/man8/tunelp.8:142 raw/man8/fsck.minix.8:131
+#: raw/man8/fdisk.8:337 raw/man8/findmnt.8:264 raw/man8/uuidd.8:90
+#: raw/man8/addpart.8:38 raw/man5/terminal-colors.d.5:186 raw/man5/fstab.5:245
+#: raw/man1/hexdump.1:375 raw/man1/kill.1:166 raw/man1/tailf.1:65
+#: raw/man1/rename.1:81 raw/man1/login.1:330 raw/man1/setterm.1:276
+#: raw/man1/colrm.1:71 raw/man1/runuser.1:230 raw/man1/nsenter.1:170
+#: raw/man1/mesg.1:107 raw/man1/write.1:99 raw/man1/flock.1:181
+#: raw/man1/taskset.1:125 raw/man1/chfn.1:79 raw/man1/line.1:15
+#: raw/man1/chsh.1:62 raw/man1/setsid.1:33 raw/man1/col.1:154
+#: raw/man1/scriptreplay.1:107 raw/man1/ionice.1:138 raw/man1/colcrt.1:101
+#: raw/man1/newgrp.1:32 raw/man1/last-deprecated.1:60 raw/man1/chrt.1:156
+#: raw/man1/rev.1:55 raw/man1/dmesg.1:241 raw/man1/pg.1:236
+#: raw/man1/look.1:116 raw/man1/fallocate.1:124 raw/man1/logger.1:288
+#, no-wrap
+msgid "AVAILABILITY"
+msgstr ""
+
+#. type: SH
+#: raw/man8/blkdiscard.8:73 raw/man8/sulogin.8:83 raw/man8/fsck.minix.8:115
+#: raw/man8/uuidd.8:83 raw/man5/hwclock.5:35 raw/man1/tailf.1:56
+#: raw/man1/login.1:314 raw/man1/nsenter.1:166 raw/man1/flock.1:170
+#: raw/man1/taskset.1:119 raw/man1/chfn.1:77 raw/man1/chsh.1:60
+#: raw/man1/setsid.1:31 raw/man1/scriptreplay.1:92 raw/man1/newgrp.1:28
+#: raw/man1/chrt.1:150
+#, no-wrap
+msgid "AUTHOR"
+msgstr ""
+
+#. type: TH
+#: raw/man8/sulogin.8:18
+#, no-wrap
+msgid "SULOGIN"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:21
+msgid "sulogin - single-user login"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:24
+msgid "B<sulogin> [options] [I<tty>]"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:29
+msgid ""
+"B<sulogin> is invoked by B<init> when the system goes into single-user mode."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:31
+msgid "The user is prompted:"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:33
+msgid "Give root password for system maintenance"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:35
+msgid "(or type Control-D for normal startup):"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:40
+msgid ""
+"B<sulogin> will be connected to the current terminal, or to the optional "
+"I<tty> device that can be specified on the command line (typically B</dev/"
+"console>)."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:43
+msgid ""
+"When the user exits from the single-user shell, or presses control-D at the "
+"prompt, the system will continue to boot."
+msgstr ""
+
+#. type: IP
+#: raw/man8/sulogin.8:44
+#, no-wrap
+msgid "B<-e>, B<--force>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:54
+msgid ""
+"If the default method of obtaining the root password from the system via "
+"B<getpwnam>(3)  fails, then examine I</etc/passwd> and I</etc/shadow> to get "
+"the password.  If these files are damaged or nonexistent, B<sulogin> will "
+"start a root shell without asking for a password."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:59
+msgid ""
+"Only use the B<-e> option if you are sure the console is physically "
+"protected against unauthorized access."
+msgstr ""
+
+#. type: IP
+#: raw/man8/sulogin.8:59
+#, no-wrap
+msgid "B<-p>, B<--login-shell>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:63
+msgid ""
+"Specifying this option causes B<sulogin> to start the shell process as a "
+"login shell."
+msgstr ""
+
+#. type: IP
+#: raw/man8/sulogin.8:63
+#, no-wrap
+msgid "B<-t>, B<--timeout >I<seconds>"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:67
+msgid ""
+"Specify the maximum amount of time to wait for user input.  By default, "
+"B<sulogin> will wait forever."
+msgstr ""
+
+#. type: TP
+#: raw/man8/sulogin.8:67 raw/man8/fdisk.8:62 raw/man1/tailf.1:52
+#: raw/man1/colrm.1:59 raw/man1/nsenter.1:160 raw/man1/colcrt.1:66
+#: raw/man1/rev.1:50
+#, no-wrap
+msgid "B<-h>, B<--help>"
+msgstr ""
+
+#. type: TP
+#: raw/man8/sulogin.8:69 raw/man8/fdisk.8:117 raw/man1/tailf.1:49
+#: raw/man1/colrm.1:56 raw/man1/nsenter.1:157 raw/man1/col.1:82
+#: raw/man1/colcrt.1:63 raw/man1/rev.1:47
+#, no-wrap
+msgid "B<-V>, B<--version>"
+msgstr ""
+
+#. type: SH
+#: raw/man8/sulogin.8:71 raw/man1/pg.1:199
+#, no-wrap
+msgid "ENVIRONMENT VARIABLES"
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:83
+msgid ""
+"B<sulogin> looks for the environment variable B<SUSHELL> or B<sushell> to "
+"determine what shell to start.  If the environment variable is not set, it "
+"will try to execute root's shell from I</etc/passwd>.  If that fails, it "
+"will fall back to I</bin/sh>."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:87
+msgid ""
+"B<sulogin> was written by Miquel van Smoorenburg for sysvinit and later "
+"ported to util-linux by Dave Reisner and Karel Zak."
+msgstr ""
+
+#. type: Plain text
+#: raw/man8/sulogin.8:91
+msgid ""
+"The sulogin command is part of the util-linux package and is available from "
+"E<.UR ftp://\\:ftp.kernel.org\\:/pub\\:/linux\\:/utils\\:/util-linux/> Linux "
+"Kernel Archive E<.UE .>"
+msgstr ""
